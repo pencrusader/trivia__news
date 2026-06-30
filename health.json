@@ -1,8 +1,8 @@
 {
-  "cpu_temp_c": 43.3,
+  "cpu_temp_c": 41.4,
   "disk_free_gb": 86,
-  "ram_free_mb": 5611,
-  "uptime_hours": 52.9,
-  "last_brief_status": "failed",
-  "timestamp": "2026-06-29T23:59:15Z"
+  "ram_free_mb": 5615,
+  "uptime_hours": 65.4,
+  "last_brief_status": "ok",
+  "timestamp": "2026-06-30T12:30:06Z"
 }

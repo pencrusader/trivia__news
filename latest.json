@@ -1,43 +1,403 @@
 {
-  "date": "2026-06-29",
+  "date": "2026-06-30",
   "sections": {
-    "tech": [
-      "Why did this journal retract two 1940s papers by Max Planck?",
-      "Apple and Audi alumni have made a luxe EV based on the moon buggy",
-      "South Korea plans to train entire military as \"drone warriors\"",
-      "Doctors suspected man had brain cancer. He actually had worms.",
-      "Streaming services’ obnoxiously loud ads become illegal on July 1 in California"
-    ],
-    "business": [
-      "IRMAA hits retirees two years after property sale",
-      "SpaceX Stock Will Join The Nasdaq-100 Index On July 7",
-      "The driver who hit me has the same insurer as me. Now I see the same guy is representing both of us — how is this fair?",
-      "Figma (FIG): The Best New Stock to Buy Other Than SpaceX",
-      "Firefly Aerospace (FLY) to Acquire Space-ng for Autonomous Navigation Capabilities"
-    ],
     "global_macro": [
-      "Comcast soars 23% after announcing it will spin off media and tech wings into separate public companies",
-      "Putin’s fuel shortage admission signals growing strain on Russia’s energy infrastructure",
-      "SpaceX's $25 billion bond sale drives huge demand - and a potential headache for investors",
-      "Trump bought as much as $5 million in Axon stock before ICE sought $220 million Taser deal",
-      "Oil prices rise as U.S. and Iran reach deal to halt attacks; U.S. crude back above $70"
-    ],
-    "science": [
-      "These tiny soil microbes could rescue crops from salty farmland",
-      "Astronomers found two rare super puff planets lighter than cotton candy",
-      "Einstein Probe may have caught a black hole tearing apart a white dwarf for the first time",
-      "They knew the pill was fake but their memory still improved",
-      "Hawaii is turning ocean plastic and fishing nets into roads"
+      "Mag 7 value shrinks by $2.3 trillion amid AI spending jitters — but investors are still backing chipmakers",
+      "Oil prices set for steep monthly drop as Trump, Iran issue mixed messages on talks in Qatar",
+      "Indonesia jails former education minister for 10 years in Google Chromebook graft case",
+      "French biotech stock soars 34% after new data on experimental medicine",
+      "Inflation likely to stay ‘significantly above target,’ top European central banker warns"
     ],
     "us_domestic": [
-      "Stock futures jump as tech shares gain, U.S.-Iran agree to halt hostilities: Live updates",
-      "Comcast soars 23% after announcing it will spin off media and tech wings into separate public companies",
-      "SpaceX's $25 billion bond sale drives huge demand - and a potential headache for investors",
-      "Trump bought as much as $5 million in Axon stock before ICE sought $220 million Taser deal",
-      "Europe’s earnings are poised for double-digit growth. One sector will do the heavy lifting, says Deutsche"
+      "Mag 7 value shrinks by $2.3 trillion amid AI spending jitters — but investors are still backing chipmakers",
+      "Oil prices set for steep monthly drop as Trump, Iran issue mixed messages on talks in Qatar",
+      "Medicare will start covering obesity drugs for the first time. Here's what patients should know",
+      "Stocks making the biggest moves premarket: AeroVironment, Strategy, Merck & more",
+      "Comcast is spinning out its media business. Deutsche Bank says it's time to buy the stock"
+    ],
+    "science": [
+      "Scientists may have finally found how Alzheimer's spreads through the brain",
+      "Scientists say creatine may help fight depression",
+      "These tiny soil microbes could rescue crops from salty farmland",
+      "Astronomers found two rare super puff planets lighter than cotton candy",
+      "Einstein Probe may have caught a black hole tearing apart a white dwarf for the first time"
+    ],
+    "business": [
+      "79-year-old fashion retailer closed 136 stores, killed one of its brands",
+      "Stocks surge in stellar quarter; dollar hits gold and yen",
+      "Stock market today: Dow, S&P 500, Nasdaq futures steady after record-setting session",
+      "SpaceX Stock Vaporizes $811 Billion In Value",
+      "Comtech Telecom (CMTL) to Sell S&S Segment to Gilat Satellite Networks for $157.5M"
+    ],
+    "tech": [
+      "US offers $10 million for info on group behind Signal and WhatsApp hacking spree",
+      "South Korea to spend $1T on more memory chip production and humanoid robots",
+      "US renewable boom passes key milestone in April",
+      "Supreme Court ruling guts government’s use of geofence warrants",
+      "Sony erases digital content from libraries; we're reminded we don’t own what we buy"
     ]
   },
   "articles": [
+    {
+      "title": "Mag 7 value shrinks by $2.3 trillion amid AI spending jitters — but investors are still backing chipmakers",
+      "link": "https://www.cnbc.com/2026/06/30/magnificent-7-stocks-sell-off-investors-grow-jittery-on-ai-spending.html",
+      "image_url": null,
+      "source": "CNBC World",
+      "published": "2026-06-30T10:05:18+00:00",
+      "summary": "Investors are growing jittery about massive AI spending by the Mag 7 and when these companies will produce a return on that investment.",
+      "section": "global_macro"
+    },
+    {
+      "title": "Oil prices set for steep monthly drop as Trump, Iran issue mixed messages on talks in Qatar",
+      "link": "https://www.cnbc.com/2026/06/30/oil-prices-brent-wti-crude-trump-iran.html",
+      "image_url": null,
+      "source": "CNBC World",
+      "published": "2026-06-30T11:35:38+00:00",
+      "summary": "The moves come as oil traders monitor the prospect of U.S.-Iran talks in Doha on Tuesday.",
+      "section": "global_macro"
+    },
+    {
+      "title": "Indonesia jails former education minister for 10 years in Google Chromebook graft case",
+      "link": "https://www.cnbc.com/2026/06/30/indonesia-jails-former-education-minister-for-10-years-in-google-chromebook-graft-case.html",
+      "image_url": null,
+      "source": "CNBC World",
+      "published": "2026-06-30T09:22:14+00:00",
+      "summary": "Makarim was found guilty in a case over the procurement of Google Chromebooks for schools",
+      "section": "global_macro"
+    },
+    {
+      "title": "Small-cap stocks enjoy their best first half in 35 years. Here's what's driving it",
+      "link": "https://www.cnbc.com/2026/06/30/small-cap-stocks-enjoy-best-first-half-since-1991-as-ai-trade-expands.html",
+      "image_url": null,
+      "source": "CNBC World",
+      "published": "2026-06-30T12:01:55+00:00",
+      "summary": "The advance marks a sharp turnaround after years of underperformance versus large-cap peers.",
+      "section": "global_macro"
+    },
+    {
+      "title": "French biotech stock soars 34% after new data on experimental medicine",
+      "link": "https://www.cnbc.com/2026/06/30/abivax-stock-trial-data-biotech-obefazimod.html",
+      "image_url": null,
+      "source": "CNBC World",
+      "published": "2026-06-30T09:28:34+00:00",
+      "summary": "Shares of French biotech company Abivax soared Tuesday after it released fresh data on its lead drug for bowel disease.",
+      "section": "global_macro"
+    },
+    {
+      "title": "Angry Venezuelans accuse government of negligence over earthquake response",
+      "link": "https://www.bbc.co.uk/news/articles/c5yzd18dxzxo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cd8b/live/a59aec20-742d-11f1-8e1d-bbbb1017d210.jpg",
+      "source": "BBC World",
+      "published": "2026-06-30T03:53:48+00:00",
+      "summary": "People in areas devastated by twin earthquakes say they need more support from the government.",
+      "section": "global_macro"
+    },
+    {
+      "title": "Aftershock frays nerves as many Venezuelans left to fend for themselves",
+      "link": "https://www.bbc.co.uk/news/articles/cqj1210rj0yo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1c3/live/dd101930-73e9-11f1-bb9e-33cb2da512b5.png",
+      "source": "BBC World",
+      "published": "2026-06-30T04:21:58+00:00",
+      "summary": "In areas devastated by the twin earthquakes, people are using crowbars, pickaxes and their bare hands to try to reach survivors.",
+      "section": "global_macro"
+    },
+    {
+      "title": "Founder of Asian super-app Gojek sentenced to years in jail for corruption",
+      "link": "https://www.bbc.co.uk/news/articles/c79yvw23yr9o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/edd5/live/b80a6be0-745c-11f1-9d0e-3bf8d84f830e.jpg",
+      "source": "BBC World",
+      "published": "2026-06-30T11:16:20+00:00",
+      "summary": "The case against Gojek founder Nadiem Makarim relates to a laptop deal made during his term as Indonesia's education minister.",
+      "section": "global_macro"
+    },
+    {
+      "title": "Heavy security in South Africa as anti-migrant protesters take to the streets",
+      "link": "https://www.bbc.co.uk/news/articles/cy4eq1l184po?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/96ee/live/afdc2940-746b-11f1-8546-8f19e4fe30f4.jpg",
+      "source": "BBC World",
+      "published": "2026-06-30T11:29:24+00:00",
+      "summary": "Thousands of people have left South Africa ahead of Tuesday's deadline set by anti-migrant groups.",
+      "section": "global_macro"
+    },
+    {
+      "title": "Manhunt under way after bomb injures Ukrainian oligarch and others in Monaco",
+      "link": "https://www.bbc.co.uk/news/articles/cpv37wx03v7o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9081/live/0f042230-7479-11f1-b1db-af71d47507d6.jpg",
+      "source": "BBC World",
+      "published": "2026-06-30T11:36:05+00:00",
+      "summary": "The blast was caused by an explosive device which appeared to contain bolts and pellets, the head of Monaco's government said.",
+      "section": "global_macro"
+    },
+    {
+      "title": "Small-cap stocks enjoy their best first half in 35 years. Here's what's driving it",
+      "link": "https://www.cnbc.com/2026/06/30/small-cap-stocks-enjoy-best-first-half-since-1991-as-ai-trade-expands.html",
+      "image_url": null,
+      "source": "CNBC Top",
+      "published": "2026-06-30T12:01:55+00:00",
+      "summary": "The advance marks a sharp turnaround after years of underperformance versus large-cap peers.",
+      "section": "us_domestic"
+    },
+    {
+      "title": "Oil prices set for steep monthly drop as Trump, Iran issue mixed messages on talks in Qatar",
+      "link": "https://www.cnbc.com/2026/06/30/oil-prices-brent-wti-crude-trump-iran.html",
+      "image_url": null,
+      "source": "CNBC Top",
+      "published": "2026-06-30T11:35:38+00:00",
+      "summary": "The moves come as oil traders monitor the prospect of U.S.-Iran talks in Doha on Tuesday.",
+      "section": "us_domestic"
+    },
+    {
+      "title": "White House AI crackdown opens door for Chinese model makers to close gap",
+      "link": "https://www.cnbc.com/2026/06/30/white-house-ai-china-crackdown.html",
+      "image_url": null,
+      "source": "CNBC Top",
+      "published": "2026-06-30T12:00:01+00:00",
+      "summary": "The Trump administration's crackdown on Anthropic's leading artificial intelligence models is looking like a gift to China.",
+      "section": "us_domestic"
+    },
+    {
+      "title": "Medicare will start covering obesity drugs for the first time. Here's what patients should know",
+      "link": "https://www.cnbc.com/2026/06/30/medicare-obesity-drug-glp-1-coverage-starting-july-1.html",
+      "image_url": null,
+      "source": "CNBC Top",
+      "published": "2026-06-30T11:34:46+00:00",
+      "summary": "The move could unlock millions of new patients for Novo Nordisk and Eli Lilly and expand access to medications that were previously out of reach for seniors.",
+      "section": "us_domestic"
+    },
+    {
+      "title": "This memory stock is up eightfold in 2026. Bernstein sees more gains ahead",
+      "link": "https://www.cnbc.com/2026/06/30/this-stock-has-seen-8x-growth-in-2026-bernstein-sees-more-gains-ahead.html",
+      "image_url": null,
+      "source": "CNBC Top",
+      "published": "2026-06-30T11:57:27+00:00",
+      "summary": "The investment firm has an outperform rating on the memory name.",
+      "section": "us_domestic"
+    },
+    {
+      "title": "Supreme Court says Fed’s Cook can keep her job for now, but it upholds other Trump firings - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNUpHUThVcUFPblZQMHFjVWs4NEpSRDl4bHFvZFpLYVN5MWdtR2MxQ3ZVLWRSZGZhWlVxTnpjVllmakdvbHRuSTlIVW5qQUN3Y0VDNEUxWlNOUC1JbmJPSDc4NFFVNkY5c09jYjFuWjNSLW9jTFdWQTJaWmhCUEFFakNndXJ0cE93bHZ1S1NTVm0yZFR2X1BGSURTMEZORDhmVVhHa3FicHF5UUk?oc=5",
+      "image_url": null,
+      "source": "Google News US",
+      "published": "2026-06-30T00:49:10+00:00",
+      "summary": "Supreme Court says Fed’s Cook can keep her job for now, but it upholds other Trump firings&nbsp;&nbsp;AP NewsOne big win and three defeats for Trump in dramatic day at Supreme Court&nbsp;&nbsp;BBCHow the Supreme Court Ushered in Corporate Chaos in D.C.&nbsp;&nbsp;The New York TimesJohn Roberts fough",
+      "section": "us_domestic"
+    },
+    {
+      "title": "Mideast Live Updates: U.S. and Iran Gear Up for Meetings in Qatar - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1TQXhuNFBOVVpuNXZPeWxZNWZWblBQNW9ydGZxV29oU3VUa1FjbHI1UGdNWUQ3V2V4MFUzWmhVZDRGMFRHMS02clpNVFNBM1VsbkEwcGF5Y2FINTlEQWl3TEh6SE8wTklNU3BVWjFDcGNhYk12NEdZSWJPc3A?oc=5",
+      "image_url": null,
+      "source": "Google News US",
+      "published": "2026-06-30T11:57:03+00:00",
+      "summary": "Mideast Live Updates: U.S. and Iran Gear Up for Meetings in Qatar&nbsp;&nbsp;The New York TimesAre US and Iranian negotiators meeting in Doha? What we know about talks&nbsp;&nbsp;Al JazeeraLive updates: US envoys arrive in Qatar for talks with mediators about Iran&nbsp;&nbsp;CNNIran calls Strait of ",
+      "section": "us_domestic"
+    },
+    {
+      "title": "Exclusive: Johnson says housing bill will become law, with or without Trump - USA Today",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSjBaM3FaVEc0RVZzdjIwWnoxTzhfV3NLdFlCcU8ydmR5NGYtTFdUemsxMDNEUzlUV1RyQW5mbGlOMDNmMzdwOURQVExLa2ZqOG1jaXhzX29SVmVxNzFmb2R5Tm9tNUF5RUgtOHRITDZUWnZTb1puZi1qZC1WdVVKQ0hzU0k3bFAzODh0dmU0Vk5vT0NWU1o2MTdMblNSZXVDNE9uZ3FZWlM?oc=5",
+      "image_url": null,
+      "source": "Google News US",
+      "published": "2026-06-30T02:05:10+00:00",
+      "summary": "Exclusive: Johnson says housing bill will become law, with or without Trump&nbsp;&nbsp;USA TodayTrump on Legislation to Address the Nation’s Housing Crisis: ‘It’s a Yawn’&nbsp;&nbsp;The New York TimesSpeaker Johnson sends bipartisan housing bill to White House — but Trump says it’s a ‘yawn’&nbsp;&nb",
+      "section": "us_domestic"
+    },
+    {
+      "title": "Venezuelans deported from the U.S. were killed hours later in powerful quakes - NPR",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1GTUtscUJ2U1NVeUVNZWpaNzEzbXBnamswNVNPa19zc1RfNi1wZWdMcnBrTmxzVkRtWjBRZDhWSEx0aVZ0MXpVQm5nbzhoLWxPS2JkSU40SC02SzV0Vm5UbVZaQTh3WUNaYmJaaTkzT2NjRTlseXc0ejNheU5YbXc?oc=5",
+      "image_url": null,
+      "source": "Google News US",
+      "published": "2026-06-30T09:00:00+00:00",
+      "summary": "Venezuelans deported from the U.S. were killed hours later in powerful quakes&nbsp;&nbsp;NPRVenezuelans deported by the US hours before the deadly earthquake struck are missing&nbsp;&nbsp;CNNVenezuelans deported from U.S. hours before earthquakes hit are missing, some confirmed dead, families say&nb",
+      "section": "us_domestic"
+    },
+    {
+      "title": "US Supreme Court hands Trump 3-1 defeat in key rulings: What we know - Al Jazeera",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQUkhhaGl6eFB2WUs1dEZobGQzd2ZyUXBQeEtaN0k0S0cxdjFTOTMzQzEzOWFCSFNFR1hsczA5SFFHdG5hZWQ4MkRTcXgwZkZPWG9XVzJST003TkVNSnZCN09rRHFHYlp6MGZYZGpnRGlYZy1OMmU3bElLUGpuOVRidTd3ai1wVENMNFkzZUVGZkRUM0JkYXB6enhfY2N0LWlGNzVHZkNNbXFVdk1m0gGyAUFVX3lxTE1qcUZzb2p5ZzMxWnVLRW55SExQYzY1ZmRvNnBSdUo5SHdnNFEteG9mZ1pqNjB6MW1abXVMYTVNSmo5Ykx6MmhZSUdHTFFWRXo3QVNOMm5BQ2RuVDdrUkN4OXVhTkdoODlJYkVlNVdMV2k0Y2FHS1hjVTFRNHJneHFISU1sMlpvVFVJNW1uLVhjLUxLUzJqTnVQdURVV3BGTklKZkZEaFlTNHVXd2xZRURKRWc?oc=5",
+      "image_url": null,
+      "source": "Google News US",
+      "published": "2026-06-30T10:23:53+00:00",
+      "summary": "US Supreme Court hands Trump 3-1 defeat in key rulings: What we know&nbsp;&nbsp;Al JazeeraLive updates: Supreme Court is set to rule on Trump’s challenge to birthright citizenship&nbsp;&nbsp;AP NewsSupreme Court rules on major cases and heat wave hits dozens of states: Morning Rundown&nbsp;&nbsp;NBC",
+      "section": "us_domestic"
+    },
+    {
+      "title": "Scientists may have finally found how Alzheimer's spreads through the brain",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260630020521.htm",
+      "image_url": null,
+      "source": "ScienceDaily",
+      "published": "2026-06-30T07:21:06+00:00",
+      "summary": "A common brain protein may be giving Alzheimer’s disease an unexpected way to spread, carrying toxic Tau proteins from damaged neurons into healthy ones. By blocking these harmful protein packages before they reach new cells, researchers believe it may one day be possible to slow the disease's relen",
+      "section": "science"
+    },
+    {
+      "title": "Scientists say creatine may help fight depression",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260630020231.htm",
+      "image_url": null,
+      "source": "ScienceDaily",
+      "published": "2026-06-30T06:28:57+00:00",
+      "summary": "Creatine is best known as a muscle-building supplement, but scientists are now investigating whether it could also help treat depression by boosting the brain's energy supply. A new review examined five randomized clinical trials involving 238 participants and found mixed results. Two studies, both ",
+      "section": "science"
+    },
+    {
+      "title": "These tiny soil microbes could rescue crops from salty farmland",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260626124703.htm",
+      "image_url": null,
+      "source": "ScienceDaily",
+      "published": "2026-06-29T01:21:44+00:00",
+      "summary": "Researchers have discovered that beneficial soil bacteria give plants an unexpected survival advantage in salty soils. Instead of helping plants keep salt out, the microbes stimulate the production of lignin, a natural compound that strengthens roots and makes plants more resilient. Greenhouse and f",
+      "section": "science"
+    },
+    {
+      "title": "Astronomers found two rare super puff planets lighter than cotton candy",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260626124659.htm",
+      "image_url": null,
+      "source": "ScienceDaily",
+      "published": "2026-06-27T01:09:31+00:00",
+      "summary": "Two newly confirmed \"super-puff\" planets are so diffuse that they are less dense than cotton candy, despite being about the size of Jupiter. Their rare orbital relationship and enormous, lightweight atmospheres could provide valuable clues about how some of the strangest planets in the galaxy come t",
+      "section": "science"
+    },
+    {
+      "title": "Einstein Probe may have caught a black hole tearing apart a white dwarf for the first time",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260625060222.htm",
+      "image_url": null,
+      "source": "ScienceDaily",
+      "published": "2026-06-26T01:05:03+00:00",
+      "summary": "Astronomers may have witnessed one of the rarest and most dramatic cosmic events ever seen: a long-sought intermediate-mass black hole ripping apart a dense white dwarf star and devouring it. The Einstein Probe space telescope caught the explosion in its earliest moments, revealing an unusual sequen",
+      "section": "science"
+    },
+    {
+      "title": "Child online safety needs more than social-media bans",
+      "link": "https://www.nature.com/articles/d41586-026-02068-5",
+      "image_url": null,
+      "source": "Nature",
+      "published": "2026-06-30T00:00:00+00:00",
+      "summary": "Nature, Published online: 30 June 2026; doi:10.1038/d41586-026-02068-5Child online safety needs more than social-media bans",
+      "section": "science"
+    },
+    {
+      "title": "Ebola preparedness must start with ecosystems and before humans show symptoms",
+      "link": "https://www.nature.com/articles/d41586-026-02070-x",
+      "image_url": null,
+      "source": "Nature",
+      "published": "2026-06-30T00:00:00+00:00",
+      "summary": "Nature, Published online: 30 June 2026; doi:10.1038/d41586-026-02070-xEbola preparedness must start with ecosystems and before humans show symptoms",
+      "section": "science"
+    },
+    {
+      "title": "AI tools can speed up thinking, but evidence still comes from the lab bench",
+      "link": "https://www.nature.com/articles/d41586-026-02069-4",
+      "image_url": null,
+      "source": "Nature",
+      "published": "2026-06-30T00:00:00+00:00",
+      "summary": "Nature, Published online: 30 June 2026; doi:10.1038/d41586-026-02069-4AI tools can speed up thinking, but evidence still comes from the lab bench",
+      "section": "science"
+    },
+    {
+      "title": "Can Rwanda sustain its rise in science and technology? Here’s what can help",
+      "link": "https://www.nature.com/articles/d41586-026-01980-0",
+      "image_url": null,
+      "source": "Nature",
+      "published": "2026-06-30T00:00:00+00:00",
+      "summary": "Nature, Published online: 30 June 2026; doi:10.1038/d41586-026-01980-0An ambitious analysis challenges the view that a nation’s pursuit of economic growth alone can deliver long-term prosperity.",
+      "section": "science"
+    },
+    {
+      "title": "AI systems devise hypotheses and ways to test them",
+      "link": "https://www.nature.com/articles/d41586-026-01873-2",
+      "image_url": null,
+      "source": "Nature",
+      "published": "2026-06-30T00:00:00+00:00",
+      "summary": "Nature, Published online: 30 June 2026; doi:10.1038/d41586-026-01873-2AI agents collaborate to generate biomedical hypotheses and analyse data, moving towards a laboratory discovery cycle with AI involved in every step.",
+      "section": "science"
+    },
+    {
+      "title": "79-year-old fashion retailer closed 136 stores, killed one of its brands",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/h-m-closed-136-stores-012815718.html",
+      "image_url": "https://media.zenfs.com/en/thestreet_881/6c68c19348bf57d5cf2d0b2066bf45cc",
+      "source": "Yahoo Finance",
+      "published": "2026-06-29T01:28:15+00:00",
+      "summary": "",
+      "section": "business"
+    },
+    {
+      "title": "Silver prices today, Tuesday, June 30: Silver prices hovering near December '25 levels",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-tuesday-june-30-silver-prices-hovering-near-december-25-levels-122050636.html",
+      "image_url": "https://s.yimg.com/os/creatr-uploaded-images/2026-01/0fb18420-fab2-11f0-abfd-75e516fff7d1",
+      "source": "Yahoo Finance",
+      "published": "2026-06-30T12:20:50+00:00",
+      "summary": "",
+      "section": "business"
+    },
+    {
+      "title": "Stock market today: Dow, S&P 500, Nasdaq futures nudge higher after record-setting session",
+      "link": "https://finance.yahoo.com/news/live/stock-market-today-dow-sp-500-nasdaq-futures-nudge-higher-after-record-setting-session-224823556.html",
+      "image_url": "https://s.yimg.com/os/creatr-uploaded-images/2025-04/ec530b50-1eb3-11f0-9fb4-3931ade834e4",
+      "source": "Yahoo Finance",
+      "published": "2026-06-29T22:48:23+00:00",
+      "summary": "",
+      "section": "business"
+    },
+    {
+      "title": "Snowflake’s (SNOW) AI Business Is Growing Faster Than Many Expected As Analysts Revise Target Price Upward",
+      "link": "https://finance.yahoo.com/technology/ai/articles/snowflake-snow-ai-business-growing-121507644.html",
+      "image_url": "https://media.zenfs.com/en/insidermonkey.com/8859d764a21344dc9677d61bac8c7f8c",
+      "source": "Yahoo Finance",
+      "published": "2026-06-30T12:15:07+00:00",
+      "summary": "",
+      "section": "business"
+    },
+    {
+      "title": "Agentic AI Will Help Okta (OKTA) Register New All-Time Highs",
+      "link": "https://finance.yahoo.com/technology/ai/articles/agentic-ai-help-okta-okta-121506674.html",
+      "image_url": "https://media.zenfs.com/en/insidermonkey.com/4cbbb2a82849874ee840491626f778a2",
+      "source": "Yahoo Finance",
+      "published": "2026-06-30T12:15:06+00:00",
+      "summary": "",
+      "section": "business"
+    },
+    {
+      "title": "Trump’s Iran strikes fit a surprising 2026 pattern: Here’s what the data shows.",
+      "link": "https://www.marketwatch.com/story/trumps-weekend-iran-strikes-keep-sparking-monday-stock-rallies-heres-what-the-data-shows-us-f22da0ea?mod=mw_rss_topstories",
+      "image_url": "https://images.mktw.net/im-41142348",
+      "source": "MarketWatch Top",
+      "published": "2026-06-30T12:24:00+00:00",
+      "summary": "Call it the ‘Axios put’: On average, stocks have been up more on Mondays in the second quarter than in recent years",
+      "section": "business"
+    },
+    {
+      "title": "‘She wants him gone’: My friend took in a homeless man as a caretaker. After 10 years, how can she evict him?",
+      "link": "https://www.marketwatch.com/story/she-wants-him-gone-my-friend-took-in-a-homeless-man-as-a-caretaker-after-10-years-how-can-she-evict-him-01672de2?mod=mw_rss_topstories",
+      "image_url": "https://images.mktw.net/im-23187684",
+      "source": "MarketWatch Top",
+      "published": "2026-06-30T12:15:00+00:00",
+      "summary": "“He lived rent-free, helping her with health-related issues and other tasks.”",
+      "section": "business"
+    },
+    {
+      "title": "A 23% plunge in personal wealth leaves this country trailing its global peers",
+      "link": "https://www.marketwatch.com/story/a-23-plunge-in-personal-wealth-leaves-this-country-trailing-its-global-peers-7b3f4128?mod=mw_rss_topstories",
+      "image_url": "https://images.mktw.net/im-04057251",
+      "source": "MarketWatch Top",
+      "published": "2026-06-30T12:12:00+00:00",
+      "summary": "The average wealth per person has rapidly dropped in this country — and it’s not looking good compared with other developed markets.",
+      "section": "business"
+    },
+    {
+      "title": "20 stocks in the S&P 500 that plunged the most in 2026’s first half",
+      "link": "https://www.marketwatch.com/story/20-stocks-in-the-s-p-500-that-plunged-the-most-in-2026s-first-half-ae11e114?mod=mw_rss_topstories",
+      "image_url": "https://images.mktw.net/im-97491346",
+      "source": "MarketWatch Top",
+      "published": "2026-06-30T11:55:00+00:00",
+      "summary": "These companies were hit hard as investors worried about eventual losses of market share to AI tools.",
+      "section": "business"
+    },
+    {
+      "title": "The big surprise for the year’s second half could be the AI trade powering higher. Why it wouldn’t take much.",
+      "link": "https://www.marketwatch.com/story/the-big-surprise-for-the-second-half-could-be-the-ai-trade-powering-higher-why-it-wouldnt-take-much-a02dd10b?mod=mw_rss_topstories",
+      "image_url": "https://images.mktw.net/im-56750103",
+      "source": "MarketWatch Top",
+      "published": "2026-06-30T11:51:00+00:00",
+      "summary": "HSBC strategists say persistent scrutiny of the artificial-intelligence trade could be met with surprise this year, if valuations of those stocks start to climb again.",
+      "section": "business"
+    },
     {
       "title": "US offers $10 million for info on group behind Signal and WhatsApp hacking spree",
       "link": "https://arstechnica.com/information-technology/2026/06/us-offers-10-million-for-info-on-group-behind-signal-and-whatsapp-hacking-spree/",
@@ -84,6 +444,33 @@
       "section": "tech"
     },
     {
+      "title": "Meet the lawyer who beat Elon Musk — twice",
+      "link": "https://www.theverge.com/column/959270/elon-musk-open-ai-bill-savitt-twitter",
+      "image_url": null,
+      "source": "The Verge",
+      "published": "2026-06-30T12:00:00+00:00",
+      "summary": "Watching Elon Musk fulminate at Bill Savitt during Musk v. Altman - the case in which Musk sued Sam Altman and OpenAI instead of seeing a therapist about his AI failures - was a bit like watching a toddler have a temper tantrum at his nursery school teacher. Savitt's questions were \"designed to tric",
+      "section": "tech"
+    },
+    {
+      "title": "This motor could be the future of e-bikes",
+      "link": "https://www.theverge.com/news/959382/avinox-mg-concept-gobao-mgu-ecvt",
+      "image_url": null,
+      "source": "The Verge",
+      "published": "2026-06-30T10:30:04+00:00",
+      "summary": "Imagine an e-bike motor that lets you select your preferred pedaling cadence and then automatically adjusts the gears to keep your legs spinning at that exact speed, no matter how steep the hill gets - all without a fragile derailleur or heavy multi-speed cassette to maintain. Prefer manual control?",
+      "section": "tech"
+    },
+    {
+      "title": "Our best look yet at Samsung’s new wide foldable",
+      "link": "https://www.theverge.com/tech/959372/samsung-galaxy-z-fold-wide-image-leaks",
+      "image_url": null,
+      "source": "The Verge",
+      "published": "2026-06-30T09:54:44+00:00",
+      "summary": "Samsung is expected to unveil its next generation of foldables at a Galaxy Unpacked event next month, but now we know what they might look like, courtesy of some leaked images published by Android Headlines. Images shared by the publication include case designs for two new Galaxy Z Fold 8 models and",
+      "section": "tech"
+    },
+    {
       "title": "T-Mobile is booting customers from its oldest plans",
       "link": "https://www.theverge.com/tech/959144/t-mobile-legacy-plan-retire-sprint",
       "image_url": null,
@@ -100,397 +487,10 @@
       "published": "2026-06-29T21:00:00+00:00",
       "summary": "While Kara Zor-El's appearance at the end of James Gunn's Superman was a very pleasant surprise, Warner Bros. Discovery's plan to fast-track a standalone Supergirl feature always felt a little dubious. It seemed odd that, after Superman, the studio wanted to flesh out its new cinematic universe with",
       "section": "tech"
-    },
-    {
-      "title": "Leaked iPhone 18 Pro photos reportedly wound up on the dark web",
-      "link": "https://www.theverge.com/tech/959229/iphone-18-pro-leak-apple-dark-web",
-      "image_url": null,
-      "source": "The Verge",
-      "published": "2026-06-29T20:18:26+00:00",
-      "summary": "Leaked iPhone 18 Pro photos and parts lists appeared on the dark web following a data breach affecting one of Apple's key suppliers, according to a report from Reuters. The leaked images show a drop test of what a source tells Reuters is the iPhone 18 Pro, equipped with a three-camera layout and App",
-      "section": "tech"
-    },
-    {
-      "title": "Tidal won’t pay royalties on AI-generated music but isn’t banning it outright",
-      "link": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
-      "image_url": null,
-      "source": "The Verge",
-      "published": "2026-06-29T19:47:35+00:00",
-      "summary": "Tidal shared its new policies regarding AI-generated music today and how the platform plans to \"protect artists\" and \"inform listeners.\" Instead of banning it outright, starting on July 15th Tidal will label tracks it has identified as being 100 percent AI-generated with an icon. But starting today ",
-      "section": "tech"
-    },
-    {
-      "title": "Sony&#8217;s next-gen PlayStation will go ‘beyond the living room’",
-      "link": "https://www.theverge.com/games/959191/sony-next-generation-playstation-ps6-beyond-the-living-room",
-      "image_url": null,
-      "source": "The Verge",
-      "published": "2026-06-29T19:12:15+00:00",
-      "summary": "Sony hinted in a recent Q&#38;A with investors that the next generation PlayStation will offer some kind of experience that lets you play games outside of your living room. Here's the relevant portion from the transcript, emphasis mine: Q: How can you bring back to the PlayStation platform users who",
-      "section": "tech"
-    },
-    {
-      "title": "79-year-old fashion retailer closed 136 stores, killed one of its brands",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/h-m-closed-136-stores-012815718.html",
-      "image_url": "https://media.zenfs.com/en/thestreet_881/6c68c19348bf57d5cf2d0b2066bf45cc",
-      "source": "Yahoo Finance",
-      "published": "2026-06-29T01:28:15+00:00",
-      "summary": "",
-      "section": "business"
-    },
-    {
-      "title": "Is PDD Holdings (PDD) One of the Best Non-Tech Stocks to Buy According to Analysts?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/pdd-holdings-pdd-one-best-164504799.html",
-      "image_url": "https://media.zenfs.com/en/insidermonkey.com/39432c8f252ec1ff8c978657224a9958",
-      "source": "Yahoo Finance",
-      "published": "2026-06-28T16:45:04+00:00",
-      "summary": "",
-      "section": "business"
-    },
-    {
-      "title": "Is DoorDash (DASH) One of the Best Non-Tech Stocks to Buy According to Analysts?",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/doordash-dash-one-best-non-164512251.html",
-      "image_url": "https://media.zenfs.com/en/insidermonkey.com/9d29eeccc8d759d9dff0b6795a07d8d3",
-      "source": "Yahoo Finance",
-      "published": "2026-06-28T16:45:12+00:00",
-      "summary": "",
-      "section": "business"
-    },
-    {
-      "title": "TD Cowen Remains Bullish on Intercontinental Exchange (ICE)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/td-cowen-remains-bullish-intercontinental-164522822.html",
-      "image_url": "https://media.zenfs.com/en/insidermonkey.com/22a1d7ec20743caa24f56a70cf82dcdd",
-      "source": "Yahoo Finance",
-      "published": "2026-06-28T16:45:22+00:00",
-      "summary": "",
-      "section": "business"
-    },
-    {
-      "title": "Newmont Corporation (NEM) Provides Update Following Seismic Event",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/newmont-corporation-nem-provides-following-164530451.html",
-      "image_url": "https://media.zenfs.com/en/insidermonkey.com/0893d3695f127def106f1e1aad66f67f",
-      "source": "Yahoo Finance",
-      "published": "2026-06-28T16:45:30+00:00",
-      "summary": "",
-      "section": "business"
-    },
-    {
-      "title": "Trump’s weekend Iran strikes keep sparking Monday stock rallies. Here’s what the data shows us.",
-      "link": "https://www.marketwatch.com/story/trumps-weekend-iran-strikes-keep-sparking-monday-stock-rallies-heres-what-the-data-shows-us-f22da0ea?mod=mw_rss_topstories",
-      "image_url": "https://images.mktw.net/im-41142348",
-      "source": "MarketWatch Top",
-      "published": "2026-06-29T23:39:00+00:00",
-      "summary": "Call it the ‘Axios put’: On average, stocks have been up more on Mondays in the second quarter than in recent years",
-      "section": "business"
-    },
-    {
-      "title": "‘I don’t think I’ll make it to 80’: I’m 70 and single. Do I take out a reverse mortgage or a home-equity agreement?",
-      "link": "https://www.marketwatch.com/story/i-dont-think-ill-make-it-to-80-im-70-and-single-do-i-take-out-a-reverse-mortgage-or-a-home-equity-agreement-3b623ee8?mod=mw_rss_topstories",
-      "image_url": "https://images.mktw.net/im-50782321",
-      "source": "MarketWatch Top",
-      "published": "2026-06-29T22:00:00+00:00",
-      "summary": "“I’m torn between these two options.”",
-      "section": "business"
-    },
-    {
-      "title": "‘I claimed Social Security at 62’: At 76, I’m working at Walmart. Why do I still owe payroll taxes?",
-      "link": "https://www.marketwatch.com/story/i-claimed-social-security-at-62-at-76-im-working-at-walmart-why-do-i-still-owe-payroll-taxes-8e22a97c?mod=mw_rss_topstories",
-      "image_url": "https://images.mktw.net/im-64090245",
-      "source": "MarketWatch Top",
-      "published": "2026-06-29T21:33:00+00:00",
-      "summary": "“It seems like half of the workforce at our local Walmart is over 65.”",
-      "section": "business"
-    },
-    {
-      "title": "Rocket Lab to take on SpaceX’s Starlink with $8 billion acquisition",
-      "link": "https://www.marketwatch.com/story/rocket-lab-to-take-on-spacexs-starlink-with-8-billion-acquisition-bf7ef649?mod=mw_rss_topstories",
-      "image_url": "https://images.mktw.net/im-22494504",
-      "source": "MarketWatch Top",
-      "published": "2026-06-29T21:30:00+00:00",
-      "summary": "Rocket Lab said it is buying Iridium as a “shortcut” to expanding its growing capabilities.",
-      "section": "business"
-    },
-    {
-      "title": "Tesla’s stock rips higher after a long-awaited update to self-driving technology",
-      "link": "https://www.marketwatch.com/story/teslas-stock-rips-higher-after-a-long-awaited-update-to-self-driving-technology-10565662?mod=mw_rss_topstories",
-      "image_url": "https://images.mktw.net/im-64921658",
-      "source": "MarketWatch Top",
-      "published": "2026-06-29T21:24:00+00:00",
-      "summary": "EV maker’s stock has best day in over a year, but is still down for the month.",
-      "section": "business"
-    },
-    {
-      "title": "China factory activity grows faster than expected in June on tech export demand",
-      "link": "https://www.cnbc.com/2026/06/30/china-factory-activity-june-tech-export-demand-pmi-nbs.html",
-      "image_url": null,
-      "source": "CNBC World",
-      "published": "2026-06-30T02:35:39+00:00",
-      "summary": "China's manufacturing engine held up this year as surging demand for artificial intelligence technology helped offset the drag from Middle East turmoil.",
-      "section": "global_macro"
-    },
-    {
-      "title": "Japanese yen sinks to 40-year low, keeping intervention risks in focus",
-      "link": "https://www.cnbc.com/2026/06/30/japan-yen-falls-lowest-level-since-1986-dollar-intervention-risk.html",
-      "image_url": null,
-      "source": "CNBC World",
-      "published": "2026-06-30T04:00:57+00:00",
-      "summary": "The Japanese yen weakened to its lowest level against the U.S. dollar since 1986 on Tuesday, keeping investors on alert for possible intervention from Japanese authorities.",
-      "section": "global_macro"
-    },
-    {
-      "title": "Trump says U.S. and Iran to hold fresh talks in Qatar on Tuesday following weekend clashes",
-      "link": "https://www.cnbc.com/2026/06/29/trump-us-iran-talks-qatar-hormuz.html",
-      "image_url": null,
-      "source": "CNBC World",
-      "published": "2026-06-29T14:30:57+00:00",
-      "summary": "The U.S. and Iran are poised to hold fresh talks on Tuesday in Qatar's capital, President Donald Trump said via social media on Monday.",
-      "section": "global_macro"
-    },
-    {
-      "title": "Stock futures are little changed after the Dow posts new record close: Live updates",
-      "link": "https://www.cnbc.com/2026/06/29/stock-market-today-live-updates.html",
-      "image_url": null,
-      "source": "CNBC World",
-      "published": "2026-06-30T03:20:27+00:00",
-      "summary": "Gains in Alphabet and a pause in U.S.-Iran hostilities boosted the Dow Industrials to its first close above 52,000 on Monday.",
-      "section": "global_macro"
-    },
-    {
-      "title": "CNBC's The China Connection newsletter: U.S.-China tech rivalry heats up—in other countries",
-      "link": "https://www.cnbc.com/2026/06/29/cnbcs-the-china-connection-newsletter-us-tech-rivalry-heats-up.html",
-      "image_url": null,
-      "source": "CNBC World",
-      "published": "2026-06-29T23:00:01+00:00",
-      "summary": "U.S. and Chinese tech companies are increasingly pursuing opportunities outside their home markets, with government policy support.",
-      "section": "global_macro"
-    },
-    {
-      "title": "Aftershock frays nerves as many Venezuelans left to fend for themselves",
-      "link": "https://www.bbc.co.uk/news/articles/cqj1210rj0yo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1c3/live/dd101930-73e9-11f1-bb9e-33cb2da512b5.png",
-      "source": "BBC World",
-      "published": "2026-06-29T20:00:44+00:00",
-      "summary": "In areas devastated by the twin earthquakes, people are using crowbars, pickaxes and their bare hands to try to reach survivors.",
-      "section": "global_macro"
-    },
-    {
-      "title": "'No one move!': The agonising silence as Venezuela rescuers listen for survivors",
-      "link": "https://www.bbc.co.uk/news/articles/c78yvq72dg7o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36ab/live/e9689b00-73ce-11f1-8546-8f19e4fe30f4.jpg",
-      "source": "BBC World",
-      "published": "2026-06-29T21:19:28+00:00",
-      "summary": "With tens of thousands of people still believed missing, teams listen for signs of life beneath the rubble.",
-      "section": "global_macro"
-    },
-    {
-      "title": "Six people shot dead at centre for mothers and children in Germany",
-      "link": "https://www.bbc.co.uk/news/articles/c17yzzw1vkjo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/259a/live/e19d9af0-73c5-11f1-a785-7f6fcfc76fe8.jpg",
-      "source": "BBC World",
-      "published": "2026-06-29T19:53:57+00:00",
-      "summary": "The male suspect who has been arrested was in a custody dispute over his baby daughter, police say.",
-      "section": "global_macro"
-    },
-    {
-      "title": "One big win and three defeats for Trump in dramatic day at Supreme Court",
-      "link": "https://www.bbc.co.uk/news/articles/ceqdzd7zx24o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6822/live/fe2df4d0-7401-11f1-8e1d-bbbb1017d210.jpg",
-      "source": "BBC World",
-      "published": "2026-06-29T20:34:52+00:00",
-      "summary": "While Trump celebrated a ruling expanding presidential power to remove and replace regulators, other decisions were major setbacks.",
-      "section": "global_macro"
-    },
-    {
-      "title": "US says it has agreed to 'stand down' after exchange of strikes with Iran",
-      "link": "https://www.bbc.co.uk/news/articles/c872rjw17qpo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f1a/live/c0952770-737e-11f1-b1db-af71d47507d6.jpg",
-      "source": "BBC World",
-      "published": "2026-06-29T14:52:10+00:00",
-      "summary": "A series of strikes over the weekend saw the US and Iran accuse each other of violating the ceasefire agreement.",
-      "section": "global_macro"
-    },
-    {
-      "title": "These tiny soil microbes could rescue crops from salty farmland",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260626124703.htm",
-      "image_url": null,
-      "source": "ScienceDaily",
-      "published": "2026-06-29T01:21:44+00:00",
-      "summary": "Researchers have discovered that beneficial soil bacteria give plants an unexpected survival advantage in salty soils. Instead of helping plants keep salt out, the microbes stimulate the production of lignin, a natural compound that strengthens roots and makes plants more resilient. Greenhouse and f",
-      "section": "science"
-    },
-    {
-      "title": "Astronomers found two rare super puff planets lighter than cotton candy",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260626124659.htm",
-      "image_url": null,
-      "source": "ScienceDaily",
-      "published": "2026-06-27T01:09:31+00:00",
-      "summary": "Two newly confirmed \"super-puff\" planets are so diffuse that they are less dense than cotton candy, despite being about the size of Jupiter. Their rare orbital relationship and enormous, lightweight atmospheres could provide valuable clues about how some of the strangest planets in the galaxy come t",
-      "section": "science"
-    },
-    {
-      "title": "Einstein Probe may have caught a black hole tearing apart a white dwarf for the first time",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260625060222.htm",
-      "image_url": null,
-      "source": "ScienceDaily",
-      "published": "2026-06-26T01:05:03+00:00",
-      "summary": "Astronomers may have witnessed one of the rarest and most dramatic cosmic events ever seen: a long-sought intermediate-mass black hole ripping apart a dense white dwarf star and devouring it. The Einstein Probe space telescope caught the explosion in its earliest moments, revealing an unusual sequen",
-      "section": "science"
-    },
-    {
-      "title": "They knew the pill was fake but their memory still improved",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260625060159.htm",
-      "image_url": null,
-      "source": "ScienceDaily",
-      "published": "2026-06-25T11:23:11+00:00",
-      "summary": "Healthy older adults experienced measurable improvements in memory, physical performance, and stress after taking placebo pills for just three weeks. The most surprising finding was that the placebo often worked even when participants knew the pills were completely inactive.",
-      "section": "science"
-    },
-    {
-      "title": "Hawaii is turning ocean plastic and fishing nets into roads",
-      "link": "https://www.sciencedaily.com/releases/2026/06/260625014830.htm",
-      "image_url": null,
-      "source": "ScienceDaily",
-      "published": "2026-06-28T06:53:54+00:00",
-      "summary": "Hawaii researchers are giving old fishing nets and recycled plastic a second life by mixing them into asphalt roads. Early tests found these roads didn't release more plastic particles than standard pavement, with tire wear overwhelming any plastic signal from the recycled material. If future studie",
-      "section": "science"
-    },
-    {
-      "title": "Family of magnetic field-boosted superconductors in rhombohedral graphene",
-      "link": "https://www.nature.com/articles/s41586-026-10815-x",
-      "image_url": null,
-      "source": "Nature",
-      "published": "2026-06-29T00:00:00+00:00",
-      "summary": "Nature, Published online: 29 June 2026; doi:10.1038/s41586-026-10815-xFamily of magnetic field-boosted superconductors in rhombohedral graphene",
-      "section": "science"
-    },
-    {
-      "title": "Audio long read: Is the peptide craze backed by science? The promise behind the hype",
-      "link": "https://www.nature.com/articles/d41586-026-02063-w",
-      "image_url": null,
-      "source": "Nature",
-      "published": "2026-06-29T00:00:00+00:00",
-      "summary": "Nature, Published online: 29 June 2026; doi:10.1038/d41586-026-02063-wThe market for unregulated peptides is huge. Has the hottest trend in wellness got ahead of the science?",
-      "section": "science"
-    },
-    {
-      "title": "Trump has big AI and quantum ambitions: this scientist’s job is to make them reality",
-      "link": "https://www.nature.com/articles/d41586-026-02023-4",
-      "image_url": null,
-      "source": "Nature",
-      "published": "2026-06-29T00:00:00+00:00",
-      "summary": "Nature, Published online: 29 June 2026; doi:10.1038/d41586-026-02023-4Darío Gil knows that researchers are sceptical of the massive US artificial-intelligence push — he’s asking them to keep an open mind.",
-      "section": "science"
-    },
-    {
-      "title": "How one US scientist is adapting to life abroad after DOGE cuts",
-      "link": "https://www.nature.com/articles/d41586-026-01137-z",
-      "image_url": null,
-      "source": "Nature",
-      "published": "2026-06-29T00:00:00+00:00",
-      "summary": "Nature, Published online: 29 June 2026; doi:10.1038/d41586-026-01137-zSarah Weisberg is one of a number of scientists who have made the move to Europe for job security.",
-      "section": "science"
-    },
-    {
-      "title": "How AI can crack open the ‘hidden curriculum’ for neurodivergent students",
-      "link": "https://www.nature.com/articles/d41586-026-01672-9",
-      "image_url": null,
-      "source": "Nature",
-      "published": "2026-06-29T00:00:00+00:00",
-      "summary": "Nature, Published online: 29 June 2026; doi:10.1038/d41586-026-01672-9Marisa Chrysochoou and Keivan Stassun argue that AI tools could help students to navigate academia’s unwritten rules.",
-      "section": "science"
-    },
-    {
-      "title": "China factory activity grows faster than expected in June on tech export demand",
-      "link": "https://www.cnbc.com/2026/06/30/china-factory-activity-june-tech-export-demand-pmi-nbs.html",
-      "image_url": null,
-      "source": "CNBC Top",
-      "published": "2026-06-30T02:35:39+00:00",
-      "summary": "China's manufacturing engine held up this year as surging demand for artificial intelligence technology helped offset the drag from Middle East turmoil.",
-      "section": "us_domestic"
-    },
-    {
-      "title": "Stock futures are little changed after the Dow posts new record close: Live updates",
-      "link": "https://www.cnbc.com/2026/06/29/stock-market-today-live-updates.html",
-      "image_url": null,
-      "source": "CNBC Top",
-      "published": "2026-06-30T03:20:27+00:00",
-      "summary": "Gains in Alphabet and a pause in U.S.-Iran hostilities boosted the Dow Industrials to its first close above 52,000 on Monday.",
-      "section": "us_domestic"
-    },
-    {
-      "title": "Japanese yen sinks to 40-year low, keeping intervention risks in focus",
-      "link": "https://www.cnbc.com/2026/06/30/japan-yen-falls-lowest-level-since-1986-dollar-intervention-risk.html",
-      "image_url": null,
-      "source": "CNBC Top",
-      "published": "2026-06-30T04:00:57+00:00",
-      "summary": "The Japanese yen weakened to its lowest level against the U.S. dollar since 1986 on Tuesday, keeping investors on alert for possible intervention from Japanese authorities.",
-      "section": "us_domestic"
-    },
-    {
-      "title": "Trump bought as much as $5 million in Axon stock before ICE sought $220 million Taser deal",
-      "link": "https://www.cnbc.com/2026/06/29/trump-axon-stock-ice-taser-immigration-enforcement.html",
-      "image_url": null,
-      "source": "CNBC Top",
-      "published": "2026-06-29T14:03:16+00:00",
-      "summary": "Axon Enterprise has ramped up lobbying in Congress on federal law enforcement technology as ICE pursues a potential $220 million Taser deal.",
-      "section": "us_domestic"
-    },
-    {
-      "title": "Australia's competition regulator takes Amazon to court over alleged unfair Prime subscription contract terms",
-      "link": "https://www.cnbc.com/2026/06/30/australias-competition-regulator-takes-amazon-to-court-over-alleged-unfair-prime-subscription-contract-terms.html",
-      "image_url": null,
-      "source": "CNBC Top",
-      "published": "2026-06-30T01:50:04+00:00",
-      "summary": "Australia's competition regulator is taking Amazon to court, alleging its Prime contracts required subscribers to pay AU$2.99 to avoid advertising, with no option for refunds",
-      "section": "us_domestic"
-    },
-    {
-      "title": "Justices Expand Presidential Power Over Regulators, but Not the Fed - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbXQzdmo2Sm55N3phSWc4R0VvQnUxNkFoOE1XS2lEeGs5WS1GWGpYV2Ntbnk2Tm9FTW5yeFJxRWZTYldfZUdqXy1hVFhoSmNBVGEyZG5GY1lLTkFGVlhTSVpHY0hrQl8xRmJsSGdoX1Y1dHJMcGFxSGtERlJEVHJqeHRSM2ljNjFm?oc=5",
-      "image_url": null,
-      "source": "Google News US",
-      "published": "2026-06-30T03:01:25+00:00",
-      "summary": "Justices Expand Presidential Power Over Regulators, but Not the Fed&nbsp;&nbsp;The New York TimesOne big win and three defeats for Trump in dramatic day at Supreme Court&nbsp;&nbsp;BBCSupreme Court takes sledgehammer to much of federal government’s regulatory structure&nbsp;&nbsp;NPRSupreme Court ru",
-      "section": "us_domestic"
-    },
-    {
-      "title": "Extreme heat forecast: What to expect as dangerous heat wave hits Midwest, Northeast - ABC News - Breaking News, Latest News and Videos",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQjZDV1pwTGpkRkhqTVBpWXhvdzVTVjVCZVRUQUxCblJmX3R3RUw4VWV5dUJ3LXJUOUU2T19STFl1WUt4Vy1xN3FZN29FVlFpeHZaSW05dzNnd0swT2Q0Z1lPUE53ZTJ6VmpfMjYxSVF0MFNMc1NxRGVZbGxxYkFlWm1ncThzSmFGNUlSZnkyT2xydDQ5MmQtc3dVQlhrOEl00gGmAUFVX3lxTE1ab1JRbTBOT1k5X1JtSENQbUU4cGptRWdFVWQ0c2s2QU5aODRaVnpnNDg0Ym50UFZqWUp4alhaRVlLcTRJVm5GN01Wbk5femtLQTU5WnBSeHB1SWFjVURxcGx4c3prWVBicmRWMFFYWUF5WDNpcU1LRGVDT2NsaElnY1ZaZkNUaU5zLWZTbHZUcGhjWHZYWFhsN0ZHcmNYTVg4N05KY0E?oc=5",
-      "image_url": null,
-      "source": "Google News US",
-      "published": "2026-06-29T22:26:09+00:00",
-      "summary": "Extreme heat forecast: What to expect as dangerous heat wave hits Midwest, Northeast&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosSee Day-by-Day Forecast as Heat Wave Engulfs U.S. Ahead of the July 4 Weekend&nbsp;&nbsp;The New York TimesHottest days since 2012? Upcoming NYC heat wave t",
-      "section": "us_domestic"
-    },
-    {
-      "title": "Live updates: Trump and Iran issue conflicting statements about new talks - CNN",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9MVi1NaU82STg3WmRydk9wSkcyR1BhTmNHQnRxR1lvcWNJVXdWMngtZlBmQXJrR0M5eW4tU28zd3ZvdFpobFNVYkF1Z29DNEVFQWFCaGZDb0NaSmp5RWVmZGdxX2xwalRUa0lhQVlqLWlZbEp3QjJLQg?oc=5",
-      "image_url": null,
-      "source": "Google News US",
-      "published": "2026-06-30T02:44:00+00:00",
-      "summary": "Live updates: Trump and Iran issue conflicting statements about new talks&nbsp;&nbsp;CNNSee more headlines & perspectives on Google News",
-      "section": "us_domestic"
-    },
-    {
-      "title": "Johnson says housing bill will become law - Politico",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNa1U5dW5iU2FXLUtUOTZQRFRIS3NGay14RzgzOXJCaVo3eDNPQWstemdyQTFVRk42ekdzWG1vZ0Z1N0I2dlhzWmlmWGVYSHFhRTVHWXZCQWstNjMzQ1NKdTVMWnUwSktHai1Oamx2WU1UM0lqOW1HRmRIRmhYd29ncDBUWkhKOTlaUHZUdnpKcHF0MWlWcHJLb21SM1gxLWhSb1VLQkxzZzZoRldi?oc=5",
-      "image_url": null,
-      "source": "Google News US",
-      "published": "2026-06-30T00:10:45+00:00",
-      "summary": "Johnson says housing bill will become law&nbsp;&nbsp;PoliticoSpeaker Johnson sends bipartisan housing bill to White House — but Trump says it’s a ‘yawn’&nbsp;&nbsp;CNNTrump on Legislation to Address the Nation’s Housing Crisis: ‘It’s a Yawn’&nbsp;&nbsp;The New York TimesWhat to Know About the Landma",
-      "section": "us_domestic"
-    },
-    {
-      "title": "Supreme Court rules mail-in ballots arriving after Election Day can be counted - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMFlManFwc09rWGhlNXVpbGdDUVNTX2FnWUlOOEw5cnNsVzV2ektWTUhtZ1pJYlV4SGtDZ2M0bjVZeW1JMk9sUDhZazBNU3U5cnJDMUZIWEVOQ3M2RzZhWFJpVUYtS2RGcWpSUzh6QWhoXzJ0YWtaNDFXMld1VUpyT0pxZTU5cXZqZklieGE3b0xJZXBYcVBGcExCN3I0a2k0cW1zejNrYnY0bzByS2RkQjA2cWhjZW1uTWZyaWExSE9ORlE2UWczbW1B?oc=5",
-      "image_url": null,
-      "source": "Google News US",
-      "published": "2026-06-30T03:02:06+00:00",
-      "summary": "Supreme Court rules mail-in ballots arriving after Election Day can be counted&nbsp;&nbsp;The Washington PostThe Supreme Court handed Trump an election case defeat. Is a bigger win for him coming?&nbsp;&nbsp;CNNSupreme Court Decision on Late-Arriving Mail-In Ballots Grants Relief to 18 States&nbsp;&",
-      "section": "us_domestic"
     }
   ],
   "_meta": {
-    "generated_at": "2026-06-30T04:03:39.460742Z",
+    "generated_at": "2026-06-30T12:30:18.703939Z",
     "source": "hermes-pi"
   },
   "chatter": {
@@ -499,16 +499,7 @@
     "📉 After-Hours Movers": "After-hours is quiet — the action all happened in the regular session. Key takeaways:\n\n- **$SPY** — The 3%+ intraday reversal in the S&P was the headline event. Gapped up $760B on Iran news, nearly flushed the whole gain, then recovered to close up.\n- **$NKE** — Earnings this week. Options flow showing elevated IV — positioning for a big move.\n- **$STZ**, **$GIS** — Consumer staples earnings in a shortened week. Defensives could get rotation if the hawkish Fed narrative takes hold.\n- **Macro tug of war:** Geopolitical optimism (Iran de-escalation) vs. hawkish Fed reality (July hike odds rising). That tension is keeping vol elevated into the close.\n\n---",
     "🔮 Next Day Setup": "**Event radar for Tuesday:**\n\n- 📊 **PCE inflation data** — the Fed's preferred gauge. Any upside surprise validates the 25bps July hike chatter and hits risk assets.\n- 🏢 **$NKE earnings** — bellwether for consumer health. A miss compounds the demand-worry narrative.\n- 🇮🇷 **US-Iran talks follow-through** — any positive headline = risk-on, any breakdown = safe-haven bid.\n- 📉 **Shortened 4-day week** — July 4th means thin liquidity. Moves will amplify.\n\n**The big question:** Was today's $860B recovery a true **capitulation washout** with fresh institutional buying, or a **dead cat bounce** before the Fed reality sets in?\n\n**Futures watch:** Pay close attention to overnight S&P and Nasdaq futures. If they hold gains into Tuesday's cash open, the bulls have momentum. A fade into pre-market = the hawkish Fed narrative wins.\n\n**$BTC / crypto vulnerable** — if FOMC is truly 9-12 for a hike, risk-off rotation starts with the most speculative corners."
   },
-  "audio": {
-    "daily_brief": "https://raw.githubusercontent.com/pencrusader/trivia__news/main/audio/daily_brief_2026-06-29.ogg",
-    "chatter": "https://raw.githubusercontent.com/pencrusader/trivia__news/main/audio/chatter_2026-06-29.ogg"
-  },
   "narrative": {
-    "🌍 Global Macro": "**Comcast surges 23%** after announcing it will spin off its media and tech wings into separate public companies — a corporate earthquake forcing sector re-rating. **Putin's fuel shortage admission** signals growing strain on Russia's energy infrastructure. **SpaceX's $25B bond sale** is driving huge investor demand, though analysts warn of downstream headaches. **Trump bought up to $5M in Axon stock** before ICE sought a $220M Taser deal — fresh conflict-of-interest scrutiny. **Oil prices rose** as the U.S. and Iran reached a deal to halt attacks; U.S. crude reclaimed $70. The Iran de-escalation is the single most market-positive headline this morning.",
-    "🇺🇸 US Domestic": "**Stock futures jump** as tech shares gain and the U.S.-Iran agreement removes a major geopolitical overhang. The Comcast spinoff dominates here too — implications for media valuations nationwide. SpaceX's mega-bond sale continues drawing retail and institutional attention. The Trump-Axon stock purchase ahead of an ICE procurement decision draws ethics watchdog scrutiny. And Deutsche Bank projects **Europe's earnings poised for double-digit growth**, with industrials doing the heavy lifting. Overall domestic tape: **risk-on**, futures pointing higher.",
-    "💼 Business & Markets": "**SpaceX joins the Nasdaq-100 on July 7** — index-tracking funds will be forced to accumulate. **Firefly Aerospace** acquires Space-ng for autonomous navigation capabilities — more space-sector consolidation. **Figma (FIG)** continues drawing bullish coverage as the best new stock alongside SpaceX. **IRMAA surcharges** hit retirees two years after property sales — capital gains triggering Medicare premium hikes. And a cautionary tale on conflicted auto insurance representation. Business tone is **constructive**.",
-    "🔬 Science": "**Soil microbes** may rescue crops from increasingly salty farmland — a potential climate-agriculture breakthrough. Astronomers found **two super puff planets lighter than cotton candy**, challenging formation models. The **Einstein Probe** may have caught a black hole tearing apart a white dwarf — a first. Participants who knew a pill was **fake still showed memory improvement** — expectation alone drives cognitive gains. And **Hawaii is turning ocean plastic** and fishing nets into roads. Science today leans optimistic and discovery-forward.",
-    "🤖 Tech & AI": "A journal retracted **two 1940s papers by Max Planck** — questions about historical scientific integrity. **Apple and Audi alumni** built a luxury EV based on the moon buggy — a new entrant in the crowded EV space. **South Korea plans** to train its entire military as \"drone warriors\" — a massive defense doctrine shift toward unmanned systems. Doctors suspected **brain cancer but found worms** — parasitic infections mimicking tumors. And starting **July 1, California** makes streaming services' obnoxiously loud ads illegal — audio normalization compliance forced.",
-    "📊 Market Impact Summary": "**Verdict: Risk-on open.** The U.S.-Iran de-escalation is the dominant tail-risk removal, driving futures higher and supporting an equity bid.\n\n**Sectors to watch:**\n- ⚡ **Energy** — crude above $70, but de-escalation caps upside\n- 📺 **Media & Telecom** — Comcast spinoff re-rates the sector\n- 🚀 **Aerospace & Defense** — SpaceX index inclusion, Firefly M&A, Korea drone doctrine\n- 📈 **IPOs** — Figma and SpaceX index flows\n\n**Key event ahead:** SpaceX's **July 7 Nasdaq-100 addition** — index funds must build positions, creating near-term demand. Watch for profit-taking if the open gaps too hot."
+    "📅 Morning Briefing — Tuesday, June 30, 2026": "---\n\n### 🌍 Global Macro\n\n**Mag 7 value shrinks by $2.3 trillion** as AI spending jitters rattle investors — though **chipmakers remain well bid**. Oil prices set for a **steep monthly drop** as Trump and Iran send mixed signals ahead of talks in Qatar. French biotech **Abivax surged 34%** on new drug data. Indonesia jailed its former education minister 10 years for a Chromebook graft case. And a top European central banker warns inflation will stay **\"significantly above target\"** for the foreseeable future.\n\n---\n\n### 🇺🇸 US Domestic\n\n**Small-cap stocks** are notching their **best first half in 35 years** — a sharp reversal from years of large-cap dominance. Medicare will **start covering obesity drugs** (Wegovy, Zepbound) for seniors beginning July 1, unlocking a major new patient pool for Novo Nordisk and Eli Lilly. A **memory stock is up eightfold** in 2026, with Bernstein calling for more gains. Premarket movers: AeroVironment, Strategy, and Merck.\n\n---\n\n### 💼 Business & Markets\n\nA **79-year-old fashion retailer** shut 136 stores and killed a brand. **Gold hangs just above $4,000** with analysts eyeing further upside. **Oracle launched Fusion Agentic Applications** to automate supply chains with AI. ReElement Technologies and POSCO formed a **$200M JV** for US rare earth production. HSBC says the **AI trade could surprise to the upside** in H2, while Wells Fargo calls for a **summer rally**.\n\n---\n\n### 🔬 Science\n\nScientists may have cracked **how Alzheimer's spreads**: a common brain protein carries toxic Tau between neurons — blocking it could slow the disease. **Creatine shows promise against depression** by boosting brain energy. Tiny **soil microbes rescue crops from salty farmland** by strengthening roots with lignin. And astronomers confirmed two **super-puff planets less dense than cotton candy** — plus a rare glimpse of a black hole tearing apart a white dwarf.\n\n---\n\n### 🤖 Tech & AI\n\nThe **US offers $10 million** for intel on Russian state hackers targeting Signal and WhatsApp. **South Korea commits $1 trillion** to memory chips and humanoid robots, targeting commercial bots by 2028. **Solar outproduced coal** in April, marking a key renewable milestone. The Supreme Court **gutted geofence warrant** use by law enforcement. And **Sony deleted digital content** from user libraries — a stark reminder that digital purchases aren't ownership.\n\n---\n\n### 📊 Market Impact Summary\n\n**Verdict:** Cautious but not bearish. The Mag 7 sell-off sets a mixed open, but **small-cap rotation** and a **broadening rally** suggest healthy market churn, not panic.\n\n- **Sectors to watch:** Semis (well-bid despite AI scrutiny), **Healthcare** (Medicare GLP-1 catalyst), **Gold** ($4K+ signals macro uncertainty), **Energy** (under pressure from sliding oil)\n- **Key event ahead:** US–Iran talks in **Doha on Tuesday** — could set oil direction for the rest of the quarter.\n\nMarkets enter H2 with momentum from a stellar first half, but AI spending scrutiny and sticky inflation create genuine crosscurrents."
   }
 }
