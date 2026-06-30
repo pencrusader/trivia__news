@@ -1,5 +1,3 @@
----
-
 # 🐦 Market Chatter — Mon June 29, 2026
 
 ## 🐦 Social Sentiment
