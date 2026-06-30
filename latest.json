@@ -1,26 +1,26 @@
 {
-  "date": "2026-06-30",
+  "date": "2026-06-29",
   "sections": {
     "tech": [
-      "US offers $10 million for info on group behind Signal and WhatsApp hacking spree",
-      "South Korea to spend $1T on more memory chip production and humanoid robots",
-      "US renewable boom passes key milestone in April",
-      "Supreme Court ruling guts government’s use of geofence warrants",
-      "Sony erases digital content from libraries; we're reminded we don’t own what we buy"
-    ],
-    "global_macro": [
-      "China factory activity grows faster than expected in June on tech export demand",
-      "Japanese yen sinks to 40-year low, keeping intervention risks in focus",
-      "Trump says U.S. and Iran to hold fresh talks in Qatar on Tuesday following weekend clashes",
-      "Stock futures are little changed after the Dow posts new record close: Live updates",
-      "CNBC's The China Connection newsletter: U.S.-China tech rivalry heats up—in other countries"
+      "Why did this journal retract two 1940s papers by Max Planck?",
+      "Apple and Audi alumni have made a luxe EV based on the moon buggy",
+      "South Korea plans to train entire military as \"drone warriors\"",
+      "Doctors suspected man had brain cancer. He actually had worms.",
+      "Streaming services’ obnoxiously loud ads become illegal on July 1 in California"
     ],
     "business": [
-      "79-year-old fashion retailer closed 136 stores, killed one of its brands",
-      "Is PDD Holdings (PDD) One of the Best Non-Tech Stocks to Buy According to Analysts?",
-      "Is DoorDash (DASH) One of the Best Non-Tech Stocks to Buy According to Analysts?",
-      "TD Cowen Remains Bullish on Intercontinental Exchange (ICE)",
-      "Newmont Corporation (NEM) Provides Update Following Seismic Event"
+      "IRMAA hits retirees two years after property sale",
+      "SpaceX Stock Will Join The Nasdaq-100 Index On July 7",
+      "The driver who hit me has the same insurer as me. Now I see the same guy is representing both of us — how is this fair?",
+      "Figma (FIG): The Best New Stock to Buy Other Than SpaceX",
+      "Firefly Aerospace (FLY) to Acquire Space-ng for Autonomous Navigation Capabilities"
+    ],
+    "global_macro": [
+      "Comcast soars 23% after announcing it will spin off media and tech wings into separate public companies",
+      "Putin’s fuel shortage admission signals growing strain on Russia’s energy infrastructure",
+      "SpaceX's $25 billion bond sale drives huge demand - and a potential headache for investors",
+      "Trump bought as much as $5 million in Axon stock before ICE sought $220 million Taser deal",
+      "Oil prices rise as U.S. and Iran reach deal to halt attacks; U.S. crude back above $70"
     ],
     "science": [
       "These tiny soil microbes could rescue crops from salty farmland",
@@ -30,11 +30,11 @@
       "Hawaii is turning ocean plastic and fishing nets into roads"
     ],
     "us_domestic": [
-      "China factory activity grows faster than expected in June on tech export demand",
-      "Stock futures are little changed after the Dow posts new record close: Live updates",
-      "Japanese yen sinks to 40-year low, keeping intervention risks in focus",
+      "Stock futures jump as tech shares gain, U.S.-Iran agree to halt hostilities: Live updates",
+      "Comcast soars 23% after announcing it will spin off media and tech wings into separate public companies",
+      "SpaceX's $25 billion bond sale drives huge demand - and a potential headache for investors",
       "Trump bought as much as $5 million in Axon stock before ICE sought $220 million Taser deal",
-      "Australia's competition regulator takes Amazon to court over alleged unfair Prime subscription contract terms"
+      "Europe’s earnings are poised for double-digit growth. One sector will do the heavy lifting, says Deutsche"
     ]
   },
   "articles": [
@@ -129,96 +129,6 @@
       "section": "tech"
     },
     {
-      "title": "China factory activity grows faster than expected in June on tech export demand",
-      "link": "https://www.cnbc.com/2026/06/30/china-factory-activity-june-tech-export-demand-pmi-nbs.html",
-      "image_url": null,
-      "source": "CNBC World",
-      "published": "2026-06-30T02:35:39+00:00",
-      "summary": "China's manufacturing engine held up this year as surging demand for artificial intelligence technology helped offset the drag from Middle East turmoil.",
-      "section": "global_macro"
-    },
-    {
-      "title": "Japanese yen sinks to 40-year low, keeping intervention risks in focus",
-      "link": "https://www.cnbc.com/2026/06/30/japan-yen-falls-lowest-level-since-1986-dollar-intervention-risk.html",
-      "image_url": null,
-      "source": "CNBC World",
-      "published": "2026-06-30T03:41:34+00:00",
-      "summary": "The Japanese yen weakened to its lowest level against the U.S. dollar since 1986 on Tuesday, keeping investors on alert for possible intervention from Japanese authorities.",
-      "section": "global_macro"
-    },
-    {
-      "title": "Trump says U.S. and Iran to hold fresh talks in Qatar on Tuesday following weekend clashes",
-      "link": "https://www.cnbc.com/2026/06/29/trump-us-iran-talks-qatar-hormuz.html",
-      "image_url": null,
-      "source": "CNBC World",
-      "published": "2026-06-29T14:30:57+00:00",
-      "summary": "The U.S. and Iran are poised to hold fresh talks on Tuesday in Qatar's capital, President Donald Trump said via social media on Monday.",
-      "section": "global_macro"
-    },
-    {
-      "title": "Stock futures are little changed after the Dow posts new record close: Live updates",
-      "link": "https://www.cnbc.com/2026/06/29/stock-market-today-live-updates.html",
-      "image_url": null,
-      "source": "CNBC World",
-      "published": "2026-06-30T03:20:27+00:00",
-      "summary": "Gains in Alphabet and a pause in U.S.-Iran hostilities boosted the Dow Industrials to its first close above 52,000 on Monday.",
-      "section": "global_macro"
-    },
-    {
-      "title": "CNBC's The China Connection newsletter: U.S.-China tech rivalry heats up—in other countries",
-      "link": "https://www.cnbc.com/2026/06/29/cnbcs-the-china-connection-newsletter-us-tech-rivalry-heats-up.html",
-      "image_url": null,
-      "source": "CNBC World",
-      "published": "2026-06-29T23:00:01+00:00",
-      "summary": "U.S. and Chinese tech companies are increasingly pursuing opportunities outside their home markets, with government policy support.",
-      "section": "global_macro"
-    },
-    {
-      "title": "Aftershock frays nerves as many Venezuelans left to fend for themselves",
-      "link": "https://www.bbc.co.uk/news/articles/cqj1210rj0yo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1c3/live/dd101930-73e9-11f1-bb9e-33cb2da512b5.png",
-      "source": "BBC World",
-      "published": "2026-06-29T20:00:44+00:00",
-      "summary": "In areas devastated by the twin earthquakes, people are using crowbars, pickaxes and their bare hands to try to reach survivors.",
-      "section": "global_macro"
-    },
-    {
-      "title": "'No one move!': The agonising silence as Venezuela rescuers listen for survivors",
-      "link": "https://www.bbc.co.uk/news/articles/c78yvq72dg7o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36ab/live/e9689b00-73ce-11f1-8546-8f19e4fe30f4.jpg",
-      "source": "BBC World",
-      "published": "2026-06-29T21:19:28+00:00",
-      "summary": "With tens of thousands of people still believed missing, teams listen for signs of life beneath the rubble.",
-      "section": "global_macro"
-    },
-    {
-      "title": "Six people shot dead at centre for mothers and children in Germany",
-      "link": "https://www.bbc.co.uk/news/articles/c17yzzw1vkjo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/259a/live/e19d9af0-73c5-11f1-a785-7f6fcfc76fe8.jpg",
-      "source": "BBC World",
-      "published": "2026-06-29T19:53:57+00:00",
-      "summary": "The male suspect who has been arrested was in a custody dispute over his baby daughter, police say.",
-      "section": "global_macro"
-    },
-    {
-      "title": "One big win and three defeats for Trump in dramatic day at Supreme Court",
-      "link": "https://www.bbc.co.uk/news/articles/ceqdzd7zx24o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6822/live/fe2df4d0-7401-11f1-8e1d-bbbb1017d210.jpg",
-      "source": "BBC World",
-      "published": "2026-06-29T20:34:52+00:00",
-      "summary": "While Trump celebrated a ruling expanding presidential power to remove and replace regulators, other decisions were major setbacks.",
-      "section": "global_macro"
-    },
-    {
-      "title": "US says it has agreed to 'stand down' after exchange of strikes with Iran",
-      "link": "https://www.bbc.co.uk/news/articles/c872rjw17qpo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f1a/live/c0952770-737e-11f1-b1db-af71d47507d6.jpg",
-      "source": "BBC World",
-      "published": "2026-06-29T14:52:10+00:00",
-      "summary": "A series of strikes over the weekend saw the US and Iran accuse each other of violating the ceasefire agreement.",
-      "section": "global_macro"
-    },
-    {
       "title": "79-year-old fashion retailer closed 136 stores, killed one of its brands",
       "link": "https://finance.yahoo.com/markets/stocks/articles/h-m-closed-136-stores-012815718.html",
       "image_url": "https://media.zenfs.com/en/thestreet_881/6c68c19348bf57d5cf2d0b2066bf45cc",
@@ -307,6 +217,96 @@
       "published": "2026-06-29T21:24:00+00:00",
       "summary": "EV maker’s stock has best day in over a year, but is still down for the month.",
       "section": "business"
+    },
+    {
+      "title": "China factory activity grows faster than expected in June on tech export demand",
+      "link": "https://www.cnbc.com/2026/06/30/china-factory-activity-june-tech-export-demand-pmi-nbs.html",
+      "image_url": null,
+      "source": "CNBC World",
+      "published": "2026-06-30T02:35:39+00:00",
+      "summary": "China's manufacturing engine held up this year as surging demand for artificial intelligence technology helped offset the drag from Middle East turmoil.",
+      "section": "global_macro"
+    },
+    {
+      "title": "Japanese yen sinks to 40-year low, keeping intervention risks in focus",
+      "link": "https://www.cnbc.com/2026/06/30/japan-yen-falls-lowest-level-since-1986-dollar-intervention-risk.html",
+      "image_url": null,
+      "source": "CNBC World",
+      "published": "2026-06-30T04:00:57+00:00",
+      "summary": "The Japanese yen weakened to its lowest level against the U.S. dollar since 1986 on Tuesday, keeping investors on alert for possible intervention from Japanese authorities.",
+      "section": "global_macro"
+    },
+    {
+      "title": "Trump says U.S. and Iran to hold fresh talks in Qatar on Tuesday following weekend clashes",
+      "link": "https://www.cnbc.com/2026/06/29/trump-us-iran-talks-qatar-hormuz.html",
+      "image_url": null,
+      "source": "CNBC World",
+      "published": "2026-06-29T14:30:57+00:00",
+      "summary": "The U.S. and Iran are poised to hold fresh talks on Tuesday in Qatar's capital, President Donald Trump said via social media on Monday.",
+      "section": "global_macro"
+    },
+    {
+      "title": "Stock futures are little changed after the Dow posts new record close: Live updates",
+      "link": "https://www.cnbc.com/2026/06/29/stock-market-today-live-updates.html",
+      "image_url": null,
+      "source": "CNBC World",
+      "published": "2026-06-30T03:20:27+00:00",
+      "summary": "Gains in Alphabet and a pause in U.S.-Iran hostilities boosted the Dow Industrials to its first close above 52,000 on Monday.",
+      "section": "global_macro"
+    },
+    {
+      "title": "CNBC's The China Connection newsletter: U.S.-China tech rivalry heats up—in other countries",
+      "link": "https://www.cnbc.com/2026/06/29/cnbcs-the-china-connection-newsletter-us-tech-rivalry-heats-up.html",
+      "image_url": null,
+      "source": "CNBC World",
+      "published": "2026-06-29T23:00:01+00:00",
+      "summary": "U.S. and Chinese tech companies are increasingly pursuing opportunities outside their home markets, with government policy support.",
+      "section": "global_macro"
+    },
+    {
+      "title": "Aftershock frays nerves as many Venezuelans left to fend for themselves",
+      "link": "https://www.bbc.co.uk/news/articles/cqj1210rj0yo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1c3/live/dd101930-73e9-11f1-bb9e-33cb2da512b5.png",
+      "source": "BBC World",
+      "published": "2026-06-29T20:00:44+00:00",
+      "summary": "In areas devastated by the twin earthquakes, people are using crowbars, pickaxes and their bare hands to try to reach survivors.",
+      "section": "global_macro"
+    },
+    {
+      "title": "'No one move!': The agonising silence as Venezuela rescuers listen for survivors",
+      "link": "https://www.bbc.co.uk/news/articles/c78yvq72dg7o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/36ab/live/e9689b00-73ce-11f1-8546-8f19e4fe30f4.jpg",
+      "source": "BBC World",
+      "published": "2026-06-29T21:19:28+00:00",
+      "summary": "With tens of thousands of people still believed missing, teams listen for signs of life beneath the rubble.",
+      "section": "global_macro"
+    },
+    {
+      "title": "Six people shot dead at centre for mothers and children in Germany",
+      "link": "https://www.bbc.co.uk/news/articles/c17yzzw1vkjo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/259a/live/e19d9af0-73c5-11f1-a785-7f6fcfc76fe8.jpg",
+      "source": "BBC World",
+      "published": "2026-06-29T19:53:57+00:00",
+      "summary": "The male suspect who has been arrested was in a custody dispute over his baby daughter, police say.",
+      "section": "global_macro"
+    },
+    {
+      "title": "One big win and three defeats for Trump in dramatic day at Supreme Court",
+      "link": "https://www.bbc.co.uk/news/articles/ceqdzd7zx24o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6822/live/fe2df4d0-7401-11f1-8e1d-bbbb1017d210.jpg",
+      "source": "BBC World",
+      "published": "2026-06-29T20:34:52+00:00",
+      "summary": "While Trump celebrated a ruling expanding presidential power to remove and replace regulators, other decisions were major setbacks.",
+      "section": "global_macro"
+    },
+    {
+      "title": "US says it has agreed to 'stand down' after exchange of strikes with Iran",
+      "link": "https://www.bbc.co.uk/news/articles/c872rjw17qpo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f1a/live/c0952770-737e-11f1-b1db-af71d47507d6.jpg",
+      "source": "BBC World",
+      "published": "2026-06-29T14:52:10+00:00",
+      "summary": "A series of strikes over the weekend saw the US and Iran accuse each other of violating the ceasefire agreement.",
+      "section": "global_macro"
     },
     {
       "title": "These tiny soil microbes could rescue crops from salty farmland",
@@ -421,7 +421,7 @@
       "link": "https://www.cnbc.com/2026/06/30/japan-yen-falls-lowest-level-since-1986-dollar-intervention-risk.html",
       "image_url": null,
       "source": "CNBC Top",
-      "published": "2026-06-30T03:41:34+00:00",
+      "published": "2026-06-30T04:00:57+00:00",
       "summary": "The Japanese yen weakened to its lowest level against the U.S. dollar since 1986 on Tuesday, keeping investors on alert for possible intervention from Japanese authorities.",
       "section": "us_domestic"
     },
@@ -444,30 +444,12 @@
       "section": "us_domestic"
     },
     {
-      "title": "Supreme Court expands Trump’s power over the federal bureaucracy - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZnYtQlF3d3VfR2xkV29CdGFUWUxpUEY5Ml9Ld3V1Z0pveHFDTkJkTE1oUEc1U0E4a3VrS1pLRFBsZlFiQzhkd2p1UHhrSnF3S3M4cmJXZHNtbDVDWjhMY1NpUGdfN0VHUVNEQ3N3U0trZ0VyeHk2ODVTR1ZuZXBzd3ZuYks3ZnY1Ym9IZEZaaXNNa0VjOUlYM0ZCVnNabklCS1N3OGZ5Z3RKZmRQd0c1SQ?oc=5",
+      "title": "Justices Expand Presidential Power Over Regulators, but Not the Fed - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbXQzdmo2Sm55N3phSWc4R0VvQnUxNkFoOE1XS2lEeGs5WS1GWGpYV2Ntbnk2Tm9FTW5yeFJxRWZTYldfZUdqXy1hVFhoSmNBVGEyZG5GY1lLTkFGVlhTSVpHY0hrQl8xRmJsSGdoX1Y1dHJMcGFxSGtERlJEVHJqeHRSM2ljNjFm?oc=5",
       "image_url": null,
       "source": "Google News US",
-      "published": "2026-06-30T02:13:28+00:00",
-      "summary": "Supreme Court expands Trump’s power over the federal bureaucracy&nbsp;&nbsp;The Washington PostOne big win and three defeats for Trump in dramatic day at Supreme Court&nbsp;&nbsp;BBCSupreme Court takes sledgehammer to much of federal government’s regulatory structure&nbsp;&nbsp;NPRSupreme Court says",
-      "section": "us_domestic"
-    },
-    {
-      "title": "Trump’s voting restrictions face roadblocks from Congress and the Supreme Court - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPRkxyVHZZYllYaFozdmQ1Mm02di1UbVM2UEp1WFpXaE1VUXMwWmpBVGxLTXBubmpRb0wyamM3UEM1OFVUUzlzbU9PSHc4dHpoQ0FHQUh2b05UaFZhWmNxQnIxSEViNHhrODVteE42VDdDUHhPUG5Qc0Mtd0MtSG1CZWxsOEZhaEo3QnNSTTZmbkJCMkdvS3VTb3VER2JvUlF3dFpJal93c2M3bDM4NnliZU80aFExV256?oc=5",
-      "image_url": null,
-      "source": "Google News US",
-      "published": "2026-06-29T20:59:12+00:00",
-      "summary": "Trump’s voting restrictions face roadblocks from Congress and the Supreme Court&nbsp;&nbsp;NBC NewsThe Supreme Court handed Trump an election case defeat. Is a bigger win for him coming?&nbsp;&nbsp;CNNNV Secretary of State opponents sharing strong differences on SCOTUS mail-in ballot ruling&nbsp;&nb",
-      "section": "us_domestic"
-    },
-    {
-      "title": "Trump on Legislation to Address the Nation’s Housing Crisis: ‘It’s a Yawn’ - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9ZNE5xUERtQlRUVjI4bnZ3eXdFeUIzNk5qbFVUbGdHVW5HQmVNa1ZNYmRpb0VqRVpFMTZUVExrQmgzMlZ5YjZ4ZnJwTno0VFdrWktrZzRZaVVnUk5lUUdjbWFMNjhxU2Z0RjZobDBXakJxd0k3LVQ2SlRR?oc=5",
-      "image_url": null,
-      "source": "Google News US",
-      "published": "2026-06-29T22:21:14+00:00",
-      "summary": "Trump on Legislation to Address the Nation’s Housing Crisis: ‘It’s a Yawn’&nbsp;&nbsp;The New York TimesSpeaker Johnson sends bipartisan housing bill to White House — but Trump says it’s a ‘yawn’&nbsp;&nbsp;CNNJohnson says housing bill will become law&nbsp;&nbsp;PoliticoWhat to Know About the Landma",
+      "published": "2026-06-30T03:01:25+00:00",
+      "summary": "Justices Expand Presidential Power Over Regulators, but Not the Fed&nbsp;&nbsp;The New York TimesOne big win and three defeats for Trump in dramatic day at Supreme Court&nbsp;&nbsp;BBCSupreme Court takes sledgehammer to much of federal government’s regulatory structure&nbsp;&nbsp;NPRSupreme Court ru",
       "section": "us_domestic"
     },
     {
@@ -480,17 +462,53 @@
       "section": "us_domestic"
     },
     {
-      "title": "Trump says Carroll verdict setback surprised him - Axios",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE84amhPcGRMazZPeEN5TktFbkNULXE5Unpza29udzNoQ3pvSi15dVpWcmFaVUtjZWxTRzJMN3R6NVJQUWs2b21lS0RKb3l1WXJtZkNpalI3WXFrVnZZN3BkczR0YmJxYTdvX185Zg?oc=5",
+      "title": "Live updates: Trump and Iran issue conflicting statements about new talks - CNN",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9MVi1NaU82STg3WmRydk9wSkcyR1BhTmNHQnRxR1lvcWNJVXdWMngtZlBmQXJrR0M5eW4tU28zd3ZvdFpobFNVYkF1Z29DNEVFQWFCaGZDb0NaSmp5RWVmZGdxX2xwalRUa0lhQVlqLWlZbEp3QjJLQg?oc=5",
       "image_url": null,
       "source": "Google News US",
-      "published": "2026-06-29T21:22:41+00:00",
-      "summary": "Trump says Carroll verdict setback surprised him&nbsp;&nbsp;AxiosSupreme Court Rejects Trump’s Request to Appeal $5 Million Verdict in E. Jean Carroll Case&nbsp;&nbsp;The New York TimesTrump must pay E. Jean Carroll $5 million after Supreme Court denies his appeal of sexual abuse verdict&nbsp;&nbsp;",
+      "published": "2026-06-30T02:44:00+00:00",
+      "summary": "Live updates: Trump and Iran issue conflicting statements about new talks&nbsp;&nbsp;CNNSee more headlines & perspectives on Google News",
+      "section": "us_domestic"
+    },
+    {
+      "title": "Johnson says housing bill will become law - Politico",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNa1U5dW5iU2FXLUtUOTZQRFRIS3NGay14RzgzOXJCaVo3eDNPQWstemdyQTFVRk42ekdzWG1vZ0Z1N0I2dlhzWmlmWGVYSHFhRTVHWXZCQWstNjMzQ1NKdTVMWnUwSktHai1Oamx2WU1UM0lqOW1HRmRIRmhYd29ncDBUWkhKOTlaUHZUdnpKcHF0MWlWcHJLb21SM1gxLWhSb1VLQkxzZzZoRldi?oc=5",
+      "image_url": null,
+      "source": "Google News US",
+      "published": "2026-06-30T00:10:45+00:00",
+      "summary": "Johnson says housing bill will become law&nbsp;&nbsp;PoliticoSpeaker Johnson sends bipartisan housing bill to White House — but Trump says it’s a ‘yawn’&nbsp;&nbsp;CNNTrump on Legislation to Address the Nation’s Housing Crisis: ‘It’s a Yawn’&nbsp;&nbsp;The New York TimesWhat to Know About the Landma",
+      "section": "us_domestic"
+    },
+    {
+      "title": "Supreme Court rules mail-in ballots arriving after Election Day can be counted - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMFlManFwc09rWGhlNXVpbGdDUVNTX2FnWUlOOEw5cnNsVzV2ektWTUhtZ1pJYlV4SGtDZ2M0bjVZeW1JMk9sUDhZazBNU3U5cnJDMUZIWEVOQ3M2RzZhWFJpVUYtS2RGcWpSUzh6QWhoXzJ0YWtaNDFXMld1VUpyT0pxZTU5cXZqZklieGE3b0xJZXBYcVBGcExCN3I0a2k0cW1zejNrYnY0bzByS2RkQjA2cWhjZW1uTWZyaWExSE9ORlE2UWczbW1B?oc=5",
+      "image_url": null,
+      "source": "Google News US",
+      "published": "2026-06-30T03:02:06+00:00",
+      "summary": "Supreme Court rules mail-in ballots arriving after Election Day can be counted&nbsp;&nbsp;The Washington PostThe Supreme Court handed Trump an election case defeat. Is a bigger win for him coming?&nbsp;&nbsp;CNNSupreme Court Decision on Late-Arriving Mail-In Ballots Grants Relief to 18 States&nbsp;&",
       "section": "us_domestic"
     }
   ],
   "_meta": {
-    "generated_at": "2026-06-30T04:00:18.421395Z",
+    "generated_at": "2026-06-30T04:03:39.460742Z",
     "source": "hermes-pi"
+  },
+  "chatter": {
+    "preamble": "# 🐦 Market Chatter — Mon June 29, 2026",
+    "🐦 Social Sentiment": "**Mood: Chaotic Bullish with a Hawkish Shadow.** Twitter is losing its mind over today's $860B intraday swing — the biggest single-session reversal in months. Trump's Iran-talking-points sparked a massive gap-up, then a near-total wipeout, then a full recovery into the close.\n\n**Top voices:**\n\n> @dayxtrading: *\"THIS IS INSANE VOLATILITY — $760B added, then $700B wiped, then $860B added back. 🤯\"*\n\n> @cryptorover: *\"$500,000,000,000 added to US stocks in 5 minutes after open.\"*\n\n> @CryptoNobler: *\"🚨 9 OUT OF 12 FOMC MEMBERS SUPPORT A 25 BPS RATE HIKE IN JULY. Fed chair calling for hikes amid rising inflation and AI bubble fears. Bad for BTC and risk assets.\"*\n\n> @SteveRattner: *\"PCE inflation — the gauge behind the Fed.\"*\n\n> @TFTC21: *\"The Fed has printed 25-30% inflation and parked it like a battery on its balance sheet.\"*\n\n**The vibe:** A split personality. Bulls are high-fiving over the wild recovery and Iran-de-escalation catalyst. But the FOMC-hawk narrative is building fast — and **that's the story that matters for the weeks ahead.**\n\n---",
+    "📉 After-Hours Movers": "After-hours is quiet — the action all happened in the regular session. Key takeaways:\n\n- **$SPY** — The 3%+ intraday reversal in the S&P was the headline event. Gapped up $760B on Iran news, nearly flushed the whole gain, then recovered to close up.\n- **$NKE** — Earnings this week. Options flow showing elevated IV — positioning for a big move.\n- **$STZ**, **$GIS** — Consumer staples earnings in a shortened week. Defensives could get rotation if the hawkish Fed narrative takes hold.\n- **Macro tug of war:** Geopolitical optimism (Iran de-escalation) vs. hawkish Fed reality (July hike odds rising). That tension is keeping vol elevated into the close.\n\n---",
+    "🔮 Next Day Setup": "**Event radar for Tuesday:**\n\n- 📊 **PCE inflation data** — the Fed's preferred gauge. Any upside surprise validates the 25bps July hike chatter and hits risk assets.\n- 🏢 **$NKE earnings** — bellwether for consumer health. A miss compounds the demand-worry narrative.\n- 🇮🇷 **US-Iran talks follow-through** — any positive headline = risk-on, any breakdown = safe-haven bid.\n- 📉 **Shortened 4-day week** — July 4th means thin liquidity. Moves will amplify.\n\n**The big question:** Was today's $860B recovery a true **capitulation washout** with fresh institutional buying, or a **dead cat bounce** before the Fed reality sets in?\n\n**Futures watch:** Pay close attention to overnight S&P and Nasdaq futures. If they hold gains into Tuesday's cash open, the bulls have momentum. A fade into pre-market = the hawkish Fed narrative wins.\n\n**$BTC / crypto vulnerable** — if FOMC is truly 9-12 for a hike, risk-off rotation starts with the most speculative corners."
+  },
+  "audio": {
+    "daily_brief": "https://raw.githubusercontent.com/pencrusader/trivia__news/main/audio/daily_brief_2026-06-29.ogg",
+    "chatter": "https://raw.githubusercontent.com/pencrusader/trivia__news/main/audio/chatter_2026-06-29.ogg"
+  },
+  "narrative": {
+    "🌍 Global Macro": "**Comcast surges 23%** after announcing it will spin off its media and tech wings into separate public companies — a corporate earthquake forcing sector re-rating. **Putin's fuel shortage admission** signals growing strain on Russia's energy infrastructure. **SpaceX's $25B bond sale** is driving huge investor demand, though analysts warn of downstream headaches. **Trump bought up to $5M in Axon stock** before ICE sought a $220M Taser deal — fresh conflict-of-interest scrutiny. **Oil prices rose** as the U.S. and Iran reached a deal to halt attacks; U.S. crude reclaimed $70. The Iran de-escalation is the single most market-positive headline this morning.",
+    "🇺🇸 US Domestic": "**Stock futures jump** as tech shares gain and the U.S.-Iran agreement removes a major geopolitical overhang. The Comcast spinoff dominates here too — implications for media valuations nationwide. SpaceX's mega-bond sale continues drawing retail and institutional attention. The Trump-Axon stock purchase ahead of an ICE procurement decision draws ethics watchdog scrutiny. And Deutsche Bank projects **Europe's earnings poised for double-digit growth**, with industrials doing the heavy lifting. Overall domestic tape: **risk-on**, futures pointing higher.",
+    "💼 Business & Markets": "**SpaceX joins the Nasdaq-100 on July 7** — index-tracking funds will be forced to accumulate. **Firefly Aerospace** acquires Space-ng for autonomous navigation capabilities — more space-sector consolidation. **Figma (FIG)** continues drawing bullish coverage as the best new stock alongside SpaceX. **IRMAA surcharges** hit retirees two years after property sales — capital gains triggering Medicare premium hikes. And a cautionary tale on conflicted auto insurance representation. Business tone is **constructive**.",
+    "🔬 Science": "**Soil microbes** may rescue crops from increasingly salty farmland — a potential climate-agriculture breakthrough. Astronomers found **two super puff planets lighter than cotton candy**, challenging formation models. The **Einstein Probe** may have caught a black hole tearing apart a white dwarf — a first. Participants who knew a pill was **fake still showed memory improvement** — expectation alone drives cognitive gains. And **Hawaii is turning ocean plastic** and fishing nets into roads. Science today leans optimistic and discovery-forward.",
+    "🤖 Tech & AI": "A journal retracted **two 1940s papers by Max Planck** — questions about historical scientific integrity. **Apple and Audi alumni** built a luxury EV based on the moon buggy — a new entrant in the crowded EV space. **South Korea plans** to train its entire military as \"drone warriors\" — a massive defense doctrine shift toward unmanned systems. Doctors suspected **brain cancer but found worms** — parasitic infections mimicking tumors. And starting **July 1, California** makes streaming services' obnoxiously loud ads illegal — audio normalization compliance forced.",
+    "📊 Market Impact Summary": "**Verdict: Risk-on open.** The U.S.-Iran de-escalation is the dominant tail-risk removal, driving futures higher and supporting an equity bid.\n\n**Sectors to watch:**\n- ⚡ **Energy** — crude above $70, but de-escalation caps upside\n- 📺 **Media & Telecom** — Comcast spinoff re-rates the sector\n- 🚀 **Aerospace & Defense** — SpaceX index inclusion, Firefly M&A, Korea drone doctrine\n- 📈 **IPOs** — Figma and SpaceX index flows\n\n**Key event ahead:** SpaceX's **July 7 Nasdaq-100 addition** — index funds must build positions, creating near-term demand. Watch for profit-taking if the open gaps too hot."
   }
 }

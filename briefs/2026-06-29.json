@@ -1,6 +1,13 @@
 {
   "date": "2026-06-29",
   "sections": {
+    "tech": [
+      "Why did this journal retract two 1940s papers by Max Planck?",
+      "Apple and Audi alumni have made a luxe EV based on the moon buggy",
+      "South Korea plans to train entire military as \"drone warriors\"",
+      "Doctors suspected man had brain cancer. He actually had worms.",
+      "Streaming services’ obnoxiously loud ads become illegal on July 1 in California"
+    ],
     "business": [
       "IRMAA hits retirees two years after property sale",
       "SpaceX Stock Will Join The Nasdaq-100 Index On July 7",
@@ -28,31 +35,105 @@
       "SpaceX's $25 billion bond sale drives huge demand - and a potential headache for investors",
       "Trump bought as much as $5 million in Axon stock before ICE sought $220 million Taser deal",
       "Europe’s earnings are poised for double-digit growth. One sector will do the heavy lifting, says Deutsche"
-    ],
-    "tech": [
-      "Why did this journal retract two 1940s papers by Max Planck?",
-      "Apple and Audi alumni have made a luxe EV based on the moon buggy",
-      "South Korea plans to train entire military as \"drone warriors\"",
-      "Doctors suspected man had brain cancer. He actually had worms.",
-      "Streaming services’ obnoxiously loud ads become illegal on July 1 in California"
     ]
   },
   "articles": [
+    {
+      "title": "US offers $10 million for info on group behind Signal and WhatsApp hacking spree",
+      "link": "https://arstechnica.com/information-technology/2026/06/us-offers-10-million-for-info-on-group-behind-signal-and-whatsapp-hacking-spree/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/russia-hacking-binary-1152x648.jpg",
+      "source": "Ars Technica",
+      "published": "2026-06-29T22:05:33+00:00",
+      "summary": "Operation by two Russia-state groups has been ongoing since at least March.",
+      "section": "tech"
+    },
+    {
+      "title": "South Korea to spend $1T on more memory chip production and humanoid robots",
+      "link": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Screenshot-2026-06-29-at-4.36.13-PM-1152x648.png",
+      "source": "Ars Technica",
+      "published": "2026-06-29T21:09:43+00:00",
+      "summary": "South Korea targets physical AI lead and commercial humanoid robots by 2028.",
+      "section": "tech"
+    },
+    {
+      "title": "US renewable boom passes key milestone in April",
+      "link": "https://arstechnica.com/science/2026/06/solar-outproduced-coal-in-april-but-not-on-the-grid/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2229677995-1152x648.jpg",
+      "source": "Ars Technica",
+      "published": "2026-06-29T20:12:30+00:00",
+      "summary": "Small-scale solar helped renewables hit nearly triple coal's generation in the US.",
+      "section": "tech"
+    },
+    {
+      "title": "Supreme Court ruling guts government’s use of geofence warrants",
+      "link": "https://arstechnica.com/tech-policy/2026/06/supreme-court-ruling-guts-governments-use-of-geofence-warrants/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2154885383-1152x648.jpg",
+      "source": "Ars Technica",
+      "published": "2026-06-29T20:04:04+00:00",
+      "summary": "SCOTUS falls short of deeming geofence warrants unconstitutional, though.",
+      "section": "tech"
+    },
+    {
+      "title": "Sony erases digital content from libraries; we're reminded we don’t own what we buy",
+      "link": "https://arstechnica.com/gadgets/2026/06/sony-erases-digital-content-from-libraries-were-reminded-we-dont-own-what-we-buy/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2020/06/abomb8-1152x648.jpg",
+      "source": "Ars Technica",
+      "published": "2026-06-29T19:10:57+00:00",
+      "summary": "Sony has been scaling down its digitial store for a few years.",
+      "section": "tech"
+    },
+    {
+      "title": "T-Mobile is booting customers from its oldest plans",
+      "link": "https://www.theverge.com/tech/959144/t-mobile-legacy-plan-retire-sprint",
+      "image_url": null,
+      "source": "The Verge",
+      "published": "2026-06-29T21:06:14+00:00",
+      "summary": "Earlier today, T-Mobile started notifying customers that it will be retiring many legacy plans and moving subscribers onto one of its current rate plans. This move includes plans that date back to the 3G era, and it's going about as well as you'd expect. Affected customers began sharing screenshots ",
+      "section": "tech"
+    },
+    {
+      "title": "After a great start, DC’s new cinematic universe is already slowing down",
+      "link": "https://www.theverge.com/entertainment/958953/supergirl-dcu-warner-bros-discovery-box-office-flop",
+      "image_url": null,
+      "source": "The Verge",
+      "published": "2026-06-29T21:00:00+00:00",
+      "summary": "While Kara Zor-El's appearance at the end of James Gunn's Superman was a very pleasant surprise, Warner Bros. Discovery's plan to fast-track a standalone Supergirl feature always felt a little dubious. It seemed odd that, after Superman, the studio wanted to flesh out its new cinematic universe with",
+      "section": "tech"
+    },
+    {
+      "title": "Leaked iPhone 18 Pro photos reportedly wound up on the dark web",
+      "link": "https://www.theverge.com/tech/959229/iphone-18-pro-leak-apple-dark-web",
+      "image_url": null,
+      "source": "The Verge",
+      "published": "2026-06-29T20:18:26+00:00",
+      "summary": "Leaked iPhone 18 Pro photos and parts lists appeared on the dark web following a data breach affecting one of Apple's key suppliers, according to a report from Reuters. The leaked images show a drop test of what a source tells Reuters is the iPhone 18 Pro, equipped with a three-camera layout and App",
+      "section": "tech"
+    },
+    {
+      "title": "Tidal won’t pay royalties on AI-generated music but isn’t banning it outright",
+      "link": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
+      "image_url": null,
+      "source": "The Verge",
+      "published": "2026-06-29T19:47:35+00:00",
+      "summary": "Tidal shared its new policies regarding AI-generated music today and how the platform plans to \"protect artists\" and \"inform listeners.\" Instead of banning it outright, starting on July 15th Tidal will label tracks it has identified as being 100 percent AI-generated with an icon. But starting today ",
+      "section": "tech"
+    },
+    {
+      "title": "Sony&#8217;s next-gen PlayStation will go ‘beyond the living room’",
+      "link": "https://www.theverge.com/games/959191/sony-next-generation-playstation-ps6-beyond-the-living-room",
+      "image_url": null,
+      "source": "The Verge",
+      "published": "2026-06-29T19:12:15+00:00",
+      "summary": "Sony hinted in a recent Q&#38;A with investors that the next generation PlayStation will offer some kind of experience that lets you play games outside of your living room. Here's the relevant portion from the transcript, emphasis mine: Q: How can you bring back to the PlayStation platform users who",
+      "section": "tech"
+    },
     {
       "title": "79-year-old fashion retailer closed 136 stores, killed one of its brands",
       "link": "https://finance.yahoo.com/markets/stocks/articles/h-m-closed-136-stores-012815718.html",
       "image_url": "https://media.zenfs.com/en/thestreet_881/6c68c19348bf57d5cf2d0b2066bf45cc",
       "source": "Yahoo Finance",
       "published": "2026-06-29T01:28:15+00:00",
-      "summary": "",
-      "section": "business"
-    },
-    {
-      "title": "TD Cowen Remains Bullish on Intercontinental Exchange (ICE)",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/td-cowen-remains-bullish-intercontinental-164522822.html",
-      "image_url": "https://media.zenfs.com/en/insidermonkey.com/22a1d7ec20743caa24f56a70cf82dcdd",
-      "source": "Yahoo Finance",
-      "published": "2026-06-28T16:45:22+00:00",
       "summary": "",
       "section": "business"
     },
@@ -71,6 +152,15 @@
       "image_url": "https://media.zenfs.com/en/insidermonkey.com/9d29eeccc8d759d9dff0b6795a07d8d3",
       "source": "Yahoo Finance",
       "published": "2026-06-28T16:45:12+00:00",
+      "summary": "",
+      "section": "business"
+    },
+    {
+      "title": "TD Cowen Remains Bullish on Intercontinental Exchange (ICE)",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/td-cowen-remains-bullish-intercontinental-164522822.html",
+      "image_url": "https://media.zenfs.com/en/insidermonkey.com/22a1d7ec20743caa24f56a70cf82dcdd",
+      "source": "Yahoo Finance",
+      "published": "2026-06-28T16:45:22+00:00",
       "summary": "",
       "section": "business"
     },
@@ -142,7 +232,7 @@
       "link": "https://www.cnbc.com/2026/06/30/japan-yen-falls-lowest-level-since-1986-dollar-intervention-risk.html",
       "image_url": null,
       "source": "CNBC World",
-      "published": "2026-06-30T01:50:11+00:00",
+      "published": "2026-06-30T04:00:57+00:00",
       "summary": "The Japanese yen weakened to its lowest level against the U.S. dollar since 1986 on Tuesday, keeping investors on alert for possible intervention from Japanese authorities.",
       "section": "global_macro"
     },
@@ -331,7 +421,7 @@
       "link": "https://www.cnbc.com/2026/06/30/japan-yen-falls-lowest-level-since-1986-dollar-intervention-risk.html",
       "image_url": null,
       "source": "CNBC Top",
-      "published": "2026-06-30T01:50:11+00:00",
+      "published": "2026-06-30T04:00:57+00:00",
       "summary": "The Japanese yen weakened to its lowest level against the U.S. dollar since 1986 on Tuesday, keeping investors on alert for possible intervention from Japanese authorities.",
       "section": "us_domestic"
     },
@@ -354,30 +444,21 @@
       "section": "us_domestic"
     },
     {
-      "title": "Supreme Court expands Trump’s power over the federal bureaucracy - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZnYtQlF3d3VfR2xkV29CdGFUWUxpUEY5Ml9Ld3V1Z0pveHFDTkJkTE1oUEc1U0E4a3VrS1pLRFBsZlFiQzhkd2p1UHhrSnF3S3M4cmJXZHNtbDVDWjhMY1NpUGdfN0VHUVNEQ3N3U0trZ0VyeHk2ODVTR1ZuZXBzd3ZuYks3ZnY1Ym9IZEZaaXNNa0VjOUlYM0ZCVnNabklCS1N3OGZ5Z3RKZmRQd0c1SQ?oc=5",
+      "title": "Justices Expand Presidential Power Over Regulators, but Not the Fed - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbXQzdmo2Sm55N3phSWc4R0VvQnUxNkFoOE1XS2lEeGs5WS1GWGpYV2Ntbnk2Tm9FTW5yeFJxRWZTYldfZUdqXy1hVFhoSmNBVGEyZG5GY1lLTkFGVlhTSVpHY0hrQl8xRmJsSGdoX1Y1dHJMcGFxSGtERlJEVHJqeHRSM2ljNjFm?oc=5",
       "image_url": null,
       "source": "Google News US",
-      "published": "2026-06-30T02:13:28+00:00",
-      "summary": "Supreme Court expands Trump’s power over the federal bureaucracy&nbsp;&nbsp;The Washington PostOne big win and three defeats for Trump in dramatic day at Supreme Court&nbsp;&nbsp;BBCRep. Jayapal slams Democrats for dismissing party progressives&nbsp;&nbsp;CNNSupreme Court expands presidential firing",
+      "published": "2026-06-30T03:01:25+00:00",
+      "summary": "Justices Expand Presidential Power Over Regulators, but Not the Fed&nbsp;&nbsp;The New York TimesOne big win and three defeats for Trump in dramatic day at Supreme Court&nbsp;&nbsp;BBCSupreme Court takes sledgehammer to much of federal government’s regulatory structure&nbsp;&nbsp;NPRSupreme Court ru",
       "section": "us_domestic"
     },
     {
-      "title": "Supreme Court Rejects Trump’s Request to Appeal $5 Million Verdict in E. Jean Carroll Case - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdFJmR1lNc0xFcTltRUVyZG1raEV2S25kLTBmWVdZY29NeGd2YjBNY1RTcng4N0FYLXQ5Q1BsaW91QlRnWnRDaGpxWmxZWnl6bTh5eDZYQzVPQ3hZQWY0SGFMcnJVbnhEdkpJaDg1WEZSUnJybk1BaUc4aEdhXzRSZ0t2NGd5SjFydnRkOWJERQ?oc=5",
+      "title": "Extreme heat forecast: What to expect as dangerous heat wave hits Midwest, Northeast - ABC News - Breaking News, Latest News and Videos",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQQjZDV1pwTGpkRkhqTVBpWXhvdzVTVjVCZVRUQUxCblJmX3R3RUw4VWV5dUJ3LXJUOUU2T19STFl1WUt4Vy1xN3FZN29FVlFpeHZaSW05dzNnd0swT2Q0Z1lPUE53ZTJ6VmpfMjYxSVF0MFNMc1NxRGVZbGxxYkFlWm1ncThzSmFGNUlSZnkyT2xydDQ5MmQtc3dVQlhrOEl00gGmAUFVX3lxTE1ab1JRbTBOT1k5X1JtSENQbUU4cGptRWdFVWQ0c2s2QU5aODRaVnpnNDg0Ym50UFZqWUp4alhaRVlLcTRJVm5GN01Wbk5femtLQTU5WnBSeHB1SWFjVURxcGx4c3prWVBicmRWMFFYWUF5WDNpcU1LRGVDT2NsaElnY1ZaZkNUaU5zLWZTbHZUcGhjWHZYWFhsN0ZHcmNYTVg4N05KY0E?oc=5",
       "image_url": null,
       "source": "Google News US",
-      "published": "2026-06-30T00:23:16+00:00",
-      "summary": "Supreme Court Rejects Trump’s Request to Appeal $5 Million Verdict in E. Jean Carroll Case&nbsp;&nbsp;The New York TimesTrump says he will 'continue the fight' after Supreme Court declines to review Carroll abuse verdict&nbsp;&nbsp;Fox NewsSupreme Court rejects Trump's appeal of 2022 E. Jean Carroll",
-      "section": "us_domestic"
-    },
-    {
-      "title": "Johnson says housing bill will become law - Politico",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNa1U5dW5iU2FXLUtUOTZQRFRIS3NGay14RzgzOXJCaVo3eDNPQWstemdyQTFVRk42ekdzWG1vZ0Z1N0I2dlhzWmlmWGVYSHFhRTVHWXZCQWstNjMzQ1NKdTVMWnUwSktHai1Oamx2WU1UM0lqOW1HRmRIRmhYd29ncDBUWkhKOTlaUHZUdnpKcHF0MWlWcHJLb21SM1gxLWhSb1VLQkxzZzZoRldi?oc=5",
-      "image_url": null,
-      "source": "Google News US",
-      "published": "2026-06-30T00:10:45+00:00",
-      "summary": "Johnson says housing bill will become law&nbsp;&nbsp;PoliticoSpeaker Johnson sends bipartisan housing bill to White House — but Trump says it’s a ‘yawn’&nbsp;&nbsp;CNNTrump on Legislation to Address the Nation’s Housing Crisis: ‘It’s a Yawn’&nbsp;&nbsp;The New York TimesWhat to Know About the Landma",
+      "published": "2026-06-29T22:26:09+00:00",
+      "summary": "Extreme heat forecast: What to expect as dangerous heat wave hits Midwest, Northeast&nbsp;&nbsp;ABC News - Breaking News, Latest News and VideosSee Day-by-Day Forecast as Heat Wave Engulfs U.S. Ahead of the July 4 Weekend&nbsp;&nbsp;The New York TimesHottest days since 2012? Upcoming NYC heat wave t",
       "section": "us_domestic"
     },
     {
@@ -390,107 +471,26 @@
       "section": "us_domestic"
     },
     {
-      "title": "Trump unloads after Supreme Court upholds late mail-in ballots in Mississippi - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPVTcyRElzTXVLZHB4Rm5tX2Y4VWtrZFVvX2FyVk9pQW8zTnhDYkpVWk00ZVpWUEtFZ01LdVMyenZ0bjAwZjJaU0pSblVZRXNwNjBrcFA1blRwLTQwX2stdHhwakhBY2lCWnk3YmdZZ3ByTFdfWmN5YmVEVGZKUzdCSWJpR0N5czd2cC1rMm90aG9NYVBhLXhNTkJqaTBzQ3lqSmx3?oc=5",
+      "title": "Johnson says housing bill will become law - Politico",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNa1U5dW5iU2FXLUtUOTZQRFRIS3NGay14RzgzOXJCaVo3eDNPQWstemdyQTFVRk42ekdzWG1vZ0Z1N0I2dlhzWmlmWGVYSHFhRTVHWXZCQWstNjMzQ1NKdTVMWnUwSktHai1Oamx2WU1UM0lqOW1HRmRIRmhYd29ncDBUWkhKOTlaUHZUdnpKcHF0MWlWcHJLb21SM1gxLWhSb1VLQkxzZzZoRldi?oc=5",
       "image_url": null,
       "source": "Google News US",
-      "published": "2026-06-29T21:22:13+00:00",
-      "summary": "Trump unloads after Supreme Court upholds late mail-in ballots in Mississippi&nbsp;&nbsp;Fox NewsThe Supreme Court handed Trump an election case defeat. Is a bigger win for him coming?&nbsp;&nbsp;CNNVIDEO: Supreme Court allows late mail-in ballots&nbsp;&nbsp;KIRO 7 News SeattleTrump’s election crusa",
+      "published": "2026-06-30T00:10:45+00:00",
+      "summary": "Johnson says housing bill will become law&nbsp;&nbsp;PoliticoSpeaker Johnson sends bipartisan housing bill to White House — but Trump says it’s a ‘yawn’&nbsp;&nbsp;CNNTrump on Legislation to Address the Nation’s Housing Crisis: ‘It’s a Yawn’&nbsp;&nbsp;The New York TimesWhat to Know About the Landma",
       "section": "us_domestic"
     },
     {
-      "title": "US offers $10 million for info on group behind Signal and WhatsApp hacking spree",
-      "link": "https://arstechnica.com/information-technology/2026/06/us-offers-10-million-for-info-on-group-behind-signal-and-whatsapp-hacking-spree/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/russia-hacking-binary-1152x648.jpg",
-      "source": "Ars Technica",
-      "published": "2026-06-29T22:05:33+00:00",
-      "summary": "Operation by two Russia-state groups has been ongoing since at least March.",
-      "section": "tech"
-    },
-    {
-      "title": "South Korea to spend $1T on more memory chip production and humanoid robots",
-      "link": "https://arstechnica.com/ai/2026/06/south-korea-to-spend-1t-on-more-memory-chip-production-and-humanoid-robots/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/Screenshot-2026-06-29-at-4.36.13-PM-1152x648.png",
-      "source": "Ars Technica",
-      "published": "2026-06-29T21:09:43+00:00",
-      "summary": "South Korea targets physical AI lead and commercial humanoid robots by 2028.",
-      "section": "tech"
-    },
-    {
-      "title": "US renewable boom passes key milestone in April",
-      "link": "https://arstechnica.com/science/2026/06/solar-outproduced-coal-in-april-but-not-on-the-grid/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2229677995-1152x648.jpg",
-      "source": "Ars Technica",
-      "published": "2026-06-29T20:12:30+00:00",
-      "summary": "Small-scale solar helped renewables hit nearly triple coal's generation in the US.",
-      "section": "tech"
-    },
-    {
-      "title": "Supreme Court ruling guts government’s use of geofence warrants",
-      "link": "https://arstechnica.com/tech-policy/2026/06/supreme-court-ruling-guts-governments-use-of-geofence-warrants/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2154885383-1152x648.jpg",
-      "source": "Ars Technica",
-      "published": "2026-06-29T20:04:04+00:00",
-      "summary": "SCOTUS falls short of deeming geofence warrants unconstitutional, though.",
-      "section": "tech"
-    },
-    {
-      "title": "Sony erases digital content from libraries; we're reminded we don’t own what we buy",
-      "link": "https://arstechnica.com/gadgets/2026/06/sony-erases-digital-content-from-libraries-were-reminded-we-dont-own-what-we-buy/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2020/06/abomb8-1152x648.jpg",
-      "source": "Ars Technica",
-      "published": "2026-06-29T19:10:57+00:00",
-      "summary": "Sony has been scaling down its digitial store for a few years.",
-      "section": "tech"
-    },
-    {
-      "title": "T-Mobile is booting customers from its oldest plans",
-      "link": "https://www.theverge.com/tech/959144/t-mobile-legacy-plan-retire-sprint",
+      "title": "Supreme Court rules mail-in ballots arriving after Election Day can be counted - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMFlManFwc09rWGhlNXVpbGdDUVNTX2FnWUlOOEw5cnNsVzV2ektWTUhtZ1pJYlV4SGtDZ2M0bjVZeW1JMk9sUDhZazBNU3U5cnJDMUZIWEVOQ3M2RzZhWFJpVUYtS2RGcWpSUzh6QWhoXzJ0YWtaNDFXMld1VUpyT0pxZTU5cXZqZklieGE3b0xJZXBYcVBGcExCN3I0a2k0cW1zejNrYnY0bzByS2RkQjA2cWhjZW1uTWZyaWExSE9ORlE2UWczbW1B?oc=5",
       "image_url": null,
-      "source": "The Verge",
-      "published": "2026-06-29T21:06:14+00:00",
-      "summary": "Earlier today, T-Mobile started notifying customers that it will be retiring many legacy plans and moving subscribers onto one of its current rate plans. This move includes plans that date back to the 3G era, and it's going about as well as you'd expect. Affected customers began sharing screenshots ",
-      "section": "tech"
-    },
-    {
-      "title": "After a great start, DC’s new cinematic universe is already slowing down",
-      "link": "https://www.theverge.com/entertainment/958953/supergirl-dcu-warner-bros-discovery-box-office-flop",
-      "image_url": null,
-      "source": "The Verge",
-      "published": "2026-06-29T21:00:00+00:00",
-      "summary": "While Kara Zor-El's appearance at the end of James Gunn's Superman was a very pleasant surprise, Warner Bros. Discovery's plan to fast-track a standalone Supergirl feature always felt a little dubious. It seemed odd that, after Superman, the studio wanted to flesh out its new cinematic universe with",
-      "section": "tech"
-    },
-    {
-      "title": "Leaked iPhone 18 Pro photos reportedly wound up on the dark web",
-      "link": "https://www.theverge.com/tech/959229/iphone-18-pro-leak-apple-dark-web",
-      "image_url": null,
-      "source": "The Verge",
-      "published": "2026-06-29T20:18:26+00:00",
-      "summary": "Leaked iPhone 18 Pro photos and parts lists appeared on the dark web following a data breach affecting one of Apple's key suppliers, according to a report from Reuters. The leaked images show a drop test of what a source tells Reuters is the iPhone 18 Pro, equipped with a three-camera layout and App",
-      "section": "tech"
-    },
-    {
-      "title": "Tidal won’t pay royalties on AI-generated music but isn’t banning it outright",
-      "link": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
-      "image_url": null,
-      "source": "The Verge",
-      "published": "2026-06-29T19:47:35+00:00",
-      "summary": "Tidal shared its new policies regarding AI-generated music today and how the platform plans to \"protect artists\" and \"inform listeners.\" Instead of banning it outright, starting on July 15th Tidal will label tracks it has identified as being 100 percent AI-generated with an icon. But starting today ",
-      "section": "tech"
-    },
-    {
-      "title": "Sony&#8217;s next-gen PlayStation will go ‘beyond the living room’",
-      "link": "https://www.theverge.com/games/959191/sony-next-generation-playstation-ps6-beyond-the-living-room",
-      "image_url": null,
-      "source": "The Verge",
-      "published": "2026-06-29T19:12:15+00:00",
-      "summary": "Sony hinted in a recent Q&#38;A with investors that the next generation PlayStation will offer some kind of experience that lets you play games outside of your living room. Here's the relevant portion from the transcript, emphasis mine: Q: How can you bring back to the PlayStation platform users who",
-      "section": "tech"
+      "source": "Google News US",
+      "published": "2026-06-30T03:02:06+00:00",
+      "summary": "Supreme Court rules mail-in ballots arriving after Election Day can be counted&nbsp;&nbsp;The Washington PostThe Supreme Court handed Trump an election case defeat. Is a bigger win for him coming?&nbsp;&nbsp;CNNSupreme Court Decision on Late-Arriving Mail-In Ballots Grants Relief to 18 States&nbsp;&",
+      "section": "us_domestic"
     }
   ],
   "_meta": {
-    "generated_at": "2026-06-30T03:23:44.801460Z",
+    "generated_at": "2026-06-30T04:03:39.460742Z",
     "source": "hermes-pi"
   },
   "chatter": {
@@ -502,5 +502,13 @@
   "audio": {
     "daily_brief": "https://raw.githubusercontent.com/pencrusader/trivia__news/main/audio/daily_brief_2026-06-29.ogg",
     "chatter": "https://raw.githubusercontent.com/pencrusader/trivia__news/main/audio/chatter_2026-06-29.ogg"
+  },
+  "narrative": {
+    "🌍 Global Macro": "**Comcast surges 23%** after announcing it will spin off its media and tech wings into separate public companies — a corporate earthquake forcing sector re-rating. **Putin's fuel shortage admission** signals growing strain on Russia's energy infrastructure. **SpaceX's $25B bond sale** is driving huge investor demand, though analysts warn of downstream headaches. **Trump bought up to $5M in Axon stock** before ICE sought a $220M Taser deal — fresh conflict-of-interest scrutiny. **Oil prices rose** as the U.S. and Iran reached a deal to halt attacks; U.S. crude reclaimed $70. The Iran de-escalation is the single most market-positive headline this morning.",
+    "🇺🇸 US Domestic": "**Stock futures jump** as tech shares gain and the U.S.-Iran agreement removes a major geopolitical overhang. The Comcast spinoff dominates here too — implications for media valuations nationwide. SpaceX's mega-bond sale continues drawing retail and institutional attention. The Trump-Axon stock purchase ahead of an ICE procurement decision draws ethics watchdog scrutiny. And Deutsche Bank projects **Europe's earnings poised for double-digit growth**, with industrials doing the heavy lifting. Overall domestic tape: **risk-on**, futures pointing higher.",
+    "💼 Business & Markets": "**SpaceX joins the Nasdaq-100 on July 7** — index-tracking funds will be forced to accumulate. **Firefly Aerospace** acquires Space-ng for autonomous navigation capabilities — more space-sector consolidation. **Figma (FIG)** continues drawing bullish coverage as the best new stock alongside SpaceX. **IRMAA surcharges** hit retirees two years after property sales — capital gains triggering Medicare premium hikes. And a cautionary tale on conflicted auto insurance representation. Business tone is **constructive**.",
+    "🔬 Science": "**Soil microbes** may rescue crops from increasingly salty farmland — a potential climate-agriculture breakthrough. Astronomers found **two super puff planets lighter than cotton candy**, challenging formation models. The **Einstein Probe** may have caught a black hole tearing apart a white dwarf — a first. Participants who knew a pill was **fake still showed memory improvement** — expectation alone drives cognitive gains. And **Hawaii is turning ocean plastic** and fishing nets into roads. Science today leans optimistic and discovery-forward.",
+    "🤖 Tech & AI": "A journal retracted **two 1940s papers by Max Planck** — questions about historical scientific integrity. **Apple and Audi alumni** built a luxury EV based on the moon buggy — a new entrant in the crowded EV space. **South Korea plans** to train its entire military as \"drone warriors\" — a massive defense doctrine shift toward unmanned systems. Doctors suspected **brain cancer but found worms** — parasitic infections mimicking tumors. And starting **July 1, California** makes streaming services' obnoxiously loud ads illegal — audio normalization compliance forced.",
+    "📊 Market Impact Summary": "**Verdict: Risk-on open.** The U.S.-Iran de-escalation is the dominant tail-risk removal, driving futures higher and supporting an equity bid.\n\n**Sectors to watch:**\n- ⚡ **Energy** — crude above $70, but de-escalation caps upside\n- 📺 **Media & Telecom** — Comcast spinoff re-rates the sector\n- 🚀 **Aerospace & Defense** — SpaceX index inclusion, Firefly M&A, Korea drone doctrine\n- 📈 **IPOs** — Figma and SpaceX index flows\n\n**Key event ahead:** SpaceX's **July 7 Nasdaq-100 addition** — index funds must build positions, creating near-term demand. Watch for profit-taking if the open gaps too hot."
   }
 }
