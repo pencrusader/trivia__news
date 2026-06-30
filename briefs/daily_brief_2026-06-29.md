@@ -1,0 +1,38 @@
+Merge successful — 4:36 combined audio file created. Here's the final brief:
+
+
+---
+
+# 📻 Morning Brief — Monday, June 29, 2026
+
+## 🌍 Global Macro
+
+**Comcast surges 23%** after announcing it will spin off its media and tech wings into separate public companies — a corporate earthquake forcing sector re-rating. **Putin's fuel shortage admission** signals growing strain on Russia's energy infrastructure. **SpaceX's $25B bond sale** is driving huge investor demand, though analysts warn of downstream headaches. **Trump bought up to $5M in Axon stock** before ICE sought a $220M Taser deal — fresh conflict-of-interest scrutiny. **Oil prices rose** as the U.S. and Iran reached a deal to halt attacks; U.S. crude reclaimed $70. The Iran de-escalation is the single most market-positive headline this morning.
+
+## 🇺🇸 US Domestic
+
+**Stock futures jump** as tech shares gain and the U.S.-Iran agreement removes a major geopolitical overhang. The Comcast spinoff dominates here too — implications for media valuations nationwide. SpaceX's mega-bond sale continues drawing retail and institutional attention. The Trump-Axon stock purchase ahead of an ICE procurement decision draws ethics watchdog scrutiny. And Deutsche Bank projects **Europe's earnings poised for double-digit growth**, with industrials doing the heavy lifting. Overall domestic tape: **risk-on**, futures pointing higher.
+
+## 💼 Business & Markets
+
+**SpaceX joins the Nasdaq-100 on July 7** — index-tracking funds will be forced to accumulate. **Firefly Aerospace** acquires Space-ng for autonomous navigation capabilities — more space-sector consolidation. **Figma (FIG)** continues drawing bullish coverage as the best new stock alongside SpaceX. **IRMAA surcharges** hit retirees two years after property sales — capital gains triggering Medicare premium hikes. And a cautionary tale on conflicted auto insurance representation. Business tone is **constructive**.
+
+## 🔬 Science
+
+**Soil microbes** may rescue crops from increasingly salty farmland — a potential climate-agriculture breakthrough. Astronomers found **two super puff planets lighter than cotton candy**, challenging formation models. The **Einstein Probe** may have caught a black hole tearing apart a white dwarf — a first. Participants who knew a pill was **fake still showed memory improvement** — expectation alone drives cognitive gains. And **Hawaii is turning ocean plastic** and fishing nets into roads. Science today leans optimistic and discovery-forward.
+
+## 🤖 Tech & AI
+
+A journal retracted **two 1940s papers by Max Planck** — questions about historical scientific integrity. **Apple and Audi alumni** built a luxury EV based on the moon buggy — a new entrant in the crowded EV space. **South Korea plans** to train its entire military as "drone warriors" — a massive defense doctrine shift toward unmanned systems. Doctors suspected **brain cancer but found worms** — parasitic infections mimicking tumors. And starting **July 1, California** makes streaming services' obnoxiously loud ads illegal — audio normalization compliance forced.
+
+## 📊 Market Impact Summary
+
+**Verdict: Risk-on open.** The U.S.-Iran de-escalation is the dominant tail-risk removal, driving futures higher and supporting an equity bid.
+
+**Sectors to watch:**
+- ⚡ **Energy** — crude above $70, but de-escalation caps upside
+- 📺 **Media & Telecom** — Comcast spinoff re-rates the sector
+- 🚀 **Aerospace & Defense** — SpaceX index inclusion, Firefly M&A, Korea drone doctrine
+- 📈 **IPOs** — Figma and SpaceX index flows
+
+**Key event ahead:** SpaceX's **July 7 Nasdaq-100 addition** — index funds must build positions, creating near-term demand. Watch for profit-taking if the open gaps too hot.
