@@ -1,12 +1,12 @@
 {
   "date": "2026-06-29",
   "sections": {
-    "global_macro": [
-      "Comcast soars 23% after announcing it will spin off media and tech wings into separate public companies",
-      "Putin’s fuel shortage admission signals growing strain on Russia’s energy infrastructure",
-      "SpaceX's $25 billion bond sale drives huge demand - and a potential headache for investors",
-      "Trump bought as much as $5 million in Axon stock before ICE sought $220 million Taser deal",
-      "Oil prices rise as U.S. and Iran reach deal to halt attacks; U.S. crude back above $70"
+    "tech": [
+      "Why did this journal retract two 1940s papers by Max Planck?",
+      "Apple and Audi alumni have made a luxe EV based on the moon buggy",
+      "South Korea plans to train entire military as \"drone warriors\"",
+      "Doctors suspected man had brain cancer. He actually had worms.",
+      "Streaming services’ obnoxiously loud ads become illegal on July 1 in California"
     ],
     "science": [
       "These tiny soil microbes could rescue crops from salty farmland",
@@ -14,6 +14,13 @@
       "Einstein Probe may have caught a black hole tearing apart a white dwarf for the first time",
       "They knew the pill was fake but their memory still improved",
       "Hawaii is turning ocean plastic and fishing nets into roads"
+    ],
+    "global_macro": [
+      "Comcast soars 23% after announcing it will spin off media and tech wings into separate public companies",
+      "Putin’s fuel shortage admission signals growing strain on Russia’s energy infrastructure",
+      "SpaceX's $25 billion bond sale drives huge demand - and a potential headache for investors",
+      "Trump bought as much as $5 million in Axon stock before ICE sought $220 million Taser deal",
+      "Oil prices rise as U.S. and Iran reach deal to halt attacks; U.S. crude back above $70"
     ],
     "business": [
       "IRMAA hits retirees two years after property sale",
@@ -28,16 +35,89 @@
       "SpaceX's $25 billion bond sale drives huge demand - and a potential headache for investors",
       "Trump bought as much as $5 million in Axon stock before ICE sought $220 million Taser deal",
       "Europe’s earnings are poised for double-digit growth. One sector will do the heavy lifting, says Deutsche"
-    ],
-    "tech": [
-      "Why did this journal retract two 1940s papers by Max Planck?",
-      "Apple and Audi alumni have made a luxe EV based on the moon buggy",
-      "South Korea plans to train entire military as \"drone warriors\"",
-      "Doctors suspected man had brain cancer. He actually had worms.",
-      "Streaming services’ obnoxiously loud ads become illegal on July 1 in California"
     ]
   },
   "articles": [
+    {
+      "title": "Why did this journal retract two 1940s papers by Max Planck?",
+      "link": "",
+      "image_url": "",
+      "source": "",
+      "published": "",
+      "summary": ""
+    },
+    {
+      "title": "Apple and Audi alumni have made a luxe EV based on the moon buggy",
+      "link": "",
+      "image_url": "",
+      "source": "",
+      "published": "",
+      "summary": ""
+    },
+    {
+      "title": "South Korea plans to train entire military as \"drone warriors\"",
+      "link": "",
+      "image_url": "",
+      "source": "",
+      "published": "",
+      "summary": ""
+    },
+    {
+      "title": "Doctors suspected man had brain cancer. He actually had worms.",
+      "link": "",
+      "image_url": "",
+      "source": "",
+      "published": "",
+      "summary": ""
+    },
+    {
+      "title": "Streaming services’ obnoxiously loud ads become illegal on July 1 in California",
+      "link": "",
+      "image_url": "",
+      "source": "",
+      "published": "",
+      "summary": ""
+    },
+    {
+      "title": "These tiny soil microbes could rescue crops from salty farmland",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260626124703.htm",
+      "image_url": null,
+      "source": "ScienceDaily",
+      "published": "2026-06-29T01:21:44+00:00",
+      "summary": "Researchers have discovered that beneficial soil bacteria give plants an unexpected survival advantage in salty soils. Instead of helping plants keep salt out, the microbes stimulate the production of lignin, a natural compound that strengthens roots and makes plants more resilient. Greenhouse and f"
+    },
+    {
+      "title": "Astronomers found two rare super puff planets lighter than cotton candy",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260626124659.htm",
+      "image_url": null,
+      "source": "ScienceDaily",
+      "published": "2026-06-27T01:09:31+00:00",
+      "summary": "Two newly confirmed \"super-puff\" planets are so diffuse that they are less dense than cotton candy, despite being about the size of Jupiter. Their rare orbital relationship and enormous, lightweight atmospheres could provide valuable clues about how some of the strangest planets in the galaxy come t"
+    },
+    {
+      "title": "Einstein Probe may have caught a black hole tearing apart a white dwarf for the first time",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260625060222.htm",
+      "image_url": null,
+      "source": "ScienceDaily",
+      "published": "2026-06-26T01:05:03+00:00",
+      "summary": "Astronomers may have witnessed one of the rarest and most dramatic cosmic events ever seen: a long-sought intermediate-mass black hole ripping apart a dense white dwarf star and devouring it. The Einstein Probe space telescope caught the explosion in its earliest moments, revealing an unusual sequen"
+    },
+    {
+      "title": "They knew the pill was fake but their memory still improved",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260625060159.htm",
+      "image_url": null,
+      "source": "ScienceDaily",
+      "published": "2026-06-25T11:23:11+00:00",
+      "summary": "Healthy older adults experienced measurable improvements in memory, physical performance, and stress after taking placebo pills for just three weeks. The most surprising finding was that the placebo often worked even when participants knew the pills were completely inactive."
+    },
+    {
+      "title": "Hawaii is turning ocean plastic and fishing nets into roads",
+      "link": "https://www.sciencedaily.com/releases/2026/06/260625014830.htm",
+      "image_url": null,
+      "source": "ScienceDaily",
+      "published": "2026-06-28T06:53:54+00:00",
+      "summary": "Hawaii researchers are giving old fishing nets and recycled plastic a second life by mixing them into asphalt roads. Early tests found these roads didn't release more plastic particles than standard pavement, with tire wear overwhelming any plastic signal from the recycled material. If future studie"
+    },
     {
       "title": "Comcast soars 23% after announcing it will spin off media and tech wings into separate public companies",
       "link": "",
@@ -72,46 +152,6 @@
     },
     {
       "title": "Oil prices rise as U.S. and Iran reach deal to halt attacks; U.S. crude back above $70",
-      "link": "",
-      "image_url": "",
-      "source": "",
-      "published": "",
-      "summary": ""
-    },
-    {
-      "title": "These tiny soil microbes could rescue crops from salty farmland",
-      "link": "",
-      "image_url": "",
-      "source": "",
-      "published": "",
-      "summary": ""
-    },
-    {
-      "title": "Astronomers found two rare super puff planets lighter than cotton candy",
-      "link": "",
-      "image_url": "",
-      "source": "",
-      "published": "",
-      "summary": ""
-    },
-    {
-      "title": "Einstein Probe may have caught a black hole tearing apart a white dwarf for the first time",
-      "link": "",
-      "image_url": "",
-      "source": "",
-      "published": "",
-      "summary": ""
-    },
-    {
-      "title": "They knew the pill was fake but their memory still improved",
-      "link": "",
-      "image_url": "",
-      "source": "",
-      "published": "",
-      "summary": ""
-    },
-    {
-      "title": "Hawaii is turning ocean plastic and fishing nets into roads",
       "link": "",
       "image_url": "",
       "source": "",
@@ -184,11 +224,11 @@
     },
     {
       "title": "Trump bought as much as $5 million in Axon stock before ICE sought $220 million Taser deal",
-      "link": "",
-      "image_url": "",
-      "source": "",
-      "published": "",
-      "summary": ""
+      "link": "https://www.cnbc.com/2026/06/29/trump-axon-stock-ice-taser-immigration-enforcement.html",
+      "image_url": null,
+      "source": "CNBC Top",
+      "published": "2026-06-29T14:03:16+00:00",
+      "summary": "Axon Enterprise has ramped up lobbying in Congress on federal law enforcement technology as ICE pursues a potential $220 million Taser deal."
     },
     {
       "title": "Europe’s earnings are poised for double-digit growth. One sector will do the heavy lifting, says Deutsche",
@@ -197,50 +237,10 @@
       "source": "",
       "published": "",
       "summary": ""
-    },
-    {
-      "title": "Why did this journal retract two 1940s papers by Max Planck?",
-      "link": "",
-      "image_url": "",
-      "source": "",
-      "published": "",
-      "summary": ""
-    },
-    {
-      "title": "Apple and Audi alumni have made a luxe EV based on the moon buggy",
-      "link": "",
-      "image_url": "",
-      "source": "",
-      "published": "",
-      "summary": ""
-    },
-    {
-      "title": "South Korea plans to train entire military as \"drone warriors\"",
-      "link": "",
-      "image_url": "",
-      "source": "",
-      "published": "",
-      "summary": ""
-    },
-    {
-      "title": "Doctors suspected man had brain cancer. He actually had worms.",
-      "link": "",
-      "image_url": "",
-      "source": "",
-      "published": "",
-      "summary": ""
-    },
-    {
-      "title": "Streaming services’ obnoxiously loud ads become illegal on July 1 in California",
-      "link": "",
-      "image_url": "",
-      "source": "",
-      "published": "",
-      "summary": ""
     }
   ],
   "_meta": {
-    "generated_at": "2026-06-29T21:47:41.518133Z",
+    "generated_at": "2026-06-30T00:24:24.550859Z",
     "source": "hermes-pi"
   }
 }
