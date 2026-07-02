@@ -35,3 +35,4 @@ See `docs/ARCHITECTURE.md` for the full design.
 ## Status
 
 See `planning/STATE.md`. Currently: Architecture complete, ready for build.
+
