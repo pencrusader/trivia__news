@@ -28,7 +28,7 @@ class HermesNewsReaderApp extends StatelessWidget {
         title: 'Hermes News Reader',
         debugShowCheckedModeBanner: false,
         theme: ThemeData(
-          colorSchemeSeed: Colors.indigo,
+          colorSchemeSeed: Colors.teal,
           useMaterial3: true,
           brightness: Brightness.light,
           appBarTheme: const AppBarTheme(
@@ -37,7 +37,7 @@ class HermesNewsReaderApp extends StatelessWidget {
           ),
         ),
         darkTheme: ThemeData(
-          colorSchemeSeed: Colors.indigo,
+          colorSchemeSeed: Colors.teal,
           useMaterial3: true,
           brightness: Brightness.dark,
           appBarTheme: const AppBarTheme(
