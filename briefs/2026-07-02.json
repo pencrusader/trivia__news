@@ -1,26 +1,19 @@
 {
   "date": "2026-07-02",
   "sections": {
-    "us_domestic": [
-      "World Cup could boost the June jobs report by 40,000, Goldman estimates",
-      "Ford CEO wants level playing field with Toyota, GM imports as USMCA trade talks reopen",
-      "Americans are paying record prices for steak. Here's why demand isn't cracking",
-      "Stocks making the biggest moves premarket: Sandisk, Robinhood, Palantir & more",
-      "Robinhood will soar as it moves closer to becoming the first hyperscaler brokerage, says Mizuho"
-    ],
-    "business": [
-      "Retail giant exits U.S. fashion after multi-million-dollar scandal",
-      "The AI Revolution Needs Electricity More Than Intelligence",
-      "Uber-backed Lime raises $167 million in US IPO",
-      "8 charts: SPACs, from boom to bust, and back again",
-      "Bayer seeks US duties on Chinese-made glyphosate, angering farmers"
-    ],
     "global_macro": [
       "AI agents will soon be able to match human traders, Robinhood CEO tells CNBC",
       "Google loses fight over record $4.7 billion EU antitrust fine",
       "Brookfield wants to build AI data centers in London’s answer to Wall Street",
       "OpenAI proposes 5% stake to Trump administration to ease Washington pressure: Report",
       "Russia launches massive strike on Ukraine as Poland scrambles jets, Finland restricts airspace"
+    ],
+    "science": [
+      "Scientists discover a completely different way to fight viruses",
+      "Scientists may have finally found how Alzheimer's spreads through the brain",
+      "Scientists say creatine may help fight depression",
+      "These tiny soil microbes could rescue crops from salty farmland",
+      "Astronomers found two rare super puff planets lighter than cotton candy"
     ],
     "tech": [
       "Editorial: It's time to step up and have your say for science",
@@ -29,229 +22,56 @@
       "US home battery installations hit record high on rising electricity costs",
       "Superworms could replace beetles for cleaning skeletal remains"
     ],
-    "science": [
-      "Scientists discover a completely different way to fight viruses",
-      "Scientists may have finally found how Alzheimer's spreads through the brain",
-      "Scientists say creatine may help fight depression",
-      "These tiny soil microbes could rescue crops from salty farmland",
-      "Astronomers found two rare super puff planets lighter than cotton candy"
+    "business": [
+      "Retail giant exits U.S. fashion after multi-million-dollar scandal",
+      "The AI Revolution Needs Electricity More Than Intelligence",
+      "Uber-backed Lime raises $167 million in US IPO",
+      "8 charts: SPACs, from boom to bust, and back again",
+      "Bayer seeks US duties on Chinese-made glyphosate, angering farmers"
+    ],
+    "us_domestic": [
+      "World Cup could boost the June jobs report by 40,000, Goldman estimates",
+      "Ford CEO wants level playing field with Toyota, GM imports as USMCA trade talks reopen",
+      "Americans are paying record prices for steak. Here's why demand isn't cracking",
+      "Stocks making the biggest moves premarket: Sandisk, Robinhood, Palantir & more",
+      "Robinhood will soar as it moves closer to becoming the first hyperscaler brokerage, says Mizuho"
     ]
   },
   "articles": [
     {
-      "title": "World Cup could boost the June jobs report by 40,000, Goldman estimates",
-      "link": "https://www.cnbc.com/2026/07/01/world-cup-could-boost-the-june-jobs-report-by-40000-goldman-estimates.html",
-      "image_url": null,
-      "source": "CNBC Top",
-      "published": "2026-07-02T10:18:05+00:00",
-      "summary": "Nonfarm payrolls are projected to post a gain of 115,000, according to the Dow Jones consensus.",
-      "section": "us_domestic"
-    },
-    {
-      "title": "Ford CEO wants level playing field with Toyota, GM imports as USMCA trade talks reopen",
-      "link": "https://www.cnbc.com/2026/07/02/ford-jim-farley-usmca.html",
-      "image_url": null,
-      "source": "CNBC Top",
-      "published": "2026-07-02T11:35:34+00:00",
-      "summary": "Ford reports it assembled more than 2 million vehicles in the U.S. last year – more than any other auto manufacturer, including 311,000 units for export.",
-      "section": "us_domestic"
-    },
-    {
-      "title": "Meta’s push into cloud computing means Wall Street has to prepare for lower margins",
-      "link": "https://www.cnbc.com/2026/07/02/metas-push-into-cloud-excites-wall-street-despite-lower-margins.html",
-      "image_url": null,
-      "source": "CNBC Top",
-      "published": "2026-07-02T12:22:51+00:00",
-      "summary": "Meta appears poised to enter the cloud computing market in an effort to monetize its massive AI infrastructure.",
-      "section": "us_domestic"
-    },
-    {
-      "title": "Americans are paying record prices for steak. Here's why demand isn't cracking",
-      "link": "https://www.cnbc.com/2026/07/02/beef-prices-demand-for-steak-isnt-falling.html",
-      "image_url": null,
-      "source": "CNBC Top",
-      "published": "2026-07-02T11:00:01+00:00",
-      "summary": "Despite record beef prices, Americans aren't giving up steak. Consumers are treating beef as an affordable luxury and prioritizing it for special occasions.",
-      "section": "us_domestic"
-    },
-    {
-      "title": "Robinhood will soar as it moves closer to becoming the first hyperscaler brokerage, says Mizuho",
-      "link": "https://www.cnbc.com/2026/07/02/robinhood-will-soar-as-it-moves-closer-to-becoming-the-first-hyperscaler-brokerage-says-mizuho.html",
-      "image_url": null,
-      "source": "CNBC Top",
-      "published": "2026-07-02T11:50:05+00:00",
-      "summary": "Robinhood is likely to shoot higher if the trading platform can fashion itself into the first true hyperscaler among online brokerages, according to Mizuho.",
-      "section": "us_domestic"
-    },
-    {
-      "title": "A major Russian attack kills 20 in Kyiv as Ukrainian strikes batter Moscow’s oil sector - AP News",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPaHNTaXZqSXdZU3VxemduZGktc2NXazJYODljRUdSQTJlMEFBQ0xwY1JLdlNwWUo2MG5ETnVNWGFUanRZRXJUQVROTjZuZVVPeU9jVXpBSHBTZ1lWYnVzWVoxS3Ywa2dORElkdEt3TFBaNzhyX0Z5dVZnTktQVXZMM0EtUFh1MjRFd1M3cEpkRXkxTVdXNmtGUmJyV0VmQks5MEw4V0hkdw?oc=5",
-      "image_url": null,
-      "source": "Google News US",
-      "published": "2026-07-02T10:33:00+00:00",
-      "summary": "A major Russian attack kills 20 in Kyiv as Ukrainian strikes batter Moscow’s oil sector&nbsp;&nbsp;AP NewsLive Updates: Russia Hammers Ukraine’s Capital in Deadly Attacks&nbsp;&nbsp;The New York TimesA major Russian attack kills 18 in Kyiv as Ukrainian strikes batter Moscow’s oil sector&nbsp;&nbsp;P",
-      "section": "us_domestic"
-    },
-    {
-      "title": "Trump’s wealth grew on a scale without modern presidential precedent - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRC12YW9TcmsyeFRpaDFMXy1PZXJKbEVqY0lVbmIzRllLblBjWENPb1RBMWJUZHQ2bHU5eHNNeEx5bE9WeDZNZlRoREI5RWwwemlsbHlwMVJYcmI1eWNHS0ZDRzQzSHI0YU52RDAzM0U0SFNUcFBBeXlFdmZTU1lqUm1OVXNPSzRTYWxZVi1nTzlxRFZiZlBVVHVNVXp0dWstbElrVEF2TlBOUTlSVXhhMzNyYkQ?oc=5",
-      "image_url": null,
-      "source": "Google News US",
-      "published": "2026-07-02T05:14:31+00:00",
-      "summary": "Trump’s wealth grew on a scale without modern presidential precedent&nbsp;&nbsp;The Washington PostDoes Trump Worry About Conflicts of Interest? ‘I Found Out That Nobody Cared.’&nbsp;&nbsp;The New York Times'We should all only hope for such great rates of return'&nbsp;&nbsp;PoliticoTrump denies conf",
-      "section": "us_domestic"
-    },
-    {
-      "title": "Trump attorney general plots crackdown on ‘birth tourism’ after supreme court ruling - The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWkdXYTJKTnJsTUNzeDFtSUdPeWh5MExVMlEzcGIyN2dzWld1Ti1aNVpKQzZHZzVyVDFWZ3VJMTNVUXJfbUpEcS1ZNjgtUEZjdzN6c2xrMDB5Z3NFc1QwOU1laTlRWHdsM1RHR2pSX2tXTU0yRGF5cWozNFQ0dmtyLW0xM0RXS0Nz?oc=5",
-      "image_url": null,
-      "source": "Google News US",
-      "published": "2026-07-01T21:04:00+00:00",
-      "summary": "Trump attorney general plots crackdown on ‘birth tourism’ after supreme court ruling&nbsp;&nbsp;The GuardianOpinion | Roberts Gets the 14th Amendment Wrong&nbsp;&nbsp;WSJFOR INSIDERS: Trump sees opportunity on birthright citizenship in Brett Kavanaugh opinion&nbsp;&nbsp;The HillSupreme Court ruling ",
-      "section": "us_domestic"
-    },
-    {
-      "title": "Trump hails \"very good meetings\" in Qatar as indirect negotiations resume - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZmR2QzU0T3NIXzF5SklyamljMzJYOGdKSEFBb3hyeHRzVUxkVTNveno4cVdHMkdMYlQ4MmlKUGdMTDhzWlIwR1Ixa1VjbzhJSzVBNy1kNHEtODlaQXhhQU1rODJtNjdDMWxWQXBITS1KUklWYXhOalNQeGhSaEdPbThPUW11UE9oVkZreDg5Q2xCelhJZW16X3Q3MVE?oc=5",
-      "image_url": null,
-      "source": "Google News US",
-      "published": "2026-07-02T06:15:17+00:00",
-      "summary": "Trump hails \"very good meetings\" in Qatar as indirect negotiations resume&nbsp;&nbsp;CBS NewsIran war live: ‘Positive progress’ as US, Tehran wrap up indirect talks&nbsp;&nbsp;Al JazeeraU.S.-Iran Latest: Talks pause for slain ayatollah's funeral after Trump and mediators claim progress&nbsp;&nbsp;CB",
-      "section": "us_domestic"
-    },
-    {
-      "title": "Ruling on Trans Athletes Gave the G.O.P. a Win. Most Democrats Looked the Other Way. - The New York Times",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdnBPXzFrS1B0alp0c0txRV9wMjctTGdySmNKeklPZjRyOGtMdmtocHZvRVQ2U3lCcE41Q0xoSWpVRTV1STBhcEEya0FXeDZPOVBaNUFraHFBa0I1ZVVSQ0JEbzZYeE5uRVpRcG8yZ2h4Z1JESzBkQUJaZTBfY0pfbEc3dW1XLVBjcnJCVEN0Nm11SEE?oc=5",
-      "image_url": null,
-      "source": "Google News US",
-      "published": "2026-07-01T23:40:38+00:00",
-      "summary": "Ruling on Trans Athletes Gave the G.O.P. a Win. Most Democrats Looked the Other Way.&nbsp;&nbsp;The New York TimesNewsom's office responds to SCOTUS ruling on women's sports as California faces ongoing trans athlete wave&nbsp;&nbsp;Fox NewsOpinion | The Transgender Sports Decision Was About Somethin",
-      "section": "us_domestic"
-    },
-    {
-      "title": "Retail giant exits U.S. fashion after multi-million-dollar scandal",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/retail-giant-exits-u-fashion-031700615.html",
-      "image_url": "https://media.zenfs.com/en/thestreet_881/ec9743851c3f35cf582c66e989a26b9f",
-      "source": "Yahoo Finance",
-      "published": "2026-07-02T03:46:51+00:00",
-      "summary": "",
-      "section": "business"
-    },
-    {
-      "title": "June jobs report live updates: Economists expect key report to show healthy job growth",
-      "link": "https://finance.yahoo.com/economy/live/june-jobs-report-live-updates-economists-expect-key-report-to-show-healthy-job-growth-121350875.html",
-      "image_url": "https://s.yimg.com/uu/api/res/1.2/zPXFxWzZcUNKLedRQ3ET1w--~B/aD00MDAwO3c9NjAwMDthcHBpZD15dGFjaHlvbg--/https://d29szjachogqwa.cloudfront.net/images/2026-07/b2bbb591-0ee5-4653-97d6-3ddcc10740f0",
-      "source": "Yahoo Finance",
-      "published": "2026-06-30T12:13:50+00:00",
-      "summary": "",
-      "section": "business"
-    },
-    {
-      "title": "Silver prices today, Thursday, July 2: Prices hit $60 ahead of June employment report",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-thursday-july-2-prices-hit-60-ahead-of-june-employment-report-121527595.html",
-      "image_url": "https://s.yimg.com/os/creatr-uploaded-images/2025-12/01dc5a90-df88-11f0-bfff-e5a5c38339cf",
-      "source": "Yahoo Finance",
-      "published": "2026-07-02T12:15:27+00:00",
-      "summary": "",
-      "section": "business"
-    },
-    {
-      "title": "Oil falls for a third straight day after US, Iran conclude talks in Doha",
-      "link": "https://finance.yahoo.com/news/oil-falls-us-iran-talks-013010346.html",
-      "image_url": "https://media.zenfs.com/en/reuters.com/36dc7d52bc030ef9bb43f1dc642154a6",
-      "source": "Yahoo Finance",
-      "published": "2026-07-02T12:13:29+00:00",
-      "summary": "",
-      "section": "business"
-    },
-    {
-      "title": "Dow Jones Futures Rise With Tesla, Jobs Report Ahead",
-      "link": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-meta-jumps-spacex-micron-tesla-deliveries-jobs-report/?src=A00220&yptr=yahoo",
-      "image_url": "https://media.zenfs.com/en/ibd.com/b978deda5349b23dbd4e3bb021c10efa",
-      "source": "Yahoo Finance",
-      "published": "2026-07-02T12:08:40+00:00",
-      "summary": "",
-      "section": "business"
-    },
-    {
-      "title": "Want to live longer in retirement? This one money move could add years to your life.",
-      "link": "https://www.marketwatch.com/story/want-to-live-longer-in-retirement-this-one-money-move-could-add-years-to-your-life-e8f2b4ba?mod=mw_rss_topstories",
-      "image_url": "https://images.mktw.net/im-345319",
-      "source": "MarketWatch Top",
-      "published": "2026-07-02T12:06:00+00:00",
-      "summary": "A secure retirement portfolio acts like a health shield, calming market anxiety that can actually shorten life expectancy.",
-      "section": "business"
-    },
-    {
-      "title": "Is the stock market open tomorrow, or will it close early for the Fourth of July?",
-      "link": "https://www.marketwatch.com/story/is-the-stock-market-open-on-friday-or-will-it-close-early-for-the-fourth-of-july-b9885f36?mod=mw_rss_topstories",
-      "image_url": "https://images.mktw.net/im-50954059",
-      "source": "MarketWatch Top",
-      "published": "2026-07-02T12:06:00+00:00",
-      "summary": "Since Independence Day falls on Saturday this year, here’s what to know about trading hours and mail delivery",
-      "section": "business"
-    },
-    {
-      "title": "‘We are more likely to be living in poverty’: Social Security is a lifeline for women, so why are we ignored?",
-      "link": "https://www.marketwatch.com/story/we-are-more-likely-to-be-living-in-poverty-social-security-is-a-lifeline-for-women-so-why-are-we-ignored-5d4d4eb7?mod=mw_rss_topstories",
-      "image_url": "https://images.mktw.net/im-31858001",
-      "source": "MarketWatch Top",
-      "published": "2026-07-02T12:00:00+00:00",
-      "summary": "“We are more likely to live longer, to live alone and to be caregivers.”",
-      "section": "business"
-    },
-    {
-      "title": "Sky-high funding rates spell danger. Why this technical indicator suggests investors are too bullish",
-      "link": "https://www.marketwatch.com/story/sky-high-funding-rates-spell-danger-why-this-technical-indicator-suggests-investors-are-too-bullish-c64bccb8?mod=mw_rss_topstories",
-      "image_url": "https://images.mktw.net/im-14896008",
-      "source": "MarketWatch Top",
-      "published": "2026-07-02T11:58:00+00:00",
-      "summary": "The last time equity financing rates were this high was back in the depths of the global financial crisis in 2008.",
-      "section": "business"
-    },
-    {
-      "title": "This fund manager bought Nvidia and SK Hynix and sold software before others. His simple message on AI: ‘Follow the money.’",
-      "link": "https://www.marketwatch.com/story/this-fund-manager-bought-nvidia-and-sk-hynix-and-sold-software-before-others-his-simple-message-on-ai-follow-the-money-c3d67bea?mod=mw_rss_topstories",
-      "image_url": "https://images.mktw.net/im-75655560",
-      "source": "MarketWatch Top",
-      "published": "2026-07-02T11:55:00+00:00",
-      "summary": "Blue Whale Growth Fund manager exited software stocks before many others did.",
-      "section": "business"
-    },
-    {
-      "title": "AI agents will soon be able to match human traders, Robinhood CEO tells CNBC",
-      "link": "https://www.cnbc.com/2026/07/02/robinhood-ceo-ai-agents.html",
+      "title": "President Donald Trump defends business dealings, his children in exclusive interview with CNBC",
+      "link": "https://www.cnbc.com/2026/07/02/donald-trump-interview-live-updates.html",
       "image_url": null,
       "source": "CNBC World",
-      "published": "2026-07-02T10:51:06+00:00",
-      "summary": "Vlad Tenev spoke about the potential of AI agents in trading in an interview with CNBC.",
+      "published": "2026-07-02T22:06:51+00:00",
+      "summary": "Trump spoke with CNBC as he prepares to celebrate the 250th birthday of the U.S. on July 4 with an event and fireworks on the National Mall in Washington.",
       "section": "global_macro"
     },
     {
-      "title": "Google loses fight over record $4.7 billion EU antitrust fine",
-      "link": "https://www.cnbc.com/2026/07/02/alphabet-google-android-eu-antitrust-fine-4-1-billion-euro-appeal.html",
+      "title": "Job seekers giving up: Labor force participation rate falls to lowest in 50 years, outside of Covid era",
+      "link": "https://www.cnbc.com/2026/07/02/job-seekers-giving-up-labor-force-participation-rate-falls-to-lowest-in-50-years-outside-of-covid-era.html",
       "image_url": null,
       "source": "CNBC World",
-      "published": "2026-07-02T11:13:36+00:00",
-      "summary": "In 2018, the European Commission slapped Google with the record-breaking penalty on the grounds that it abused Android's mobile dominance.",
+      "published": "2026-07-02T18:09:31+00:00",
+      "summary": "A drop in the unemployment rate helped provide some upside to what was an otherwise downbeat jobs report — but it was for all the wrong reasons.",
       "section": "global_macro"
     },
     {
-      "title": "Brookfield wants to build AI data centers in London’s answer to Wall Street",
-      "link": "https://www.cnbc.com/2026/07/02/brookfield-london-wall-street-data-center-expansion.html",
+      "title": "Tesla stock sinks 7% despite strong deliveries report, posting worst day in nearly a year",
+      "link": "https://www.cnbc.com/2026/07/02/tesla-tsla-q2-2026-vehicle-delivery-production.html",
       "image_url": null,
       "source": "CNBC World",
-      "published": "2026-07-02T11:36:04+00:00",
-      "summary": "Brookfield's CEO said the firm is bringing data centers to London's Canary Wharf, as demand for AI infrastructure in the U.K. soars.",
+      "published": "2026-07-02T20:18:02+00:00",
+      "summary": "Tesla is trying to recover from consecutive annual declines in vehicle sales that were partly caused by a consumer backlash against CEO Elon Musk.",
       "section": "global_macro"
     },
     {
-      "title": "OpenAI proposes 5% stake to Trump administration to ease Washington pressure: Report",
-      "link": "https://www.cnbc.com/2026/07/02/openai-proposes-us-government-own-5percent-stake-to-address-political-blowback.html",
+      "title": "Trump bought Apple, Nvidia and other tech giants before tariff reversal fueled rebound",
+      "link": "https://www.cnbc.com/2026/07/02/trump-aapl-nvda-tariffs-disclosures.html",
       "image_url": null,
       "source": "CNBC World",
-      "published": "2026-07-02T11:02:26+00:00",
-      "summary": "Trump said in June that the U.S. taking an ownership stake in AI giants would be \"a beautiful thing\" and make American public \"partners in this revolution.\"",
+      "published": "2026-07-02T21:03:39+00:00",
+      "summary": "The day before President Donald Trump walked back his tariff policy turned out to be one of his busiest days of 2025 for stock buying.",
       "section": "global_macro"
     },
     {
@@ -259,35 +79,44 @@
       "link": "https://www.cnbc.com/2026/07/02/russia-launches-missile-drone-strikes-ukraine-kyiv.html",
       "image_url": null,
       "source": "CNBC World",
-      "published": "2026-07-02T06:16:51+00:00",
-      "summary": "The Russian defence ministry said that it launched a \"massive strike using long-range precision air, land, and sea-based weapons and attack drones.\"",
+      "published": "2026-07-02T14:25:28+00:00",
+      "summary": "The Russian Defense Ministry said that it launched a \"massive strike using long-range precision air, land, and sea-based weapons and attack drones.\"",
       "section": "global_macro"
     },
     {
-      "title": "'Most massive' Russian attack on Kyiv kills at least 18",
+      "title": "Venezuela quake survivor pulled out alive after eight days",
+      "link": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/116a/live/fcec98d0-763e-11f1-a627-714adb4eed6e.jpg",
+      "source": "BBC World",
+      "published": "2026-07-02T16:11:24+00:00",
+      "summary": "Hernán Gil was trapped under a collapsed multi-storey car park, and encouraged them as they inched closer to him.",
+      "section": "global_macro"
+    },
+    {
+      "title": "'Most massive' Russian attack on Kyiv kills at least 27",
       "link": "https://www.bbc.co.uk/news/articles/c4gyv05gk4do?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b2e/live/248b9c60-75d1-11f1-be8b-cbfeee563106.jpg",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6649/live/4f89e160-7630-11f1-ac11-19a4319081d7.jpg",
       "source": "BBC World",
-      "published": "2026-07-02T11:53:29+00:00",
-      "summary": "Kyiv's mayor declares a day of mourning after the major drone and missile attack on the Ukrainian capital.",
+      "published": "2026-07-02T20:18:14+00:00",
+      "summary": "The latest barrage deployed the largest number of weapons on the capital and hit locations over a wide area.",
       "section": "global_macro"
     },
     {
-      "title": "People smuggler convicted in France found by BBC living in UK and seeking asylum",
-      "link": "https://www.bbc.co.uk/news/articles/clye9zn0y1ro?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c00/live/0635e400-73a1-11f1-b1db-af71d47507d6.jpg",
+      "title": "Bomb blast at Damascus cafe kills six, Syrian state media say",
+      "link": "https://www.bbc.co.uk/news/articles/cn0vwxyz40zo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbab/live/7f056730-7639-11f1-a627-714adb4eed6e.jpg",
       "source": "BBC World",
-      "published": "2026-07-02T05:00:03+00:00",
-      "summary": "Once described as \"the godfather\" of French migrant camps, he has been working in a Leicestershire village.",
+      "published": "2026-07-02T17:56:18+00:00",
+      "summary": "There was no immediate claim for the bombing at a cafe close to the Palace of Justice, a major government building.",
       "section": "global_macro"
     },
     {
-      "title": "Canadian boy, 11, dies of rabies after waking to bat on his face",
-      "link": "https://www.bbc.co.uk/news/articles/c982m1m95q9o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d1e/live/3d2797f0-75c8-11f1-9106-bb5823bc9ead.jpg",
+      "title": "Vatican excommunicates followers of global Catholic sect",
+      "link": "https://www.bbc.co.uk/news/articles/c5yz95188jjo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11db/live/76416a80-7617-11f1-ac6e-25f7e4f0c9b9.jpg",
       "source": "BBC World",
-      "published": "2026-07-02T03:07:39+00:00",
-      "summary": "Rabies infections are rare in Canada. There have been 28 human deaths due to rabies in the country since 1924.",
+      "published": "2026-07-02T17:27:36+00:00",
+      "summary": "Around 600,000 followers of the Society of Saint Pius X, a Catholic sect, are affected.",
       "section": "global_macro"
     },
     {
@@ -298,105 +127,6 @@
       "published": "2026-07-02T09:21:31+00:00",
       "summary": "The 66-year-old, who died in the crash, had anxiety and referenced \"ending his life\" in his diary.",
       "section": "global_macro"
-    },
-    {
-      "title": "Aunt of Venezuelan boy pulled from rubble tells BBC she will give him 'mother's warmth'",
-      "link": "https://www.bbc.co.uk/news/articles/c05yv34qlnlo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e305/live/80da2240-75ac-11f1-9510-1546718f668b.jpg",
-      "source": "BBC World",
-      "published": "2026-07-02T00:26:13+00:00",
-      "summary": "Kleiber Moran, 2, was rescued on Wednesday, six days after last week's deadly earthquakes.",
-      "section": "global_macro"
-    },
-    {
-      "title": "Editorial: It's time to step up and have your say for science",
-      "link": "https://arstechnica.com/science/2026/07/editorial-the-most-important-thing-you-can-do-to-protect-science/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2203858255-1152x648.jpg",
-      "source": "Ars Technica",
-      "published": "2026-07-02T10:00:27+00:00",
-      "summary": "Your comments on a dangerous rule putting politicals in charge of science can matter.",
-      "section": "tech"
-    },
-    {
-      "title": "T-Mobile moving tens of thousands of virtual machines off VMware amid lawsuit",
-      "link": "https://arstechnica.com/information-technology/2026/07/t-mobile-moving-tens-of-thousands-of-virtual-machines-off-vmware-amid-lawsuit/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/09/getty-t-mobile-sign-1152x648.jpg",
-      "source": "Ars Technica",
-      "published": "2026-07-01T21:21:21+00:00",
-      "summary": "T-Mobile wants Broadcom to keep supporting its VMware perpetual licenses.",
-      "section": "tech"
-    },
-    {
-      "title": "NASA chief praises progress Blue Origin is making after launch failure",
-      "link": "https://arstechnica.com/space/2026/07/nasa-chief-praises-progress-blue-origin-is-making-after-launch-failure/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/News_NG-ReturnToFlight_2-RocketLift-1152x648.webp",
-      "source": "Ars Technica",
-      "published": "2026-07-01T19:57:36+00:00",
-      "summary": "\"We've got time into 2027 before we're getting nervous.\"",
-      "section": "tech"
-    },
-    {
-      "title": "US home battery installations hit record high on rising electricity costs",
-      "link": "https://arstechnica.com/science/2026/07/us-home-battery-installations-hit-record-high-in-early-2026/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2200913289-1152x648.jpg",
-      "source": "Ars Technica",
-      "published": "2026-07-01T19:11:15+00:00",
-      "summary": "Record home battery installations unlock options for grids—and AI data centers.",
-      "section": "tech"
-    },
-    {
-      "title": "Superworms could replace beetles for cleaning skeletal remains",
-      "link": "https://arstechnica.com/science/2026/07/museums-could-use-ravenous-superworms-to-clean-skeletons/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/superworms1-1152x648.jpg",
-      "source": "Ars Technica",
-      "published": "2026-07-01T18:59:21+00:00",
-      "summary": "An optimal ratio of 10-15 grams of larvae per gram of specimen minimized cleaning time with no bone damage.",
-      "section": "tech"
-    },
-    {
-      "title": "Mystery box shows are complicated for everyone — even the actors",
-      "link": "https://www.theverge.com/entertainment/960265/silo-season-3-apple-tv-interview-mystery-box",
-      "image_url": null,
-      "source": "The Verge",
-      "published": "2026-07-02T12:00:00+00:00",
-      "summary": "Silo is such a complicated show that even its showrunner gets confused sometimes. While filming the final seasons of the Apple TV sci-fi thriller, Graham Yost remembers two instances where he messed up details: once it was an actor who realized that a conversation they were about to shoot should've ",
-      "section": "tech"
-    },
-    {
-      "title": "BitTorrent&#8217;s disastrous, legendary, and controversial story",
-      "link": "https://www.theverge.com/tech/959848/bittorrent-story-25-years-piracy",
-      "image_url": null,
-      "source": "The Verge",
-      "published": "2026-07-02T11:00:00+00:00",
-      "summary": "Twenty-five years ago today, a young, little-known programmer by the name of Bram Cohen fired off a short message to a mailing list for peer-to-peer enthusiasts. \"My new app, BitTorrent, is now in working order, check it out here,\" Cohen wrote, followed by a link to his personal website. \"What's Bit",
-      "section": "tech"
-    },
-    {
-      "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/960588/openai-government-5-percent-stake-trump",
-      "image_url": null,
-      "source": "The Verge",
-      "published": "2026-07-02T10:23:27+00:00",
-      "summary": "OpenAI has floated giving the US government a 5 percent ownership stake as a way of easing tensions with the Trump administration and blunting mounting public backlash against AI, according to the Financial Times. CEO Sam Altman argued that giving the public a financial interest in the company would",
-      "section": "tech"
-    },
-    {
-      "title": "Amazon has enough satellites to launch its Starlink competitor",
-      "link": "https://www.theverge.com/science/960563/amazon-leo-service-tipping-point",
-      "image_url": null,
-      "source": "The Verge",
-      "published": "2026-07-02T09:13:39+00:00",
-      "summary": "Amazon says it now has enough satellites operating in low-Earth orbit to light up its Starlink internet competitor. With last night's launch, Amazon Leo has 396 satellites deployed, which is \"enough to support continuous service across initial latitudes,\" according to Chris Weber, VP heading up busi",
-      "section": "tech"
-    },
-    {
-      "title": "Apple’s entry-level MacBook Pro could be up for a redesign",
-      "link": "https://www.theverge.com/news/960541/apple-macbook-pro-entry-level-redesign-ipad-pro-update",
-      "image_url": null,
-      "source": "The Verge",
-      "published": "2026-07-01T22:39:43+00:00",
-      "summary": "Apple is working on a \"revamped\" version of its entry-level MacBook Pro that it could launch as soon as the first half of 2027, Bloomberg reports. The company is also testing four new iPad Pros that are set to launch in the spring with a focus on \"internal improvements.\" The updated MacBook Pro, whi",
-      "section": "tech"
     },
     {
       "title": "Scientists discover a completely different way to fight viruses",
@@ -444,6 +174,33 @@
       "section": "science"
     },
     {
+      "title": "Electrodeposited self-assembled molecules for perovskite photovoltaics",
+      "link": "https://www.nature.com/articles/s41586-026-10844-6",
+      "image_url": null,
+      "source": "Nature",
+      "published": "2026-07-02T00:00:00+00:00",
+      "summary": "Nature, Published online: 02 July 2026; doi:10.1038/s41586-026-10844-6Electrodeposited self-assembled molecules for perovskite photovoltaics",
+      "section": "science"
+    },
+    {
+      "title": "Author Correction: Synthesis of enantioenriched atropisomers by biocatalytic deracemization",
+      "link": "https://www.nature.com/articles/s41586-026-10854-4",
+      "image_url": null,
+      "source": "Nature",
+      "published": "2026-07-02T00:00:00+00:00",
+      "summary": "Nature, Published online: 02 July 2026; doi:10.1038/s41586-026-10854-4Author Correction: Synthesis of enantioenriched atropisomers by biocatalytic deracemization",
+      "section": "science"
+    },
+    {
+      "title": "Neutrino’s nursery found: the ‘Shadow Blaster’",
+      "link": "https://www.nature.com/articles/d41586-026-02034-1",
+      "image_url": null,
+      "source": "Nature",
+      "published": "2026-07-02T00:00:00+00:00",
+      "summary": "Nature, Published online: 02 July 2026; doi:10.1038/d41586-026-02034-1A particle detected at the South Pole was born in a galaxy that churned out stars when the Universe was young.",
+      "section": "science"
+    },
+    {
       "title": "Can you actually do a nine-to-five PhD? Nature readers weigh in",
       "link": "https://www.nature.com/articles/d41586-026-01773-5",
       "image_url": null,
@@ -462,36 +219,288 @@
       "section": "science"
     },
     {
-      "title": "Togetherness: How co-operation built the world",
-      "link": "https://www.nature.com/articles/d41586-026-02067-6",
-      "image_url": null,
-      "source": "Nature",
-      "published": "2026-07-01T00:00:00+00:00",
-      "summary": "Nature, Published online: 01 July 2026; doi:10.1038/d41586-026-02067-6Science journalist Rowan Hooper joins us to talk about symbiosis and the importance of organisms working together.",
-      "section": "science"
+      "title": "Newly discovered PamStealer isn't your typical macOS malware",
+      "link": "https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/GettyImages-1299483011-1152x648.jpg",
+      "source": "Ars Technica",
+      "published": "2026-07-02T19:38:57+00:00",
+      "summary": "The discovery underscores the increased effort being poured into Mac infostealers.",
+      "section": "tech"
     },
     {
-      "title": "Backreaction of stimulated Hawking radiation in an optical analogue",
-      "link": "https://www.nature.com/articles/s41586-026-10720-3",
-      "image_url": null,
-      "source": "Nature",
-      "published": "2026-07-01T00:00:00+00:00",
-      "summary": "Nature, Published online: 01 July 2026; doi:10.1038/s41586-026-10720-3By using a fibre-optical analogue of the physics of black holes, theoretical and experimental evidence is presented for the process underpinning the generation of Hawking radiation and its backreaction onto the optical pump.",
-      "section": "science"
+      "title": "FAA proposal: Supersonic airliners can fly over US cities if they’re quiet",
+      "link": "https://arstechnica.com/gadgets/2026/07/faa-proposal-supersonic-airliners-can-fly-over-us-cities-if-theyre-quiet/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Overture-Rockies-1152x648.png",
+      "source": "Ars Technica",
+      "published": "2026-07-02T17:29:37+00:00",
+      "summary": "New US rules would legalize quiet supersonic flights without the sonic boom.",
+      "section": "tech"
     },
     {
-      "title": "Harmonizing standards and resources for the medical genome",
-      "link": "https://www.nature.com/articles/s41586-026-10621-5",
+      "title": "Ars Live recap: When are the big rockets NASA desperately needs going to be ready?",
+      "link": "https://arstechnica.com/space/2026/07/ars-live-recap-when-are-the-big-rockets-nasa-desperately-needs-going-to-be-ready/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/new-glenn-9x4-1-1152x648.jpg",
+      "source": "Ars Technica",
+      "published": "2026-07-02T16:46:47+00:00",
+      "summary": "I have not seen anyone put out a date for a new rocket, and actually hit it.",
+      "section": "tech"
+    },
+    {
+      "title": "Plex debuts 5-year membership pass for $250",
+      "link": "https://arstechnica.com/gadgets/2026/07/250-used-to-get-you-a-lifetime-plex-pass-now-you-get-a-five-year-subscription/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2276656517-1152x648-1783004998.jpg",
+      "source": "Ars Technica",
+      "published": "2026-07-02T16:35:59+00:00",
+      "summary": "Plex is pushing customers to newer features and more frequent payments.",
+      "section": "tech"
+    },
+    {
+      "title": "Africa CDC confirms Marburg case in Uganda as Ebola outbreak rages",
+      "link": "https://arstechnica.com/health/2026/07/africa-cdc-confirms-marburg-case-in-uganda-as-ebola-outbreak-rages/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2279919981-1152x648.jpg",
+      "source": "Ars Technica",
+      "published": "2026-07-02T16:30:37+00:00",
+      "summary": "Early reports indicate there may be another case, but spread is thought to be localized.",
+      "section": "tech"
+    },
+    {
+      "title": "Tesla driver faces manslaughter charges over Texas crash that killed a woman inside her home",
+      "link": "https://www.theverge.com/transportation/961161/tesla-fsd-katy-tx-manslaughter-charges",
       "image_url": null,
-      "source": "Nature",
-      "published": "2026-07-01T00:00:00+00:00",
-      "summary": "Nature, Published online: 01 July 2026; doi:10.1038/s41586-026-10621-5This Perspective examines the challenges and opportunities of genomic sequencing across multiple clinical applications, including genetic therapies, and calls for the establishment of new, centralized reference standards to improv",
-      "section": "science"
+      "source": "The Verge",
+      "published": "2026-07-02T22:09:33+00:00",
+      "summary": "The man whose Tesla struck and killed a woman inside her Texas home last month is now facing manslaughter charges, as reported earlier by The Wall Street Journal and local news outlet KHOU 11. 44-year-old Michael Butler was arrested on Wednesday and claimed to have been driving his Model 3 using Tes",
+      "section": "tech"
+    },
+    {
+      "title": "Meta has a new app called Pocket that is absolutely nothing like the old Pocket",
+      "link": "https://www.theverge.com/tech/961086/meta-pocket-app-gizmo-ai",
+      "image_url": null,
+      "source": "The Verge",
+      "published": "2026-07-02T21:09:06+00:00",
+      "summary": "Mozilla shut down the well-loved read-it-later Pocket app last year, and now Meta is launching an app called Pocket with an entirely different, AI-focused pitch: this new app lets you make and share little interactive \"gizmos\" built from an AI prompt, as reported by Business Insider. Meta CEO Mark Z",
+      "section": "tech"
+    },
+    {
+      "title": "The best July 4th sales we found so far",
+      "link": "https://www.theverge.com/gadgets/958906/best-july-4th-tech-deal-sale",
+      "image_url": null,
+      "source": "The Verge",
+      "published": "2026-07-02T20:15:45+00:00",
+      "summary": "July 4th sales are typically a precursor to what we&#8217;d see during a mid-July Prime Day, but obviously things are flipped around this year. Last week&#8217;s big Prime Day sale is over, yet there are a number of familiar deals still poking around in the week leading up to the nation&#8217;s birt",
+      "section": "tech"
+    },
+    {
+      "title": "Weber marks down grills and griddles to their best prices ever for July 4th",
+      "link": "https://www.theverge.com/gadgets/960558/weber-july-4th-grill-griddle-sale-deal",
+      "image_url": null,
+      "source": "The Verge",
+      "published": "2026-07-02T18:19:03+00:00",
+      "summary": "If our recent Decoder interview with Weber Blackstone CEO Roger Dahle has you craving freshly grilled meats or veggies, Weber just so happens to have a variety of grills, smokers, griddles, and accessories selling at big discounts ahead of the July 4th holiday. It makes a bunch of models, but we’ve ",
+      "section": "tech"
+    },
+    {
+      "title": "The video game disc is dead",
+      "link": "https://www.theverge.com/podcast/960810/video-game-disc-dead-vergecast",
+      "image_url": null,
+      "source": "The Verge",
+      "published": "2026-07-02T16:31:09+00:00",
+      "summary": "For decades, to be a gamer was to accumulate a lot of stuff. Consoles, controllers, accessories, weird VR gloves that never worked properly, but mostly the games themselves. Over the years, games have come in every shape and size you can imagine. And now that era appears to be ending. On this episod",
+      "section": "tech"
+    },
+    {
+      "title": "Giant satellite TV company files Chapter 11 bankruptcy",
+      "link": "https://finance.yahoo.com/media-advertising/articles/giant-satellite-tv-company-files-231700614.html",
+      "image_url": "https://media.zenfs.com/en/thestreet_881/99609324bf9750df67073fc60995bc79",
+      "source": "Yahoo Finance",
+      "published": "2026-07-01T23:17:00+00:00",
+      "summary": "",
+      "section": "business"
+    },
+    {
+      "title": "Is the stock market open on July 3? Here's the holiday trading schedule for Fourth of July.",
+      "link": "https://finance.yahoo.com/personal-finance/investing/article/is-the-stock-market-open-on-july-3-heres-the-holiday-trading-schedule-for-fourth-of-july-210239142.html",
+      "image_url": "https://s.yimg.com/os/creatr-uploaded-images/2025-07/c5a1bc20-6d8e-11f0-bfb7-e07100b1a2df",
+      "source": "Yahoo Finance",
+      "published": "2024-03-25T21:02:39+00:00",
+      "summary": "",
+      "section": "business"
+    },
+    {
+      "title": "Japan's Biggest LNG Buyer Creates Long-Term LNG and Lower-Carbon Fuels Company",
+      "link": "https://finance.yahoo.com/energy/articles/japans-biggest-lng-buyer-creates-143000960.html",
+      "image_url": "https://media.zenfs.com/en/oilprice.com/e70fc993350250bd380a3f148cc45a4b",
+      "source": "Yahoo Finance",
+      "published": "2026-07-01T14:30:00+00:00",
+      "summary": "",
+      "section": "business"
+    },
+    {
+      "title": "Data Center Growth Pushes Corning to All-Time Highs",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/data-center-growth-pushes-corning-143041508.html",
+      "image_url": "https://media.zenfs.com/en/fx_empire_176/ae79fbef0bb25b3b51ed115b995a9093",
+      "source": "Yahoo Finance",
+      "published": "2026-07-01T14:30:41+00:00",
+      "summary": "",
+      "section": "business"
+    },
+    {
+      "title": "Sell the Canada Dollar Now, Just in Time for the Fourth of July",
+      "link": "https://finance.yahoo.com/markets/currencies/articles/sell-canada-dollar-now-just-142734955.html",
+      "image_url": "https://media.zenfs.com/en/barchart_com_477/0a518132ada19bc18c43d6ab9dd7e59f",
+      "source": "Yahoo Finance",
+      "published": "2026-07-01T14:27:34+00:00",
+      "summary": "",
+      "section": "business"
+    },
+    {
+      "title": "Trump’s real-estate licensing income in foreign countries nearly doubled — and now features Qatar and Romania",
+      "link": "https://www.marketwatch.com/story/trumps-real-estate-licensing-income-in-foreign-countries-nearly-doubled-and-now-features-qatar-and-romania-ebe3d73d?mod=mw_rss_topstories",
+      "image_url": "https://images.mktw.net/im-86832992",
+      "source": "MarketWatch Top",
+      "published": "2026-07-02T22:00:00+00:00",
+      "summary": "One ethics watchdog has “grave concerns about the president doing business in foreign countries.”",
+      "section": "business"
+    },
+    {
+      "title": "Gamer trades in $1,000 of physical discs at GameStop, days after Sony announces end of disc era",
+      "link": "https://www.marketwatch.com/story/gamer-trades-in-1-000-of-physical-discs-at-gamestop-days-after-sony-announces-end-of-disc-era-bf8383b7?mod=mw_rss_topstories",
+      "image_url": "https://images.mktw.net/im-25562075",
+      "source": "MarketWatch Top",
+      "published": "2026-07-02T21:57:00+00:00",
+      "summary": "While some collectors may plan to hoard their physical media, one Columbus gamer decided to liquidate his collection",
+      "section": "business"
+    },
+    {
+      "title": "Palantir’s stock bounces back as analyst cheers company’s unique AI advantage",
+      "link": "https://www.marketwatch.com/story/palantirs-stock-bounces-back-as-analyst-cheers-companys-unique-ai-advantage-2f28698d?mod=mw_rss_topstories",
+      "image_url": "https://images.mktw.net/im-45311862",
+      "source": "MarketWatch Top",
+      "published": "2026-07-02T21:12:00+00:00",
+      "summary": "The software company’s shares have gotten off to a strong start this month following a weak run in June.",
+      "section": "business"
+    },
+    {
+      "title": "Why Tesla’s stock sank to its worst day in a year despite blowout delivery numbers",
+      "link": "https://www.marketwatch.com/story/tesla-crushes-delivery-estimates-giving-its-stock-a-boost-16c198da?mod=mw_rss_topstories",
+      "image_url": "https://images.mktw.net/im-14505735",
+      "source": "MarketWatch Top",
+      "published": "2026-07-02T21:05:00+00:00",
+      "summary": "The automaker shipped 480,126 EVs to consumers last quarter — much more than even bullish analysts projected.",
+      "section": "business"
+    },
+    {
+      "title": "This Adobe analyst is going against the grain by telling investors to buy the stock",
+      "link": "https://www.marketwatch.com/story/this-adobe-analyst-is-going-against-the-grain-by-telling-investors-to-buy-the-stock-8dadc0a5?mod=mw_rss_topstories",
+      "image_url": "https://images.mktw.net/im-14886165",
+      "source": "MarketWatch Top",
+      "published": "2026-07-02T21:02:00+00:00",
+      "summary": "Adobe’s stock is rallying after a contrarian upgrade at HSBC.",
+      "section": "business"
+    },
+    {
+      "title": "President Donald Trump defends business dealings, his children in exclusive interview with CNBC",
+      "link": "https://www.cnbc.com/2026/07/02/donald-trump-interview-live-updates.html",
+      "image_url": null,
+      "source": "CNBC Top",
+      "published": "2026-07-02T22:06:51+00:00",
+      "summary": "Trump spoke with CNBC as he prepares to celebrate the 250th birthday of the U.S. on July 4 with an event and fireworks on the National Mall in Washington.",
+      "section": "us_domestic"
+    },
+    {
+      "title": "Job seekers giving up: Labor force participation rate falls to lowest in 50 years, outside of Covid era",
+      "link": "https://www.cnbc.com/2026/07/02/job-seekers-giving-up-labor-force-participation-rate-falls-to-lowest-in-50-years-outside-of-covid-era.html",
+      "image_url": null,
+      "source": "CNBC Top",
+      "published": "2026-07-02T18:09:31+00:00",
+      "summary": "A drop in the unemployment rate helped provide some upside to what was an otherwise downbeat jobs report — but it was for all the wrong reasons.",
+      "section": "us_domestic"
+    },
+    {
+      "title": "Dow jumps nearly 600 points to record close; Nasdaq slides as chip stocks suffer: Live updates",
+      "link": "https://www.cnbc.com/2026/07/01/stock-market-today-live-updates.html",
+      "image_url": null,
+      "source": "CNBC Top",
+      "published": "2026-07-02T21:12:35+00:00",
+      "summary": "The Dow Jones Industrial Average scaled to record highs on Thursday as investors reacted to a weaker-than-expected nonfarm payrolls report for June.",
+      "section": "us_domestic"
+    },
+    {
+      "title": "Trump bought Apple, Nvidia and other tech giants before tariff reversal fueled rebound",
+      "link": "https://www.cnbc.com/2026/07/02/trump-aapl-nvda-tariffs-disclosures.html",
+      "image_url": null,
+      "source": "CNBC Top",
+      "published": "2026-07-02T21:03:39+00:00",
+      "summary": "The day before President Donald Trump walked back his tariff policy turned out to be one of his busiest days of 2025 for stock buying.",
+      "section": "us_domestic"
+    },
+    {
+      "title": "U.S. job creation cools in June with payrolls growth of just 57,000; unemployment rate at 4.2%",
+      "link": "https://www.cnbc.com/2026/07/02/jobs-report-june-2026-.html",
+      "image_url": null,
+      "source": "CNBC Top",
+      "published": "2026-07-02T16:50:27+00:00",
+      "summary": "Nonfarm payrolls were expected to rise by 115,000 in June and the unemployment rate to hold steady at 4.3%.",
+      "section": "us_domestic"
+    },
+    {
+      "title": "U.S. Olympic canoeist David ‘Davey’ Hearn charged in Reflecting Pool vandalism - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNanlUU1dXMzZtYzJCS1l2eVpVRGo5OXVFVmdsaWptV28ta3FaUkMwTmZfc3JlOVMwMGNNdlcwUk5wM3FrN2VvUzBlanpJZ2lXczEzRTgwWmlFa3NHNlRKT1B5RTFTWm5aam9ORWJaaFdHa2NpV21iUnVWb3dQQ192SlJBcFRzMkdlSFhteDZXOFVEbW5WLVRFYTVYcWhOekZjX2tDbDlFc0k?oc=5",
+      "image_url": null,
+      "source": "Google News US",
+      "published": "2026-07-02T19:38:58+00:00",
+      "summary": "U.S. Olympic canoeist David ‘Davey’ Hearn charged in Reflecting Pool vandalism&nbsp;&nbsp;NBC NewsOlympian Is Indicted After Arrest at Washington’s Reflecting Pool&nbsp;&nbsp;The New York TimesFormer Olympic canoeist indicted for allegedly damaging Reflecting Pool&nbsp;&nbsp;CNNEx-Olympian indicted ",
+      "section": "us_domestic"
+    },
+    {
+      "title": "Trump hijacked US’s 250 anniversary to serve ‘political ideology and pet projects’, congressional report says - The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNc2JPUU96WEkyajlING5zNFZTZGRPTkpabS1MN1BVVGczNE5HX3ZNVkI5RmtEZkc1Q2thc214cV9rZzE5djlBdDZsWjJ0cF9qazh4N0YzVFdGek1hZk5yeDRJZjdkdkFHME9fcGxhUks1UGVMU2Z4RW94a01Xam5HNGliVTc?oc=5",
+      "image_url": null,
+      "source": "Google News US",
+      "published": "2026-07-02T18:57:00+00:00",
+      "summary": "Trump hijacked US’s 250 anniversary to serve ‘political ideology and pet projects’, congressional report says&nbsp;&nbsp;The GuardianTrump-backed organizer of America’s 250th birthday events may have duped donors, report from House Democrats alleges&nbsp;&nbsp;CNNHouse Democrats accuse Trump of 'hij",
+      "section": "us_domestic"
+    },
+    {
+      "title": "Live Updates: Heat Waves Disrupts Transportation and World Cup Events Across Eastern U.S. - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9IOHZOVmFydVBscjI0TFlrdlkteGY3ZVpkUTZaUnY5RjN4TGQxWVQ0SndRdVpVQWhuSkltOTVPbk9KbHRYbzBaVkoxYUx1NXVVNm5QdnZwWmFXTkVHUEZxUm00VWw2em41?oc=5",
+      "image_url": null,
+      "source": "Google News US",
+      "published": "2026-07-02T21:24:36+00:00",
+      "summary": "Live Updates: Heat Waves Disrupts Transportation and World Cup Events Across Eastern U.S.&nbsp;&nbsp;The New York TimesTornado warnings, storms move across Eastern Iowa&nbsp;&nbsp;KCRGIowa weather: Storm chances climb as temperatures stay hot&nbsp;&nbsp;KCCISevere storm chance increases for Central ",
+      "section": "us_domestic"
+    },
+    {
+      "title": "Mamdani gets roasted after telling sweltering New Yorkers to set ACs to 78 degrees: 'Commie' - Fox News",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWG5TTkpzX1hKb2FUcTJ2YnVVeHJ2RW51Z3FKdklsNzNYaG1rMGpIOXJjTl9KX3paUHFTZ01FcjUzMHRZeFZ5dE5uTUMxanZQcVlOVVJxdUx6Tko2RlRPaVg4YmZHNVFWQ05UTUtFeGxFdEkySlhCSFhPbFBpb3k1eEg3cW10Wlg2eTRLWEQtMHFndi1NdGFlZTg4WkdvZV92NWJYRWcyUkxTdWNqUVdQdlI1XzZuYjA?oc=5",
+      "image_url": null,
+      "source": "Google News US",
+      "published": "2026-07-02T13:41:04+00:00",
+      "summary": "Mamdani gets roasted after telling sweltering New Yorkers to set ACs to 78 degrees: 'Commie'&nbsp;&nbsp;Fox NewsNew York’s Heat Wave Is Brutal. In This Neighborhood, It’s Even Worse.&nbsp;&nbsp;The New York TimesHeat Wave Politics: GOP Leaders Deride Calls to Conserve&nbsp;&nbsp;Inside Climate NewsR",
+      "section": "us_domestic"
+    },
+    {
+      "title": "Man pulled from rubble in ‘miraculous’ rescue 8 days after devastating Venezuela earthquakes - CNN",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZTJQbklNbkdKRkJLYm1xaTRNdEFZQ3dGRTV6bW1ISURZLU9WcUJtSkZpeUE5Vnk2eDJLZk9uSktLeU56Qk1TdkxVaVoySlNjdXF3ZlY5cUN0SjRXR0lMbHUxV1h2cnZ4cjN6clFWVXVVQmxPbUhGTlJsTUJQMUVEdFlJU0RxZFNBRHM5QjViRQ?oc=5",
+      "image_url": null,
+      "source": "Google News US",
+      "published": "2026-07-02T13:10:56+00:00",
+      "summary": "Man pulled from rubble in ‘miraculous’ rescue 8 days after devastating Venezuela earthquakes&nbsp;&nbsp;CNNAs Venezuelan morgues fill and the death toll slowly rises, questions remain about how many are truly gone&nbsp;&nbsp;CNNRescue turns to recovery in Venezuela&nbsp;&nbsp;NPRVenezuelan security ",
+      "section": "us_domestic"
     }
   ],
   "_meta": {
-    "generated_at": "2026-07-02T12:30:33.994889Z",
+    "generated_at": "2026-07-02T22:11:10.349351Z",
     "source": "hermes-pi"
+  },
+  "chatter": {
+    "preamble": "# Market Chatter — Thursday, July 2, 2026",
+    "🐦 Social Sentiment": "The socials are a battlefield today. The split is violent — and it's all about **rotation**.\n\n@cryptorover captured the fear: *\"$1.3 TRILLION wiped out from the US stock market from day highs. S&P 500 down 1.5%. Nasdaq crashing 3%.\"* Tech is getting **absolutely destroyed**. The semiconductor rout is the talk of Reddit's r/wallstreetbets.\n\nBut simultaneously, the **Dow surged 600 points to an all-time high**, and @cryptorover also noted *\"$300 BILLION added in just 6 minutes after open.\"* The bulls say this is a healthy rotation — out of AI hype, into financials and real economy names.\n\n**$NKE** popped 5%+ post-earnings. @ReutersBiz noted the S&P 500 and Nasdaq wrapped their strongest quarter since 2020. @Forbes highlighted the **AI credit rush** boosting bank stocks. The mood is bifurcated: value investors are euphoric, tech holders are bleeding.",
+    "📉 After-Hours Movers": "The **Great Rotation** dominated every tape today.\n\n- **Dow Jones**: +600 pts, **record close** — banks, industrials, financials leading\n- **S&P 500**: Flat to -0.2%, dragged by tech\n- **Nasdaq Composite**: -0.8% | **Nasdaq 100**: -1.5% (semiconductor bloodbath)\n- **$TSLA**: heavy drag on the Nasdaq\n- **$NKE**: +5% on earnings beat\n- **Semiconductors**: crushed — the chip rout echoes the summer 2025 selloff\n\nThe narrative: AI credit boom is boosting bank stocks (Forbes). The long bond yield ticked higher as inflation expectations stabilize. Economic resilience is the base case. But the froth in AI/semiconductor names is being purged in real time.\n\n**Tomorrow**: Market **CLOSED** for Independence Day (July 3). Thin late-day volume could amplify any moves heading into the 4 PM close.",
+    "🔮 Next Day Setup": "**Friday, July 3** — US stock market **shut** for Independence Day. Thursday afternoon will see thinning liquidity into the holiday. Don't read too much into late-day tick noise.\n\n**Week ahead watchlist:**\n- **Dip buyers or more pain?** Will Monday see buyers step in for tech, or will rotational selling continue? The futures tape suggests a **mixed open** next Tuesday.\n- **Earnings coming**: $STZ (Constellation Brands), $GIS (General Mills) — consumer staples sentiment check\n- **Geopolitical**: Middle East headlines over the long weekend could move oil. WTI has been drifting lower but any escalation reverses that fast.\n- **Key question**: Is this a \"healthy correction within a bull market\" or the start of a deeper tech unwind? The **Dow record** argues for the former — but the chip rout has teeth.\n\n**The takeaway**: The rotational trade is the dominant macro narrative. Value over growth. Financials over tech. Long holiday weekend = position-squaring into the close. Stay nimble."
+  },
+  "audio": {
+    "chatter": "https://raw.githubusercontent.com/pencrusader/trivia__news/main/audio/chatter_2026-07-02.ogg"
   },
   "narrative": {
     "🌍 Global Macro": "**AI agents** are coming for Wall Street. Robinhood's CEO Vlad Tenev told CNBC that artificial intelligence will soon match human traders — a major inflection point for algorithmic finance. **Google** lost its final appeal against a record **$4.7 billion EU antitrust fine**, with Europe's top court upholding the penalty over Android's market dominance. **Brookfield** wants to build AI data centers in London's Canary Wharf, pouring infrastructure billions into the UK's financial heart. In a stunning diplomatic play, **OpenAI** proposed giving the **US government a 5% ownership stake** to ease political pressure from the Trump administration. And **Russia launched a massive missile and drone strike on Kyiv**, killing at least 18, as Poland scrambled jets and Finland restricted airspace.",
