@@ -36,3 +36,4 @@ See `docs/ARCHITECTURE.md` for the full design.
 
 See `planning/STATE.md`. Currently: Architecture complete, ready for build.
 
+Wed Jul  1 23:24:57 EDT 2026
