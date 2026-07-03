@@ -8,19 +8,19 @@
       "President Donald Trump defends business dealings, his children in exclusive interview with CNBC",
       "The Tech Download: Amazon’s devices chief Panos Panay on tech giant's AI gadget push"
     ],
-    "us_domestic": [
-      "President Donald Trump defends business dealings, his children in exclusive interview with CNBC",
-      "Extreme heat wave threatens U.S. power grids and July 4 travel",
-      "Global stock markets mixed as South Korea jumps, shrugging off chip slump: Live updates",
-      "Oman walks a diplomatic tightrope over Strait of Hormuz fees, creating a ‘blind spot’ for markets",
-      "Gold prices set for first weekly rise in a month as investors scale back Fed rate hike bets"
-    ],
     "science": [
       "New calculator reveals whether you should really worry about statin side effects",
       "Scientists discover a completely different way to fight viruses",
       "Scientists may have finally found how Alzheimer's spreads through the brain",
       "Scientists say creatine may help fight depression",
       "A strange LIGO signal could reveal the missing link behind dark matter"
+    ],
+    "us_domestic": [
+      "President Donald Trump defends business dealings, his children in exclusive interview with CNBC",
+      "Extreme heat wave threatens U.S. power grids and July 4 travel",
+      "Global stock markets mixed as South Korea jumps, shrugging off chip slump: Live updates",
+      "Oman walks a diplomatic tightrope over Strait of Hormuz fees, creating a ‘blind spot’ for markets",
+      "Gold prices set for first weekly rise in a month as investors scale back Fed rate hike bets"
     ],
     "business": [
       "Retail giant exits U.S. fashion after multi-million-dollar scandal",
@@ -48,6 +48,24 @@
       "section": "global_macro"
     },
     {
+      "title": "First known congressional SpaceX stock buys surface after record IPO",
+      "link": "https://www.cnbc.com/2026/07/03/spacex-stock-congress-meuser-cisneros-ipo-disclosure.html",
+      "image_url": null,
+      "source": "CNBC World",
+      "published": "2026-07-03T18:16:43+00:00",
+      "summary": "The SpaceX stock purchases come as Elon Musk’s company deepens its role in federal contracting and remains closely tied to President Donald Trump’s Washington.",
+      "section": "global_macro"
+    },
+    {
+      "title": "Trump’s Freedom 250 draws corporate sponsors with business before his administration",
+      "link": "https://www.cnbc.com/2026/07/03/trump-freedom-250-america250-corporate-sponsors-access.html",
+      "image_url": null,
+      "source": "CNBC World",
+      "published": "2026-07-03T12:00:01+00:00",
+      "summary": "Companies with federal interests — including Boeing, Lockheed Martin and Oracle — are sponsoring a Trump-aligned effort celebrating America’s 250th birthday.",
+      "section": "global_macro"
+    },
+    {
       "title": "Christine Lagarde leaves door open to early ECB exit, as she mulls French politics",
       "link": "https://www.cnbc.com/2026/07/03/christine-lagarde-ecb-france-election.html",
       "image_url": null,
@@ -66,157 +84,49 @@
       "section": "global_macro"
     },
     {
-      "title": "Extreme heat wave threatens U.S. power grids and July 4 travel",
-      "link": "https://www.cnbc.com/2026/07/03/extreme-heat-us-power-grids-july-4-travel.html",
-      "image_url": null,
-      "source": "CNBC World",
-      "published": "2026-07-03T08:06:40+00:00",
-      "summary": "The heat wave threatens to overwhelm U.S. grids and may force some to change their plans on one of the busiest travel weeks of the year.",
+      "title": "Ukrainian suspect hunted by police after Monaco bomb attack was 'disguised as a man'",
+      "link": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da5c/live/fab66790-76f1-11f1-b9cc-bd5880081b3f.jpg",
+      "source": "BBC World",
+      "published": "2026-07-03T15:20:57+00:00",
+      "summary": "Officials believe the suspect may not have acted alone and spent days casing out the scene of the attack.",
       "section": "global_macro"
     },
     {
-      "title": "President Donald Trump defends business dealings, his children in exclusive interview with CNBC",
-      "link": "https://www.cnbc.com/2026/07/02/donald-trump-interview-live-updates.html",
-      "image_url": null,
-      "source": "CNBC World",
-      "published": "2026-07-03T02:55:27+00:00",
-      "summary": "Trump spoke with CNBC as he prepares to celebrate the 250th birthday of the U.S. on July 4 with an event and fireworks on the National Mall in Washington.",
+      "title": "Polish PM warns critical months ahead in face of Russian threat",
+      "link": "https://www.bbc.co.uk/news/articles/cj0gp88q4l4o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95a8/live/639effc0-76ec-11f1-b976-0b9c15b0ccfc.jpg",
+      "source": "BBC World",
+      "published": "2026-07-03T16:41:00+00:00",
+      "summary": "Tusk says Poland is preparing for \"various\" scenarios after media reports of a planned Russian attack.",
       "section": "global_macro"
     },
     {
       "title": "France records 2,025 excess deaths at peak of heatwave as Europe braces for more extreme weather",
       "link": "https://www.bbc.co.uk/news/articles/c3ry307rxqro?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2813/live/698d68b0-76d6-11f1-9510-1546718f668b.jpg",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f45/live/7e8ec8a0-76de-11f1-9510-1546718f668b.jpg",
       "source": "BBC World",
       "published": "2026-07-03T10:23:32+00:00",
       "summary": "Forecasters are warning of further extreme temperatures on the continent in the next few days.",
       "section": "global_macro"
     },
     {
-      "title": "On the Strait of Hormuz, BBC finds seized ships and shark fishermen as uneasy calm returns",
-      "link": "https://www.bbc.co.uk/news/articles/cvg53ngvvpxo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f48b/live/8ecc3ab0-76a0-11f1-a627-714adb4eed6e.jpg",
+      "title": "Anguished families left to identify Venezuela quake victims at makeshift morgue",
+      "link": "https://www.bbc.co.uk/news/articles/c20y2p9qqqko?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d94/live/7466db40-7721-11f1-aedc-e7917f776e03.jpg",
       "source": "BBC World",
-      "published": "2026-07-02T23:15:22+00:00",
-      "summary": "The BBC travels to the city of Bandar Abbas - the first international journalists to visit the Iranian side of the strait.",
+      "published": "2026-07-03T21:00:53+00:00",
+      "summary": "The disaster has overwhelmed local services, with bodies put outside or in tents for identification.",
       "section": "global_macro"
     },
     {
-      "title": "Venezuela quake survivor pulled out alive after eight days",
-      "link": "https://www.bbc.co.uk/news/articles/ce375v12z0qo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/116a/live/fcec98d0-763e-11f1-a627-714adb4eed6e.jpg",
+      "title": "Iran begins public mourning for Ayatollah killed in February",
+      "link": "https://www.bbc.co.uk/news/articles/cx2k4k7jqeno?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ea1/live/5e786890-76df-11f1-b976-0b9c15b0ccfc.jpg",
       "source": "BBC World",
-      "published": "2026-07-03T06:38:45+00:00",
-      "summary": "Hernán Gil was trapped under a collapsed multi-storey car park.",
+      "published": "2026-07-03T19:03:45+00:00",
+      "summary": "Ali Khamenei's body will lie in state in Tehran's Grand Mosalla from Friday ahead of days-long funeral events.",
       "section": "global_macro"
-    },
-    {
-      "title": "Nasa launches mission to save falling space telescope",
-      "link": "https://www.bbc.co.uk/news/articles/c0ry4xx7rk8o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cef/live/163753a0-74c5-11f1-b3a4-17c48cb4ee82.jpg",
-      "source": "BBC World",
-      "published": "2026-07-03T10:28:17+00:00",
-      "summary": "A Nasa-funded robot has blasted off to catch a falling telescope in mid-orbit and blast it back to safety before it burns up.",
-      "section": "global_macro"
-    },
-    {
-      "title": "Ukrainian woman named by Interpol as main suspect in Monaco bomb attack",
-      "link": "https://www.bbc.co.uk/news/articles/c4gy603z2qlo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/259c/live/79fb4680-76cd-11f1-9510-1546718f668b.jpg",
-      "source": "BBC World",
-      "published": "2026-07-03T11:59:42+00:00",
-      "summary": "Monaco's prosecutor's office says the suspect is no longer in Monaco.",
-      "section": "global_macro"
-    },
-    {
-      "title": "President Donald Trump defends business dealings, his children in exclusive interview with CNBC",
-      "link": "https://www.cnbc.com/2026/07/02/donald-trump-interview-live-updates.html",
-      "image_url": null,
-      "source": "CNBC Top",
-      "published": "2026-07-03T02:55:27+00:00",
-      "summary": "Trump spoke with CNBC as he prepares to celebrate the 250th birthday of the U.S. on July 4 with an event and fireworks on the National Mall in Washington.",
-      "section": "us_domestic"
-    },
-    {
-      "title": "Extreme heat wave threatens U.S. power grids and July 4 travel",
-      "link": "https://www.cnbc.com/2026/07/03/extreme-heat-us-power-grids-july-4-travel.html",
-      "image_url": null,
-      "source": "CNBC Top",
-      "published": "2026-07-03T08:06:40+00:00",
-      "summary": "The heat wave threatens to overwhelm U.S. grids and may force some to change their plans on one of the busiest travel weeks of the year.",
-      "section": "us_domestic"
-    },
-    {
-      "title": "Ford achieves quality milestone, as CEO targets flawless new vehicle launches",
-      "link": "https://www.cnbc.com/2026/07/03/ford-achieves-quality-milestone-targets-flawless-new-vehicle-launches.html",
-      "image_url": null,
-      "source": "CNBC Top",
-      "published": "2026-07-03T12:08:21+00:00",
-      "summary": "Ford CEO Jim Farley told CNBC that the automaker has learned from its past quality and recall issues, which have hurt its earnings and stained its reputation.",
-      "section": "us_domestic"
-    },
-    {
-      "title": "Trump’s Freedom 250 draws corporate sponsors with business before his administration",
-      "link": "https://www.cnbc.com/2026/07/03/trump-freedom-250-america250-corporate-sponsors-access.html",
-      "image_url": null,
-      "source": "CNBC Top",
-      "published": "2026-07-03T12:00:01+00:00",
-      "summary": "Companies with federal interests — including Boeing, Lockheed Martin and Oracle — are sponsoring a Trump-aligned effort celebrating America’s 250th birthday.",
-      "section": "us_domestic"
-    },
-    {
-      "title": "Global stock markets mixed as South Korea jumps, shrugging off chip slump: Live updates",
-      "link": "https://www.cnbc.com/2026/07/03/stock-market-today-live-updates.html",
-      "image_url": null,
-      "source": "CNBC Top",
-      "published": "2026-07-03T12:23:20+00:00",
-      "summary": "Asia-Pacific markets traded broadly higher Friday as investors continued rotating out of technology stocks, tracking declines in the U.S.",
-      "section": "us_domestic"
-    },
-    {
-      "title": "U.S.-Iran Latest: Slain supreme leader's coffin on display as Iran gears up for dayslong funeral, with peace talks paused - CBS News",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaVMtX0gyODkzTzVJU0FSWjhLZkpmNUpUbldiN1VlQm5LR3ZveGdxRDVNWG5IWHh0dWd4ekptdUEwZE1yRDlsME1rV0R1dGZKYy11TGR6cTdsbEpKbjE5d0x4STQ5dzdzelpRQmZGNk8yeGtPZ1pERHVENmhjLThBdHNBZGhQamJ3WkZGQUVmUURkZ2NoMmVZ?oc=5",
-      "image_url": null,
-      "source": "Google News US",
-      "published": "2026-07-03T11:15:00+00:00",
-      "summary": "U.S.-Iran Latest: Slain supreme leader's coffin on display as Iran gears up for dayslong funeral, with peace talks paused&nbsp;&nbsp;CBS NewsIran sends defiant message to Trump with colossal funeral for slain Supreme Leader Ali Khamenei&nbsp;&nbsp;CNNIran's slain leader Khamenei laid in state in Teh",
-      "section": "us_domestic"
-    },
-    {
-      "title": "House Democrats accuse Trump of 'hijacking' America's 250th birthday for his own gain - NPR",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOQzgzZEFoT1FaUzk1Q3I5TVl6TXBIMjdObmlhSXl2TWM2UTgwRlZBc0VXOHhDeGdQMTZvX1Q4Q3ZWN3o0dFM2Q1dYLVRaZmpMY28xX1pGcGpVOXlobDJrS0NKYU5OMzFqVnFESWZIS2xObW0zOVdpZllHMDRtZDQ2RlFmMERmYnNuSDZnYTBadG9UZXlWX3c?oc=5",
-      "image_url": null,
-      "source": "Google News US",
-      "published": "2026-07-02T21:47:30+00:00",
-      "summary": "House Democrats accuse Trump of 'hijacking' America's 250th birthday for his own gain&nbsp;&nbsp;NPRTricorn hats or Trump rally? Americans have July Fourth options&nbsp;&nbsp;CNNHow Trump took over America’s 250th&nbsp;&nbsp;PoliticoFor allies and adversaries alike, America at 250 is a solid global ",
-      "section": "us_domestic"
-    },
-    {
-      "title": "Trump administration cannot hold migrants without bond hearings past 90 days, court rules - CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPd2dncHQzUFNOdEJKRkZBbl96UVVYbXpfTnRIcEx2V3VWcG1ReU9VSmVIbTlHZ3g0SnBiY2o1Q3dwZGo3VGptaXRTcEp0YUwyaGhQZDR1Xzl3X1VIQ3RRYUVOU2s5cndjam1DbjJJUkpQN2Q1cW5haklyVnMzZ3l3dkNSUGlRNFJJb0xnaU83RC12WFBhdldCRTMyZjdXV3ZUdUJvVUhIZ2R2RkpaS1Q4UUhab9IBuAFBVV95cUxPMmVoVE8wZjY1M3U3bFVTY3E4bENKVTlCRGloRHdGdWNCQ1NveUFPcWNvLWQwTTZFcDV1cU5qakpnQkpTUEhJdGxHYmlxd0c5QnJrUUstY1NEWk51cnN3OEJYeTlnVVdmaHpwTXFfc1BFbG9VelpwMHdETXZkVUFwd0lLWmpUVy1FTVE0czRaS1JsTm9tRlBVTUxfcktKa2pZZjUwOGxHeWE3N1Nfc2NRRDZtMWM1MEoy?oc=5",
-      "image_url": null,
-      "source": "Google News US",
-      "published": "2026-07-02T23:57:57+00:00",
-      "summary": "Trump administration cannot hold migrants without bond hearings past 90 days, court rules&nbsp;&nbsp;CNBCSee more headlines & perspectives on Google News",
-      "section": "us_domestic"
-    },
-    {
-      "title": "Venezuelan security guard pulled alive from earthquake basement rubble after 8 days - PBS",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNVU5RbG9KVXE4Q3d2b0xnV1Qzd1dGRXRVOV9NNXFfR05SNkpwMUh0a1NhSEVKUGxQd0h0eGNoX2F3NHlTS0xpQ2FCLUg3NUd0VTBLZEstSnRCaFpZTWZwOUlTY0Z0WEZEYUtLRmZ6MndIRGNXUEktUFB1cjBRNmJ5QlVUVktoa1ZRZUZLYTVGVkxKRzR6X1J5ZDdlRm93Z3RiZnlMR1JMWlM1bGpyY3Q5R1JTN3ZrTEYzdXfSAb8BQVVfeXFMTXFPcERrVGdfTlBHZGdsTnBmcVlZVW0wbmxUMWNaT0Y0d2dST0QySV9VV1FxeVFYMGRTOFlrVjR4OW9vb2pfQ3owSGxSYUpsUzdFaEszcVhSdnpJd3ExZEMwaktQRzFhaHZIOE5MdXdZZU1fSDRwUms3Z2c0dUQ1czJRek5jZlRNMWZhdDBpcVZfMEhNcXh4VERnVk5HWHJuUnp4RGlqMU9OdVFYdlFFUk1vWUZjU2dCZVpxN3VwRjA?oc=5",
-      "image_url": null,
-      "source": "Google News US",
-      "published": "2026-07-02T15:10:15+00:00",
-      "summary": "Venezuelan security guard pulled alive from earthquake basement rubble after 8 days&nbsp;&nbsp;PBSMan pulled from rubble in ‘miraculous’ rescue 8 days after devastating Venezuela earthquakes&nbsp;&nbsp;CNN‘I can only describe it as a war zone’: the rescuers navigating Venezuela’s post-quake hellscap",
-      "section": "us_domestic"
-    },
-    {
-      "title": "Mamdani's advice for seniors gets brutally mocked after urging New Yorkers to limit AC use - Fox News",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaS0tTVRka2FlVlZEbUc5NE9sLWZkTFdTUDZqM1dWck9FZ2xQV0VOdE1NekVFdEJkNXRValBKMkthNkMxSG1feEdJYVc2SHU5UGpwYU54ZmxHSVFfRVgwOXNuQ29QTTVUcng5bEZld1NGeG8zT2ViYllIeHFNSV9ValdyVmpKb1FKWTVNenFJUHZSS3h5UGV4d0dhcXRDNW16NXFROFk5QkVtQnEyTXM4?oc=5",
-      "image_url": null,
-      "source": "Google News US",
-      "published": "2026-07-03T09:00:45+00:00",
-      "summary": "Mamdani's advice for seniors gets brutally mocked after urging New Yorkers to limit AC use&nbsp;&nbsp;Fox NewsSee more headlines & perspectives on Google News",
-      "section": "us_domestic"
     },
     {
       "title": "New calculator reveals whether you should really worry about statin side effects",
@@ -309,188 +219,278 @@
       "section": "science"
     },
     {
-      "title": "Retail giant exits U.S. fashion after multi-million-dollar scandal",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/retail-giant-exits-u-fashion-031700615.html",
-      "image_url": "https://media.zenfs.com/en/thestreet_881/d3e8b3c449eaa4f49f1944f1391d8eab",
+      "title": "5 takeaways from President Donald Trump's interview with CNBC",
+      "link": "https://www.cnbc.com/2026/07/02/5-takeaways-from-president-donald-trumps-interview-with-cnbc.html",
+      "image_url": null,
+      "source": "CNBC Top",
+      "published": "2026-07-02T23:20:58+00:00",
+      "summary": "The president defended his family's business and said he feels bad that the presidency creates a conflict of interest in any of his children's investments.",
+      "section": "us_domestic"
+    },
+    {
+      "title": "First known congressional SpaceX stock buys surface after record IPO",
+      "link": "https://www.cnbc.com/2026/07/03/spacex-stock-congress-meuser-cisneros-ipo-disclosure.html",
+      "image_url": null,
+      "source": "CNBC Top",
+      "published": "2026-07-03T18:16:43+00:00",
+      "summary": "The SpaceX stock purchases come as Elon Musk’s company deepens its role in federal contracting and remains closely tied to President Donald Trump’s Washington.",
+      "section": "us_domestic"
+    },
+    {
+      "title": "Ford achieves quality milestone, as CEO targets flawless new vehicle launches",
+      "link": "https://www.cnbc.com/2026/07/03/ford-achieves-quality-milestone-targets-flawless-new-vehicle-launches.html",
+      "image_url": null,
+      "source": "CNBC Top",
+      "published": "2026-07-03T12:08:21+00:00",
+      "summary": "Ford CEO Jim Farley told CNBC that the automaker has learned from its past quality and recall issues, which have hurt its earnings and stained its reputation.",
+      "section": "us_domestic"
+    },
+    {
+      "title": "Feds seek lower prison term for $100 million New Jersey deli fraudster — but some reasons why are hidden",
+      "link": "https://www.cnbc.com/2026/07/03/new-jersey-deli-stockfraud-sentence-patten.html",
+      "image_url": null,
+      "source": "CNBC Top",
+      "published": "2026-07-03T19:33:26+00:00",
+      "summary": "James Patten is the third person who will be sentenced in the stock manipulation scheme related to Hometown International, a company that owned just one deli.",
+      "section": "us_domestic"
+    },
+    {
+      "title": "Largest U.S. power grid PJM escalates emergency actions to avoid blackouts",
+      "link": "https://www.cnbc.com/2026/07/03/power-grid-independence-day-weekend.html",
+      "image_url": null,
+      "source": "CNBC Top",
+      "published": "2026-07-03T18:58:32+00:00",
+      "summary": "PJM ​said ​it was ​under a federal alert to cut electricity consumption. It serves 67 million people ⁠in the Mid-Atlantic, South and Washington, D.C., area.",
+      "section": "us_domestic"
+    },
+    {
+      "title": "Heat causes Great American State Fair to close temporarily and other disruptions - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNV09RTU1aRlBOaXV3bUE5N3hoUWhFVEN1ODZINm80anRMRzluNlRNbTFralo5Q01PbEVTZ19iMVNzSHFjaEZ0dWN3LXMtck1PSGsyRF9lalRkR1dITWFkS00xVDRvcUNFUzc1YTZCWVZ1RjlnZ3JsTDVGTUdaX1NKWU1Qd2J1clVWdEREZ0hoZ2lMSWpYSDA2c0F1RXVEMHdhel9HeURHd1RJT3pNSUxPVFQ4WmNmRTFVNGJCM2xvS0M?oc=5",
+      "image_url": null,
+      "source": "Google News US",
+      "published": "2026-07-03T20:20:40+00:00",
+      "summary": "Heat causes Great American State Fair to close temporarily and other disruptions&nbsp;&nbsp;The Washington PostHeat news: DC breaks heat record, 17,000 customers without power in NYC area&nbsp;&nbsp;CNNAmerica’s 250th live updates: Trump to speak at Mount Rushmore as heat disrupts July Fourth events",
+      "section": "us_domestic"
+    },
+    {
+      "title": "Months after U.S. and Israeli strikes, Iran readies massive funeral for Khamenei - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdTVFUHMxN0FPbU51UVVxbE4yZmVjN19xN0JNY2Z4TVlFRXByZVJVa283U01kcTl2VkpDQWFmX21ZU0dIQV8zMnA1dTFWd3ZTVTJmMDM3djRzNnlQa1FpLWV4RFdMWENaWURYVENmRl9SVkJxdDdicGNOWWtfOGl6bVlHRGZGSGMwTFE?oc=5",
+      "image_url": null,
+      "source": "Google News US",
+      "published": "2026-07-03T18:09:13+00:00",
+      "summary": "Months after U.S. and Israeli strikes, Iran readies massive funeral for Khamenei&nbsp;&nbsp;NBC NewsIt’s Day 1 of the Supreme Leader’s Funeral, and Allies Gather in Iran&nbsp;&nbsp;The New York TimesIran plans massive funeral for Supreme Leader Khamenei after war death&nbsp;&nbsp;NPRIran war live: A",
+      "section": "us_domestic"
+    },
+    {
+      "title": "E Pluribus Algae: Why Green Pond Scum Is as American as Red, White and Blue - The New York Times",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5yUmlzNjdOVEhMLUFWak90S1B4R0VGS2VmMzM3VER3Y0J0WlJVZ3RRQjRndHNtREJZaEI5UDdIZGNVUFN1TkJIUklVUWhKbGJfVy1YSUU3QmRkVnRfT0pnUnNKNzhDN0FSQjR5Ym1NNDF3MEZIblNOQw?oc=5",
+      "image_url": null,
+      "source": "Google News US",
+      "published": "2026-07-03T09:03:12+00:00",
+      "summary": "E Pluribus Algae: Why Green Pond Scum Is as American as Red, White and Blue&nbsp;&nbsp;The New York TimesFormer Olympian faces felony charge over alleged Reflecting Pool vandalism&nbsp;&nbsp;The Washington PostInstallation details may explain Lincoln Memorial Reflecting Pool problems&nbsp;&nbsp;WBAL",
+      "section": "us_domestic"
+    },
+    {
+      "title": "Nearly half of Americans surveyed don't know what America 250 commemorates - NPR",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPS2U4XzA2c29Db1N2TEktYWJnNEZmUnkyeGE3dTRKclFER1A5LTZJV0s0ampHRklpMFI1YThPUnY2NmQ0dmNORjNnWUduU1Q5aHRoYkxROWVmZVhvVWU5TnJyYXNITkI4Z19CNDhtclZQTGhtZTY4QlcwUnRISlRxMnZkTjV3XzljRzlxN1d1TmRWUEhzTHMtWndmdU1GVnBIaUpaU09fb2I2eURzbXc0LXZwTENHSGVhYmJSZg?oc=5",
+      "image_url": null,
+      "source": "Google News US",
+      "published": "2026-07-03T18:28:44+00:00",
+      "summary": "Nearly half of Americans surveyed don't know what America 250 commemorates&nbsp;&nbsp;NPRNew Poll: Nearly Half of Americans Don’t Know What America’s 250th Is Celebrating&nbsp;&nbsp;Cato InstituteAs thin crowds at Trump's fair go viral, Americans reflect on July 4&nbsp;&nbsp;ABC News & Headlines – A",
+      "section": "us_domestic"
+    },
+    {
+      "title": "Top Retired General Issues Scathing Trump Takedown - The Daily Beast",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPejJ1N1ZQSnBrbXdEYkhqNW5nVjZFR1JYelJDVTAtOVJwQ1Z6eTVXUDB4eXc5WDA0cGhraGwxZjV0WFNiVVRDM2hIWTdZcXdLWmlPajdmRmVDT1Fla2c1cUlvS2ZrelFNcEhuOGdYalZaTEkyVnpNOGxXVDk4b2x5Nnp5UWZjbmxkNHVzekN5Z3JKRDFt?oc=5",
+      "image_url": null,
+      "source": "Google News US",
+      "published": "2026-07-03T14:45:00+00:00",
+      "summary": "Top Retired General Issues Scathing Trump Takedown&nbsp;&nbsp;The Daily BeastTop general fired by Trump administration criticizes use of military for political missions&nbsp;&nbsp;CNNFormer Top General Warns the Military Is Being Politicized&nbsp;&nbsp;WSJCQ Brown Sounds The Alarm Over Trump's Handl",
+      "section": "us_domestic"
+    },
+    {
+      "title": "Prediction: Palantir Will End The Year at This Price",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/prediction-palantir-end-price-145451932.html",
+      "image_url": "https://media.zenfs.com/en/24_7_wall_st__718/56285f1058d079217d3a7c26ded9eab3",
       "source": "Yahoo Finance",
-      "published": "2026-07-02T03:46:51+00:00",
+      "published": "2026-07-02T14:54:51+00:00",
       "summary": "",
       "section": "business"
     },
     {
-      "title": "Franklin Covey Co. Q3 2026 Earnings Call Summary",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/franklin-covey-co-q3-2026-002559061.html",
-      "image_url": "https://media.zenfs.com/en/moby_896/e5bf43315cf91d24a621772031e45a91",
+      "title": "Brown Advisory Large-Cap Growth Strategy Picked Axon Enterprises (AXON) Amid Broader Sell-Off",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/brown-advisory-large-cap-growth-144841246.html",
+      "image_url": "https://media.zenfs.com/en/insidermonkey.com/4d4a733e28e75e6d5e11be43199f33a1",
       "source": "Yahoo Finance",
-      "published": "2026-07-02T00:25:59+00:00",
+      "published": "2026-07-02T14:48:41+00:00",
       "summary": "",
       "section": "business"
     },
     {
-      "title": "10 best free checking accounts for July 2026",
-      "link": "https://finance.yahoo.com/personal-finance/banking/article/best-free-checking-accounts-195709452.html",
-      "image_url": "https://s.yimg.com/os/creatr-uploaded-images/2022-01/48d7b8d0-6fdf-11ec-8efe-9a580a4de5b6",
+      "title": "Job growth in truck transportation remains muted",
+      "link": "https://finance.yahoo.com/economy/articles/job-growth-truck-transportation-remains-144719851.html",
+      "image_url": "https://media.zenfs.com/en/freightwaves_373/dde55545c81dbe7839111c0b5b2e53ac",
       "source": "Yahoo Finance",
-      "published": "2024-04-11T19:57:09+00:00",
+      "published": "2026-07-02T14:47:19+00:00",
       "summary": "",
       "section": "business"
     },
     {
-      "title": "Mortgage rate predictions for the next five years: How much will rates change?",
-      "link": "https://finance.yahoo.com/personal-finance/mortgages/article/mortgage-rate-predictions-for-the-next-five-years-how-much-will-rates-change-195826935.html",
-      "image_url": "https://s.yimg.com/os/creatr-uploaded-images/2025-08/09b22600-7f1b-11f0-a672-5b535cea5415",
+      "title": "Is Cerebras Systems (CBRS) Better Than SpaceX and SanDisk?",
+      "link": "https://finance.yahoo.com/technology/ai/articles/cerebras-systems-cbrs-better-spacex-144452063.html",
+      "image_url": "https://media.zenfs.com/en/insidermonkey.com/a99fb68631ca24eb25c6859d7e68279b",
       "source": "Yahoo Finance",
-      "published": "2025-08-18T19:58:26+00:00",
+      "published": "2026-07-02T14:44:52+00:00",
       "summary": "",
       "section": "business"
     },
     {
-      "title": "Trump Accounts explained: How they work, who qualifies",
-      "link": "https://finance.yahoo.com/personal-finance/taxes/article/trump-accounts-205705429.html",
-      "image_url": "https://s.yimg.com/os/creatr-uploaded-images/2026-01/75f78fa0-fc5a-11f0-9edb-ba990d351d84",
+      "title": "$1 million or less in assets? You may not be worthy of a human advisor as professionals hand smaller portfolios to AI",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/1-million-less-assets-may-144500747.html",
+      "image_url": "https://media.zenfs.com/en/moneywise_ecomm_711/b5b68aed5426af135e31cb370e55cd95",
       "source": "Yahoo Finance",
-      "published": "2025-12-04T20:57:05+00:00",
+      "published": "2026-07-02T14:45:00+00:00",
       "summary": "",
       "section": "business"
     },
     {
-      "title": "‘I claimed Social Security at 62’: At 76, I’m working at Walmart. Why do I still owe payroll taxes?",
-      "link": "https://www.marketwatch.com/story/i-claimed-social-security-at-62-at-76-im-working-at-walmart-why-do-i-still-owe-payroll-taxes-8e22a97c?mod=mw_rss_topstories",
-      "image_url": "https://images.mktw.net/im-64090245",
+      "title": "Here’s what’s worth streaming in July 2026 on Netflix, Hulu, HBO Max and more",
+      "link": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-july-2026-on-netflix-hulu-hbo-max-and-more-58d07528?mod=mw_rss_topstories",
+      "image_url": "https://images.mktw.net/im-00397585",
       "source": "MarketWatch Top",
-      "published": "2026-07-03T12:15:00+00:00",
-      "summary": "“It seems like half of the workforce at our local Walmart is over 65.”",
+      "published": "2026-07-03T20:00:00+00:00",
+      "summary": "Why it’s a good month to save on streaming, despite the return of ‘Enola Holmes’ to Netflix and ‘Silo’ to Apple",
       "section": "business"
     },
     {
-      "title": "I have no kids. Will I cause family drama by leaving different amounts to my nieces and nephews?",
-      "link": "https://www.marketwatch.com/story/i-have-no-kids-will-i-cause-family-drama-by-leaving-different-amounts-to-my-nieces-and-nephews-14c0fdda?mod=mw_rss_topstories",
-      "image_url": "https://images.mktw.net/im-54995728",
+      "title": "Record beef imports are flooding the U.S. — so why is your Fourth of July BBQ so expensive?",
+      "link": "https://www.marketwatch.com/story/your-fourth-of-july-hamburger-meat-was-likely-imported-and-youre-right-to-have-a-beef-with-that-c25d7c31?mod=mw_rss_topstories",
+      "image_url": "https://images.mktw.net/im-03456524",
       "source": "MarketWatch Top",
-      "published": "2026-07-03T12:01:00+00:00",
-      "summary": "“Part of me would prefer to leave more to those for whom the money could make a meaningful difference.”",
+      "published": "2026-07-03T19:34:00+00:00",
+      "summary": "Beef prices are sizzling and Washington’s recipe for high costs — import more meat — only grills your wallet.",
       "section": "business"
     },
     {
-      "title": "Micron was started by a few guys in an Idaho basement. How it rose to be at the center of the AI boom.",
-      "link": "https://www.marketwatch.com/story/micron-was-started-by-a-few-guys-in-an-idaho-basement-how-it-rose-to-be-at-the-center-of-the-ai-boom-c06ee78a?mod=mw_rss_topstories",
-      "image_url": "https://images.mktw.net/im-15629837",
+      "title": "Your aging parent has a new romance. Here’s how to protect your inheritance — without looking greedy.",
+      "link": "https://www.marketwatch.com/story/your-aging-parent-has-a-new-romance-heres-how-to-protect-your-inheritance-without-looking-greedy-cbc219ab?mod=mw_rss_topstories",
+      "image_url": "https://images.mktw.net/im-33056504",
       "source": "MarketWatch Top",
-      "published": "2026-07-03T12:00:00+00:00",
-      "summary": "Memory chips were once seen as an unglamorous business, but Micron is betting AI will change the game for good.",
+      "published": "2026-07-03T19:32:00+00:00",
+      "summary": "Before your single mom or dad remarries, talk with them about estate-planning issues.",
       "section": "business"
     },
     {
-      "title": "Am I better off claiming Social Security early and investing the money, or delaying until age 70?",
-      "link": "https://www.marketwatch.com/story/am-i-better-off-claiming-social-security-early-and-investing-the-money-or-delaying-until-age-70-95f856d9?mod=mw_rss_topstories",
-      "image_url": "https://images.mktw.net/im-74443136",
+      "title": "Opening a ‘Trump account’ for your children? Here is the risk you need to reckon with first.",
+      "link": "https://www.marketwatch.com/story/opening-a-trump-account-for-your-children-here-is-the-risk-you-need-to-recognize-first-fe206bc0?mod=mw_rss_topstories",
+      "image_url": "https://images.mktw.net/im-31560443",
       "source": "MarketWatch Top",
-      "published": "2026-07-03T12:00:00+00:00",
-      "summary": "“I have a monthly pension worth $11,000 and Social Security income of $4,000.”",
+      "published": "2026-07-03T19:10:00+00:00",
+      "summary": "The new accounts ban bonds and international stocks, forcing parents to bet their children’s financial future entirely on U.S. equities.",
       "section": "business"
     },
     {
-      "title": "A week of wild volatility for Korean stocks brought to a rousing finale by reports of Anthropic-Samsung deal",
-      "link": "https://www.marketwatch.com/story/a-week-of-wild-volatility-for-korean-stocks-brought-to-a-rousing-finale-by-reports-of-anthropic-samsung-deal-b69f32c5?mod=mw_rss_topstories",
-      "image_url": "https://images.mktw.net/im-88255126",
+      "title": "‘I don’t think I’ll make it to 80’: I’m 70 and single. Do I take out a reverse mortgage or a home-equity agreement?",
+      "link": "https://www.marketwatch.com/story/i-dont-think-ill-make-it-to-80-im-70-and-single-do-i-take-out-a-reverse-mortgage-or-a-home-equity-agreement-3b623ee8?mod=mw_rss_topstories",
+      "image_url": "https://images.mktw.net/im-50782321",
       "source": "MarketWatch Top",
-      "published": "2026-07-03T11:49:00+00:00",
-      "summary": "While it’s still delivered a 164% return so far in 2026, the Korean stock market has shown signs of fatigue in recent months",
+      "published": "2026-07-03T19:00:00+00:00",
+      "summary": "“I’m torn between these two options.”",
       "section": "business"
     },
     {
-      "title": "Newly discovered PamStealer isn't your typical macOS malware",
-      "link": "https://arstechnica.com/security/2026/07/new-pamstealer-macos-malware-uses-clever-tradecraft-to-remain-stealthy/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/04/GettyImages-1299483011-1152x648.jpg",
+      "title": "Rocket Report: Indian startup nears first launch; SpaceX's millenary milestone",
+      "link": "https://arstechnica.com/space/2026/07/rocket-report-indian-startup-nears-first-launch-spacexs-millenary-milestone/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/HMLfHqEbUAA-kFk-1152x648.jpg",
       "source": "Ars Technica",
-      "published": "2026-07-02T19:38:57+00:00",
-      "summary": "The discovery underscores the increased effort being poured into Mac infostealers.",
+      "published": "2026-07-03T13:55:35+00:00",
+      "summary": "NASA awarded Rocket Lab deals for three dedicated launches using the company's Electron rocket.",
       "section": "tech"
     },
     {
-      "title": "FAA proposal: Supersonic airliners can fly over US cities if they’re quiet",
-      "link": "https://arstechnica.com/gadgets/2026/07/faa-proposal-supersonic-airliners-can-fly-over-us-cities-if-theyre-quiet/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/Overture-Rockies-1152x648.png",
+      "title": "Inside the Luddite festival harnessing Gen Z’s rage against Big Tech",
+      "link": "https://arstechnica.com/culture/2026/07/inside-the-luddite-festival-harnessing-gen-zs-rage-against-big-tech/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1176751554-1152x648.jpg",
       "source": "Ars Technica",
-      "published": "2026-07-02T17:29:37+00:00",
-      "summary": "New US rules would legalize quiet supersonic flights without the sonic boom.",
+      "published": "2026-07-03T12:00:36+00:00",
+      "summary": "New York City’s Summer of Ludd festival is teaching people how to live offline.",
       "section": "tech"
     },
     {
-      "title": "Ars Live recap: When are the big rockets NASA desperately needs going to be ready?",
-      "link": "https://arstechnica.com/space/2026/07/ars-live-recap-when-are-the-big-rockets-nasa-desperately-needs-going-to-be-ready/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/11/new-glenn-9x4-1-1152x648.jpg",
+      "title": "Despite the darkness, I still see signs of hope in America",
+      "link": "https://arstechnica.com/culture/2026/07/at-250-years-there-are-still-reasons-for-hope-in-america/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/eric-berger-looking-at-america-1152x648.jpg",
       "source": "Ars Technica",
-      "published": "2026-07-02T16:46:47+00:00",
-      "summary": "I have not seen anyone put out a date for a new rocket, and actually hit it.",
+      "published": "2026-07-03T11:30:22+00:00",
+      "summary": "It's difficult to pinpoint the moment in my life where America started to lose the plot.",
       "section": "tech"
     },
     {
-      "title": "Plex debuts 5-year membership pass for $250",
-      "link": "https://arstechnica.com/gadgets/2026/07/250-used-to-get-you-a-lifetime-plex-pass-now-you-get-a-five-year-subscription/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/GettyImages-2276656517-1152x648-1783004998.jpg",
+      "title": "Visiting the stars (and planets, and telescopes) in VR",
+      "link": "https://arstechnica.com/culture/2026/07/smithsonian-starstruck-vr-exhibit-lets-you-stroll-through-the-stars/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/image-2-1152x648.jpeg",
       "source": "Ars Technica",
-      "published": "2026-07-02T16:35:59+00:00",
-      "summary": "Plex is pushing customers to newer features and more frequent payments.",
+      "published": "2026-07-03T11:15:35+00:00",
+      "summary": "Walkthrough experience includes visits to stars, exoplanets, and observatories.",
       "section": "tech"
     },
     {
-      "title": "Africa CDC confirms Marburg case in Uganda as Ebola outbreak rages",
-      "link": "https://arstechnica.com/health/2026/07/africa-cdc-confirms-marburg-case-in-uganda-as-ebola-outbreak-rages/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2279919981-1152x648.jpg",
+      "title": "Wing Commander IV and the FMV future that never quite was",
+      "link": "https://arstechnica.com/gaming/2026/07/wing-commander-iv-and-the-fmv-future-that-never-quite-was/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/06/wing4_title.jpg",
       "source": "Ars Technica",
-      "published": "2026-07-02T16:30:37+00:00",
-      "summary": "Early reports indicate there may be another case, but spread is thought to be localized.",
+      "published": "2026-07-03T11:03:39+00:00",
+      "summary": "C:\\ArsGames takes a look at the time Chris Roberts more or less made a whole movie.",
       "section": "tech"
     },
     {
-      "title": "Apple TV is hitting its stride",
-      "link": "https://www.theverge.com/entertainment/960985/apple-tv-hits-2026",
+      "title": "Amazon updated 2023’s Fire HD 10 tablet with 4GB of RAM",
+      "link": "https://www.theverge.com/tech/961387/amazon-2023-fire-hd-10-tablet-4gb-update",
       "image_url": null,
       "source": "The Verge",
-      "published": "2026-07-03T12:00:00+00:00",
-      "summary": "Since its inception, Apple TV, n&#233;e Apple TV Plus, has built a reputation on quality over quantity. It has far fewer shows and movies than the likes of Netflix or Disney Plus, but generally speaking, the projects it does put out are quite good. It's a strategy that has brought comparisons to the",
+      "published": "2026-07-03T17:33:55+00:00",
+      "summary": "The Fire HD 8 that launched in 2024 was the last new addition to Amazon's budget-minded tablet lineup, but the company has quietly updated the Fire HD 10 that debuted the year before. In 2023 it was offered with multiple storage configurations that each came with 3GB of RAM, but the 32GB version now",
       "section": "tech"
     },
     {
-      "title": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
-      "link": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
+      "title": "While you’re watching the World Cup, the feds may be watching you",
+      "link": "https://www.theverge.com/policy/961004/world-cup-america-250-surveillance-drones-cameras",
       "image_url": null,
       "source": "The Verge",
-      "published": "2026-07-03T11:49:10+00:00",
-      "summary": "Midjourney has shown more of its futuristic medical scanner. It still hasn't shown much proof it works. The AI startup, best known for generating images, released a behind-the-scenes video of its dunk-tank ultrasound scanner, which it plans to deploy in spas and hopes will transform medicine with ch",
+      "published": "2026-07-03T15:00:00+00:00",
+      "summary": "It's a big year for America. It's the semiquincentennial, otherwise known as America250, and the United States is cohosting the World Cup. But spectators at these events - and the millions of people who live in the cities hosting them - may not realize that they, too, are being watched. From Kansas ",
       "section": "tech"
     },
     {
-      "title": "Sony’s PlayStation disc factory is already being repurposed",
-      "link": "https://www.theverge.com/games/961203/sony-austria-thalgau-end-disc-production-microlenses-instead",
+      "title": "This slim camera has a transparent LCD screen for a viewfinder",
+      "link": "https://www.theverge.com/tech/961362/godox-c100-digital-camera-transparent-lcd-screen",
       "image_url": null,
       "source": "The Verge",
-      "published": "2026-07-03T01:05:13+00:00",
-      "summary": "The video game disc is dead, and Sony's been planning to kill it for some time, according to a report out of Austria. The man who leads Sony's discmaking operations, Sony DADC president Dietmar Tanzer, told ORF Salzburg that the company's Thalgau plant produces 600,000 discs every day, half of which",
+      "published": "2026-07-03T14:51:38+00:00",
+      "summary": "Despite the fact that smartphones have become impressively capable shooters, standalone point-and-shoot cameras are enjoying a renaissance. The tiny Kodak Charmera is still wildly popular, while influencers are scrambling to find aging Canon cameras on eBay. Godox, a company best known for its photo",
       "section": "tech"
     },
     {
-      "title": "Tesla driver faces manslaughter charges over Texas crash that killed a woman inside her home",
-      "link": "https://www.theverge.com/transportation/961161/tesla-fsd-katy-tx-manslaughter-charges",
+      "title": "I finally got my Trump phone",
+      "link": "https://www.theverge.com/tech/961297/trump-mobile-t1-phone-first-impressions",
       "image_url": null,
       "source": "The Verge",
-      "published": "2026-07-02T22:09:33+00:00",
-      "summary": "The man whose Tesla struck and killed a woman inside her Texas home last month is now facing manslaughter charges, as reported earlier by The Wall Street Journal and local news outlet KHOU 11. 44-year-old Michael Butler was arrested on Wednesday and claimed to have been driving his Model 3 using Tes",
+      "published": "2026-07-03T14:41:11+00:00",
+      "summary": "Where's the Trump phone? We're going to keep talking about it every week. One year on, our phones have finally arrived. 12 months, 16 days, 21 hours, and 54 minutes after I first heard about Trump Mobile's T1 Phone 8002 (gold version), I'm finally holding one in my own hands. That's right, The Verge",
       "section": "tech"
     },
     {
-      "title": "Meta has a new app called Pocket that is absolutely nothing like the old Pocket",
-      "link": "https://www.theverge.com/tech/961086/meta-pocket-app-gizmo-ai",
+      "title": "Hydration isn’t complicated: Just drink water",
+      "link": "https://www.theverge.com/column/960832/optimizer-hydration-electrolytes-health-heat-wave",
       "image_url": null,
       "source": "The Verge",
-      "published": "2026-07-02T21:09:06+00:00",
-      "summary": "Mozilla shut down the well-loved read-it-later Pocket app last year, and now Meta is launching an app called Pocket with an entirely different, AI-focused pitch: this new app lets you make and share little interactive \"gizmos\" built from an AI prompt, as reported by Business Insider. Meta CEO Mark Z",
+      "published": "2026-07-03T14:00:00+00:00",
+      "summary": "This is Optimizer, a weekly newsletter sent from Verge senior reviewer Victoria Song that dissects and discusses the latest gizmos and potions that swear they're going to change your life. Opt in for Optimizer here. Europe is melting, the eastern US is currently trapped in a \"heat dome,\" the Midwest",
       "section": "tech"
     }
   ],
   "_meta": {
-    "generated_at": "2026-07-03T12:31:24.713438Z",
+    "generated_at": "2026-07-03T22:11:42.587652Z",
     "source": "hermes-pi"
   },
   "chatter": {
@@ -498,6 +498,9 @@
     "🐦 Social Sentiment": "The socials are a battlefield today. The split is violent — and it's all about **rotation**.\n\n@cryptorover captured the fear: *\"$1.3 TRILLION wiped out from the US stock market from day highs. S&P 500 down 1.5%. Nasdaq crashing 3%.\"* Tech is getting **absolutely destroyed**. The semiconductor rout is the talk of Reddit's r/wallstreetbets.\n\nBut simultaneously, the **Dow surged 600 points to an all-time high**, and @cryptorover also noted *\"$300 BILLION added in just 6 minutes after open.\"* The bulls say this is a healthy rotation — out of AI hype, into financials and real economy names.\n\n**$NKE** popped 5%+ post-earnings. @ReutersBiz noted the S&P 500 and Nasdaq wrapped their strongest quarter since 2020. @Forbes highlighted the **AI credit rush** boosting bank stocks. The mood is bifurcated: value investors are euphoric, tech holders are bleeding.",
     "📉 After-Hours Movers": "The **Great Rotation** dominated every tape today.\n\n- **Dow Jones**: +600 pts, **record close** — banks, industrials, financials leading\n- **S&P 500**: Flat to -0.2%, dragged by tech\n- **Nasdaq Composite**: -0.8% | **Nasdaq 100**: -1.5% (semiconductor bloodbath)\n- **$TSLA**: heavy drag on the Nasdaq\n- **$NKE**: +5% on earnings beat\n- **Semiconductors**: crushed — the chip rout echoes the summer 2025 selloff\n\nThe narrative: AI credit boom is boosting bank stocks (Forbes). The long bond yield ticked higher as inflation expectations stabilize. Economic resilience is the base case. But the froth in AI/semiconductor names is being purged in real time.\n\n**Tomorrow**: Market **CLOSED** for Independence Day (July 3). Thin late-day volume could amplify any moves heading into the 4 PM close.",
     "🔮 Next Day Setup": "**Friday, July 3** — US stock market **shut** for Independence Day. Thursday afternoon will see thinning liquidity into the holiday. Don't read too much into late-day tick noise.\n\n**Week ahead watchlist:**\n- **Dip buyers or more pain?** Will Monday see buyers step in for tech, or will rotational selling continue? The futures tape suggests a **mixed open** next Tuesday.\n- **Earnings coming**: $STZ (Constellation Brands), $GIS (General Mills) — consumer staples sentiment check\n- **Geopolitical**: Middle East headlines over the long weekend could move oil. WTI has been drifting lower but any escalation reverses that fast.\n- **Key question**: Is this a \"healthy correction within a bull market\" or the start of a deeper tech unwind? The **Dow record** argues for the former — but the chip rout has teeth.\n\n**The takeaway**: The rotational trade is the dominant macro narrative. Value over growth. Financials over tech. Long holiday weekend = position-squaring into the close. Stay nimble."
+  },
+  "audio": {
+    "chatter": "https://raw.githubusercontent.com/pencrusader/trivia__news/main/audio/chatter_2026-07-03.ogg"
   },
   "narrative": {
     "🌍 Global Macro": "**Oman** is walking a diplomatic tightrope over **Strait of Hormuz transit fees**, creating a blind spot for oil markets that could rattle **crude prices** any moment. An **extreme heat wave** threatens U.S. power grids on the busiest travel week of the year. **ECB President Christine Lagarde** leaves the door open to an early exit as she mulls a run in **French politics** — injecting fresh uncertainty into European monetary policy. **President Trump** defended his business dealings in an exclusive **CNBC interview** ahead of the July 4th 250th birthday celebrations. And **Amazon's Panos Panay** discusses the company's **AI gadget push** on The Tech Download.\n\n---",
