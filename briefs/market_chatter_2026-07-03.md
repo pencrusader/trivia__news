@@ -1,0 +1,38 @@
+# Market Chatter — Thursday, July 2, 2026
+
+## 🐦 Social Sentiment
+
+The socials are a battlefield today. The split is violent — and it's all about **rotation**.
+
+@cryptorover captured the fear: *"$1.3 TRILLION wiped out from the US stock market from day highs. S&P 500 down 1.5%. Nasdaq crashing 3%."* Tech is getting **absolutely destroyed**. The semiconductor rout is the talk of Reddit's r/wallstreetbets.
+
+But simultaneously, the **Dow surged 600 points to an all-time high**, and @cryptorover also noted *"$300 BILLION added in just 6 minutes after open."* The bulls say this is a healthy rotation — out of AI hype, into financials and real economy names.
+
+**$NKE** popped 5%+ post-earnings. @ReutersBiz noted the S&P 500 and Nasdaq wrapped their strongest quarter since 2020. @Forbes highlighted the **AI credit rush** boosting bank stocks. The mood is bifurcated: value investors are euphoric, tech holders are bleeding.
+
+## 📉 After-Hours Movers
+
+The **Great Rotation** dominated every tape today.
+
+- **Dow Jones**: +600 pts, **record close** — banks, industrials, financials leading
+- **S&P 500**: Flat to -0.2%, dragged by tech
+- **Nasdaq Composite**: -0.8% | **Nasdaq 100**: -1.5% (semiconductor bloodbath)
+- **$TSLA**: heavy drag on the Nasdaq
+- **$NKE**: +5% on earnings beat
+- **Semiconductors**: crushed — the chip rout echoes the summer 2025 selloff
+
+The narrative: AI credit boom is boosting bank stocks (Forbes). The long bond yield ticked higher as inflation expectations stabilize. Economic resilience is the base case. But the froth in AI/semiconductor names is being purged in real time.
+
+**Tomorrow**: Market **CLOSED** for Independence Day (July 3). Thin late-day volume could amplify any moves heading into the 4 PM close.
+
+## 🔮 Next Day Setup
+
+**Friday, July 3** — US stock market **shut** for Independence Day. Thursday afternoon will see thinning liquidity into the holiday. Don't read too much into late-day tick noise.
+
+**Week ahead watchlist:**
+- **Dip buyers or more pain?** Will Monday see buyers step in for tech, or will rotational selling continue? The futures tape suggests a **mixed open** next Tuesday.
+- **Earnings coming**: $STZ (Constellation Brands), $GIS (General Mills) — consumer staples sentiment check
+- **Geopolitical**: Middle East headlines over the long weekend could move oil. WTI has been drifting lower but any escalation reverses that fast.
+- **Key question**: Is this a "healthy correction within a bull market" or the start of a deeper tech unwind? The **Dow record** argues for the former — but the chip rout has teeth.
+
+**The takeaway**: The rotational trade is the dominant macro narrative. Value over growth. Financials over tech. Long holiday weekend = position-squaring into the close. Stay nimble.
