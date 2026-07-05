@@ -1,19 +1,12 @@
 {
   "date": "2026-07-05",
   "sections": {
-    "business": [
-      "Amazon, Walmart and Other Large Employers Could Face New Costs As New Jersey Targets Companies With Medicaid Workers— Will Other States Follow?",
-      "GM lays off over 1,000 workers at Detroit plant, adds 50 robots: ‘We are in a fight for humanity.’ Progress or betrayal?",
-      "77% of companies are pushing AI on workers — employment lawyers say you have almost no right to refuse",
-      "1.25 million kids have their Social Security Numbers stolen — and 75% of the time, the thief is someone they know",
-      "8 of the top 10 wealth-creating stocks over 100 years are Big Tech. But these two outliers still created $2.6T"
-    ],
-    "tech": [
-      "Chemical accidents rise as Trump administration proposes weakening safety rules",
-      "The missing 500 million: Cosmic bombardment melted Earth's first crust",
-      "Review: Supergirl is not the disaster its low box office suggests",
-      "When the ability to smell goes away",
-      "A martian rock has lots of carbon on it, and it's not clear why"
+    "science": [
+      "NASA's Hubble spots a stellar sparkler for the Fourth of July",
+      "NASA's Hubble captures a crimson stellar nursery sparkling with blue and white stars",
+      "NASA's Hubble captures a star-spangled sea of 500,000 stars",
+      "NASA celebrates America's 250th birthday with incredible views of space",
+      "New research reveals the hidden pollution left behind by fireworks"
     ],
     "global_macro": [
       "From Macron to Modi, governments are rolling out the red carpet for AI giants",
@@ -22,12 +15,19 @@
       "Three sons of Iran's slain leader Khamenei appear at funeral, not his successor",
       "The World Cup sends prediction market volumes soaring to record highs"
     ],
-    "science": [
-      "NASA's Hubble spots a stellar sparkler for the Fourth of July",
-      "NASA's Hubble captures a crimson stellar nursery sparkling with blue and white stars",
-      "NASA's Hubble captures a star-spangled sea of 500,000 stars",
-      "NASA celebrates America's 250th birthday with incredible views of space",
-      "New research reveals the hidden pollution left behind by fireworks"
+    "tech": [
+      "Chemical accidents rise as Trump administration proposes weakening safety rules",
+      "The missing 500 million: Cosmic bombardment melted Earth's first crust",
+      "Review: Supergirl is not the disaster its low box office suggests",
+      "When the ability to smell goes away",
+      "A martian rock has lots of carbon on it, and it's not clear why"
+    ],
+    "business": [
+      "Amazon, Walmart and Other Large Employers Could Face New Costs As New Jersey Targets Companies With Medicaid Workers— Will Other States Follow?",
+      "GM lays off over 1,000 workers at Detroit plant, adds 50 robots: ‘We are in a fight for humanity.’ Progress or betrayal?",
+      "77% of companies are pushing AI on workers — employment lawyers say you have almost no right to refuse",
+      "1.25 million kids have their Social Security Numbers stolen — and 75% of the time, the thief is someone they know",
+      "8 of the top 10 wealth-creating stocks over 100 years are Big Tech. But these two outliers still created $2.6T"
     ],
     "us_domestic": [
       "From Macron to Modi, governments are rolling out the red carpet for AI giants",
@@ -38,276 +38,6 @@
     ]
   },
   "articles": [
-    {
-      "title": "‘Buy yourself a buffer’: Amplifi CEO Braiden Shaw’s 5-step plan for where your money should be invested",
-      "link": "https://finance.yahoo.com/markets/articles/buy-yourself-buffer-amplifi-ceo-111500081.html",
-      "image_url": "https://media.zenfs.com/en/moneywise_327/e9f75a228fbaa1605a6e86e266589481",
-      "source": "Yahoo Finance",
-      "published": "2026-07-04T11:15:00+00:00",
-      "summary": "",
-      "section": "business"
-    },
-    {
-      "title": "1.25 million kids have their Social Security Numbers stolen — and 75% of the time, the thief is someone they know",
-      "link": "https://finance.yahoo.com/small-business/articles/1-25-million-kids-social-110000792.html",
-      "image_url": "https://media.zenfs.com/en/moneywise_327/6171763f87079061891561ab7cff22b6",
-      "source": "Yahoo Finance",
-      "published": "2026-07-04T11:00:00+00:00",
-      "summary": "",
-      "section": "business"
-    },
-    {
-      "title": "8 of the top 10 wealth-creating stocks over 100 years are Big Tech. But these two outliers still created $2.6T",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/8-top-10-wealth-creating-110000224.html",
-      "image_url": "https://media.zenfs.com/en/moneywise_327/31d92e6638e09381475d9333a0c9f5a0",
-      "source": "Yahoo Finance",
-      "published": "2026-07-04T11:00:00+00:00",
-      "summary": "",
-      "section": "business"
-    },
-    {
-      "title": "GM lays off over 1,000 workers at Detroit plant, adds 50 robots: ‘We are in a fight for humanity.’ Progress or betrayal?",
-      "link": "https://finance.yahoo.com/technology/ai/articles/gm-lays-off-over-1-104500251.html",
-      "image_url": "https://media.zenfs.com/en/moneywise_ecomm_711/8ee0ead73d095f1c25dd61ef8600b63f",
-      "source": "Yahoo Finance",
-      "published": "2026-07-04T10:45:00+00:00",
-      "summary": "",
-      "section": "business"
-    },
-    {
-      "title": "Congress Is Moving Forward With the Clarity Act. That Makes Ethereum the Best Crypto to Buy This Summer",
-      "link": "https://finance.yahoo.com/markets/crypto/articles/congress-moving-forward-clarity-act-111500182.html",
-      "image_url": "https://media.zenfs.com/en/motleyfool.com/46c246fe1d04d988503dc19808fc1458",
-      "source": "Yahoo Finance",
-      "published": "2026-07-04T11:15:00+00:00",
-      "summary": "",
-      "section": "business"
-    },
-    {
-      "title": "Gamer trades in $1,000 of physical discs at GameStop, days after Sony announces end of disc era",
-      "link": "https://www.marketwatch.com/story/gamer-trades-in-1-000-of-physical-discs-at-gamestop-days-after-sony-announces-end-of-disc-era-bf8383b7?mod=mw_rss_topstories",
-      "image_url": "https://images.mktw.net/im-25562075",
-      "source": "MarketWatch Top",
-      "published": "2026-07-04T21:40:00+00:00",
-      "summary": "While some collectors may plan to hoard their physical media, one Columbus gamer decided to liquidate his collection",
-      "section": "business"
-    },
-    {
-      "title": "‘She wants him gone’: My friend took in a homeless man as a caretaker. After 10 years, how can she evict him?",
-      "link": "https://www.marketwatch.com/story/she-wants-him-gone-my-friend-took-in-a-homeless-man-as-a-caretaker-after-10-years-how-can-she-evict-him-01672de2?mod=mw_rss_topstories",
-      "image_url": "https://images.mktw.net/im-23187684",
-      "source": "MarketWatch Top",
-      "published": "2026-07-04T20:56:00+00:00",
-      "summary": "“He lived rent-free, helping her with health-related issues and other tasks.”",
-      "section": "business"
-    },
-    {
-      "title": "Here’s what’s worth streaming in July 2026 on Netflix, Hulu, HBO Max and more",
-      "link": "https://www.marketwatch.com/story/heres-whats-worth-streaming-in-july-2026-on-netflix-hulu-hbo-max-and-more-58d07528?mod=mw_rss_topstories",
-      "image_url": "https://images.mktw.net/im-00397585",
-      "source": "MarketWatch Top",
-      "published": "2026-07-04T19:01:00+00:00",
-      "summary": "Why it’s a good month to save on streaming, despite the return of ‘Enola Holmes’ to Netflix and ‘Silo’ to Apple",
-      "section": "business"
-    },
-    {
-      "title": "Why a founder at age 50 is twice as likely to find success as one at age 30",
-      "link": "https://www.marketwatch.com/story/older-workers-are-fighting-ageism-by-starting-their-own-businesses-and-theyre-outperforming-younger-entrepreneurs-5fc701fc?mod=mw_rss_topstories",
-      "image_url": "https://images.mktw.net/im-70153674",
-      "source": "MarketWatch Top",
-      "published": "2026-07-04T18:56:00+00:00",
-      "summary": "Older workers are fighting ageism by starting their own businesses — and they’re outperforming younger entrepreneurs",
-      "section": "business"
-    },
-    {
-      "title": "Why June’s jobs and inflation data are bullish for bonds",
-      "link": "https://www.marketwatch.com/story/why-the-jobs-and-inflation-data-are-bullish-for-bonds-fcedffd2?mod=mw_rss_topstories",
-      "image_url": "https://images.mktw.net/im-48594608",
-      "source": "MarketWatch Top",
-      "published": "2026-07-04T18:37:00+00:00",
-      "summary": "The new jobs report is worse than many people realize.",
-      "section": "business"
-    },
-    {
-      "title": "Chemical accidents rise as Trump administration proposes weakening safety rules",
-      "link": "https://arstechnica.com/science/2026/07/chemical-accidents-rise-as-trump-administration-proposes-weakening-safety-rules/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2238555391-1152x648.jpg",
-      "source": "Ars Technica",
-      "published": "2026-07-05T11:05:22+00:00",
-      "summary": "Chemicals from accidents that injured or killed people increased by nearly 50 percent in recent years.",
-      "section": "tech"
-    },
-    {
-      "title": "The missing 500 million: Cosmic bombardment melted Earth's first crust",
-      "link": "https://arstechnica.com/science/2026/07/the-missing-500-million-cosmic-bombardment-melted-earths-first-crust/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/image-1.jpeg",
-      "source": "Ars Technica",
-      "published": "2026-07-05T10:55:02+00:00",
-      "summary": "The heat of the Hadean may have come from impacts as well as the interior.",
-      "section": "tech"
-    },
-    {
-      "title": "Review: Supergirl is not the disaster its low box office suggests",
-      "link": "https://arstechnica.com/culture/2026/07/review-supergirl-is-not-the-disaster-its-low-box-office-suggests/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/supergirl1-1152x648.jpg",
-      "source": "Ars Technica",
-      "published": "2026-07-04T16:49:14+00:00",
-      "summary": "It’s a pretty good movie, but it needed to be a great movie to thrive in an oversaturated superhero market.",
-      "section": "tech"
-    },
-    {
-      "title": "When the ability to smell goes away",
-      "link": "https://arstechnica.com/science/2026/07/when-the-ability-to-smell-goes-away/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-1302713332-1152x648.jpg",
-      "source": "Ars Technica",
-      "published": "2026-07-04T11:04:31+00:00",
-      "summary": "Disturbances in this critical sense are often linked to problems with brain health.",
-      "section": "tech"
-    },
-    {
-      "title": "A martian rock has lots of carbon on it, and it's not clear why",
-      "link": "https://arstechnica.com/science/2026/07/a-martian-rock-has-lots-of-carbon-on-it-and-its-not-clear-why/",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/image-1152x648.png",
-      "source": "Ars Technica",
-      "published": "2026-07-04T11:00:41+00:00",
-      "summary": "Biology could explain the find, but there are other potential explanations.",
-      "section": "tech"
-    },
-    {
-      "title": "Xbox is a disaster",
-      "link": "https://www.theverge.com/column/960600/xbox-is-a-disaster",
-      "image_url": null,
-      "source": "The Verge",
-      "published": "2026-07-05T12:00:00+00:00",
-      "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the bleak state of the video game industry, follow Andrew Webster. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started Microsoft",
-      "section": "tech"
-    },
-    {
-      "title": "NASA launched an emergency mission to stop the Swift Observatory from crashing to Earth",
-      "link": "https://www.theverge.com/science/961459/nasa-emergency-save-swift-observatory-katalyst-space-technologies",
-      "image_url": null,
-      "source": "The Verge",
-      "published": "2026-07-04T19:06:27+00:00",
-      "summary": "The Swift Observatory was launched in 2004, but recent solar storms have pushed its orbit lower, and it's in danger of burning up in Earth's atmosphere as soon as this year. To try and stave off its demise, NASA has enlisted Katalyst Space Technologies. The company's Link spacecraft launched Friday ",
-      "section": "tech"
-    },
-    {
-      "title": "White House deletes thousands of web pages about energy conservation as heatwave slams US",
-      "link": "https://www.theverge.com/policy/961449/white-house-mamdani-heatwave-deletion",
-      "image_url": null,
-      "source": "The Verge",
-      "published": "2026-07-04T16:19:06+00:00",
-      "summary": "The US Department of Energy reportedly deleted about 6,000 pages related to energy conservation as a historic heatwave tears across the country. The deletion was suspiciously timed, following Republican outrage over Mayor Zohran Mamdani asking New Yorkers to help reduce strain on the grid by setting",
-      "section": "tech"
-    },
-    {
-      "title": "Matic’s robot vacuum is getting a $250 price hike in September",
-      "link": "https://www.theverge.com/gadgets/960753/matic-robot-vacuum-mop-price-increase-cost-buy",
-      "image_url": null,
-      "source": "The Verge",
-      "published": "2026-07-04T16:00:00+00:00",
-      "summary": "The Matic is our favorite robot vacuum by a pretty comfortable margin. If you&#8217;ve been thinking about buying one, you may want to plan on doing it sooner than later. The company will raise its price by $250 on September 9th, going from $1,245 to $1,495. Matic told The Verge that the new price r",
-      "section": "tech"
-    },
-    {
-      "title": "Flatbush Zombies’ Erick the Architect misses his BlackBerry keyboard",
-      "link": "https://www.theverge.com/entertainment/960958/flatbush-zombies-erick-the-architect-interview",
-      "image_url": null,
-      "source": "The Verge",
-      "published": "2026-07-04T15:00:00+00:00",
-      "summary": "Erick the Architect is a founding member of, and the primary producer for, the legendary Flatbush Zombies. He's toured the world, performed on Kimmel and Fallon, played Coachella, and collaborated with everyone from Joey Bada$$ and the Rza to James Blake and hardcore punk band Trash Talk. But perhap",
-      "section": "tech"
-    },
-    {
-      "title": "From Macron to Modi, governments are rolling out the red carpet for AI giants",
-      "link": "https://www.cnbc.com/2026/07/04/macron-modi-ai-infrastructure-tech-ceos.html",
-      "image_url": null,
-      "source": "CNBC World",
-      "published": "2026-07-04T09:33:19+00:00",
-      "summary": "Macron and Modi are courting tech CEOs as France and India seek AI data center investment and cloud infrastructure.",
-      "section": "global_macro"
-    },
-    {
-      "title": "UK and France agree with Oman to ensure safety of its territorial waters",
-      "link": "https://www.cnbc.com/2026/07/04/uk-france-agree-with-oman-to-ensure-safety-of-its-territorial-waters.html",
-      "image_url": null,
-      "source": "CNBC World",
-      "published": "2026-07-04T09:58:07+00:00",
-      "summary": "France said it has deployed mine countermeasures to the Middle East, including two mine-hunting ships.",
-      "section": "global_macro"
-    },
-    {
-      "title": "OPEC+ approves further oil output increase as Hormuz exports start to recover",
-      "link": "https://www.cnbc.com/2026/07/05/opec-set-to-approve-another-oil-output-increase.html",
-      "image_url": null,
-      "source": "CNBC World",
-      "published": "2026-07-05T11:40:28+00:00",
-      "summary": "OPEC+, ‌which groups OPEC and allied producers including Russia, has hiked their output quotas ⁠from April through July by almost 800,000 bpd.",
-      "section": "global_macro"
-    },
-    {
-      "title": "Three sons of Iran's slain leader Khamenei appear at funeral, not his successor",
-      "link": "https://www.cnbc.com/2026/07/05/successor-to-irans-slain-leader-khamenei-does-not-appear-at-funeral.html",
-      "image_url": null,
-      "source": "CNBC World",
-      "published": "2026-07-05T11:25:33+00:00",
-      "summary": "Iranian state TV showed Khamenei's sons Mostafa, Meysam and Masoud praying at the funeral. Supreme leader Mojtaba Khamenei was not seen.",
-      "section": "global_macro"
-    },
-    {
-      "title": "The World Cup sends prediction market volumes soaring to record highs",
-      "link": "https://www.cnbc.com/2026/07/04/2026-fifa-world-cup-boosts-prediction-market-volumes.html",
-      "image_url": null,
-      "source": "CNBC World",
-      "published": "2026-07-04T12:54:04+00:00",
-      "summary": "Trading volumes on Kalshi and Polymarket both hit record highs in June. Rothera, a new prediction market platform, was also able to manage $2 billion in volume.",
-      "section": "global_macro"
-    },
-    {
-      "title": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
-      "link": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74a2/live/459df790-7860-11f1-ab53-3dbca6ef5ee1.jpg",
-      "source": "BBC World",
-      "published": "2026-07-05T12:29:18+00:00",
-      "summary": "Ali Khamenei's son Mojtaba is conspicuously absent from his father's funeral on Sunday, amid speculation about his condition.",
-      "section": "global_macro"
-    },
-    {
-      "title": "US marks 250th birthday with fireworks, flyovers and extreme weather",
-      "link": "https://www.bbc.co.uk/news/articles/cp9lppvkmz5o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a55a/live/28e7ea40-7845-11f1-a62d-b782ecdb6ead.jpg",
-      "source": "BBC World",
-      "published": "2026-07-05T08:24:32+00:00",
-      "summary": "US President Donald Trump's speech included some of his political agenda but also honoured war veterans and American history.",
-      "section": "global_macro"
-    },
-    {
-      "title": "Evacuations in Guam as super typhoon Bavi approaches",
-      "link": "https://www.bbc.co.uk/news/articles/cr7xpgx50jxo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ccc/live/14f8dd50-7840-11f1-a9d9-f754ec615ffe.jpg",
-      "source": "BBC World",
-      "published": "2026-07-05T09:26:56+00:00",
-      "summary": "The storm is forecast to bring winds in excess of 160mph and waves nearly 11m high when it makes landfall on Monday.",
-      "section": "global_macro"
-    },
-    {
-      "title": "Chinese underground church figure Jin Mingri freed from prison",
-      "link": "https://www.bbc.co.uk/news/articles/c4gy51ky75vo?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a119/live/d5d21d80-782b-11f1-b976-0b9c15b0ccfc.jpg",
-      "source": "BBC World",
-      "published": "2026-07-05T05:58:21+00:00",
-      "summary": "The Zion Church founder's release comes after a direct plea to Xi Jinping from Donald Trump.",
-      "section": "global_macro"
-    },
-    {
-      "title": "Moment of destiny for France's Le Pen in verdict to decide her future in presidential race",
-      "link": "https://www.bbc.co.uk/news/articles/c5yzlwz34p7o?at_medium=RSS&at_campaign=rss",
-      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/799f/live/4ae824d0-76d7-11f1-b508-3b3f1f22a3c1.jpg",
-      "source": "BBC World",
-      "published": "2026-07-04T23:17:24+00:00",
-      "summary": "Far-right leader Marine Le Pen is appealing against a verdict which found her guilty of misusing EU funds.",
-      "section": "global_macro"
-    },
     {
       "title": "NASA's Hubble spots a stellar sparkler for the Fourth of July",
       "link": "https://www.sciencedaily.com/releases/2026/07/260704232642.htm",
@@ -399,75 +129,318 @@
       "section": "science"
     },
     {
-      "title": "From Macron to Modi, governments are rolling out the red carpet for AI giants",
-      "link": "https://www.cnbc.com/2026/07/04/macron-modi-ai-infrastructure-tech-ceos.html",
+      "title": "Trump asked FIFA to review Balogun's World Cup game suspension: Reports",
+      "link": "https://www.cnbc.com/2026/07/05/trump-fifa-balogun-world-cup-red-card-suspension.html",
       "image_url": null,
-      "source": "CNBC Top",
-      "published": "2026-07-04T09:33:19+00:00",
-      "summary": "Macron and Modi are courting tech CEOs as France and India seek AI data center investment and cloud infrastructure.",
-      "section": "us_domestic"
+      "source": "CNBC World",
+      "published": "2026-07-05T21:10:29+00:00",
+      "summary": "Folarin Balogun was surprisingly cleared by FIFA to play for the United States Men's National Team in the World Cup against Belgium on Monday.",
+      "section": "global_macro"
     },
     {
-      "title": "Trump gives campaign-style July 4 speech on National Mall for U.S. 250th anniversary",
-      "link": "https://www.cnbc.com/2026/07/05/trump-gives-campaign-style-july-4-speech-on-national-mall.html",
+      "title": "Stock futures rise after record-setting week for the Dow: Live updates",
+      "link": "https://www.cnbc.com/2026/07/05/stock-market-today-live-updates.html",
       "image_url": null,
-      "source": "CNBC Top",
-      "published": "2026-07-05T06:23:16+00:00",
-      "summary": "Trump's speech mixed patriotism with attacks on perceived ideological threats at home and abroad.",
-      "section": "us_domestic"
+      "source": "CNBC World",
+      "published": "2026-07-05T22:02:45+00:00",
+      "summary": "The Dow climbed nearly 2% last week, putting it within striking distance of 53,000, a level it has never reached.",
+      "section": "global_macro"
     },
     {
-      "title": "The World Cup sends prediction market volumes soaring to record highs",
-      "link": "https://www.cnbc.com/2026/07/04/2026-fifa-world-cup-boosts-prediction-market-volumes.html",
+      "title": "Cargo vessel in Red Sea reports coming under attack, UK maritime body says",
+      "link": "https://www.cnbc.com/2026/07/05/cargo-vessel-in-red-sea-reports-attack-uk-maritime-body-says.html",
       "image_url": null,
-      "source": "CNBC Top",
-      "published": "2026-07-04T12:54:04+00:00",
-      "summary": "Trading volumes on Kalshi and Polymarket both hit record highs in June. Rothera, a new prediction market platform, was also able to manage $2 billion in volume.",
-      "section": "us_domestic"
+      "source": "CNBC World",
+      "published": "2026-07-05T12:57:45+00:00",
+      "summary": "The incident was reported in one of the world's most crucial trade transit routes amid a fragile ceasefire between Iran and the U.S.",
+      "section": "global_macro"
+    },
+    {
+      "title": "UK and France agree with Oman to ensure safety of its territorial waters",
+      "link": "https://www.cnbc.com/2026/07/04/uk-france-agree-with-oman-to-ensure-safety-of-its-territorial-waters.html",
+      "image_url": null,
+      "source": "CNBC World",
+      "published": "2026-07-04T09:58:07+00:00",
+      "summary": "France said it has deployed mine countermeasures to the Middle East, including two mine-hunting ships.",
+      "section": "global_macro"
     },
     {
       "title": "OPEC+ approves further oil output increase as Hormuz exports start to recover",
       "link": "https://www.cnbc.com/2026/07/05/opec-set-to-approve-another-oil-output-increase.html",
       "image_url": null,
-      "source": "CNBC Top",
+      "source": "CNBC World",
       "published": "2026-07-05T11:40:28+00:00",
       "summary": "OPEC+, ‌which groups OPEC and allied producers including Russia, has hiked their output quotas ⁠from April through July by almost 800,000 bpd.",
-      "section": "us_domestic"
+      "section": "global_macro"
     },
     {
-      "title": "BTIG names an athleisure company, cybersecurity stock and more as its top picks for the second half of 2026",
-      "link": "https://www.cnbc.com/2026/07/04/btigs-top-picks-for-second-half-of-2026.html",
+      "title": "Iran's supreme leader absent as senior officials attend ayatollah's funeral",
+      "link": "https://www.bbc.co.uk/news/articles/cevllyj9vv3o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f067/live/f76e6560-789a-11f1-9510-1546718f668b.jpg",
+      "source": "BBC World",
+      "published": "2026-07-05T17:58:01+00:00",
+      "summary": "Mojtaba Khamenei has not been seen in public since the attack which killed his father at the outset of the US-Israel war with Iran.",
+      "section": "global_macro"
+    },
+    {
+      "title": "Watch: Lyse Doucet on emotion and politics at Tehran funeral of former supreme leader",
+      "link": "https://www.bbc.co.uk/news/videos/c4gyye3rplno?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f07e/live/a49ba830-7899-11f1-9510-1546718f668b.jpg",
+      "source": "BBC World",
+      "published": "2026-07-05T17:54:47+00:00",
+      "summary": "The BBC's chief international correspondent reports from Tehran where funeral events are taking place in honour of Iran's former leader, Ayatollah Ali Khamenei.",
+      "section": "global_macro"
+    },
+    {
+      "title": "From 'a beautiful night' to 'world's greatest hangover', guests react to Taylor and Travis's wedding",
+      "link": "https://www.bbc.co.uk/news/articles/clyxxr9n2kjo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec55/live/3525a160-7888-11f1-a627-714adb4eed6e.jpg",
+      "source": "BBC World",
+      "published": "2026-07-05T15:48:20+00:00",
+      "summary": "Some of the famous guests have been posting on social media about the big day in New York.",
+      "section": "global_macro"
+    },
+    {
+      "title": "Moment of destiny for France's Le Pen in verdict to decide her future in presidential race",
+      "link": "https://www.bbc.co.uk/news/articles/c5yzlwz34p7o?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/799f/live/4ae824d0-76d7-11f1-b508-3b3f1f22a3c1.jpg",
+      "source": "BBC World",
+      "published": "2026-07-04T23:17:24+00:00",
+      "summary": "Far-right leader Marine Le Pen is appealing against a verdict which found her guilty of misusing EU funds.",
+      "section": "global_macro"
+    },
+    {
+      "title": "Australia probes mystery space balls that washed up on beach",
+      "link": "https://www.bbc.co.uk/news/articles/c1jyydr7jnjo?at_medium=RSS&at_campaign=rss",
+      "image_url": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc2d/live/4062f360-7866-11f1-ab53-3dbca6ef5ee1.jpg",
+      "source": "BBC World",
+      "published": "2026-07-05T12:55:58+00:00",
+      "summary": "Officials are searching for the origins of six pieces of space debris discovered on Forrest Beach in Queensland.",
+      "section": "global_macro"
+    },
+    {
+      "title": "Chemical accidents rise as Trump administration proposes weakening safety rules",
+      "link": "https://arstechnica.com/science/2026/07/chemical-accidents-rise-as-trump-administration-proposes-weakening-safety-rules/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2238555391-1152x648.jpg",
+      "source": "Ars Technica",
+      "published": "2026-07-05T11:05:22+00:00",
+      "summary": "Chemicals from accidents that injured or killed people increased by nearly 50 percent in recent years.",
+      "section": "tech"
+    },
+    {
+      "title": "The missing 500 million: Cosmic bombardment melted Earth's first crust",
+      "link": "https://arstechnica.com/science/2026/07/the-missing-500-million-cosmic-bombardment-melted-earths-first-crust/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/image-1.jpeg",
+      "source": "Ars Technica",
+      "published": "2026-07-05T10:55:02+00:00",
+      "summary": "The heat of the Hadean may have come from impacts as well as the interior.",
+      "section": "tech"
+    },
+    {
+      "title": "Review: Supergirl is not the disaster its low box office suggests",
+      "link": "https://arstechnica.com/culture/2026/07/review-supergirl-is-not-the-disaster-its-low-box-office-suggests/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/03/supergirl1-1152x648.jpg",
+      "source": "Ars Technica",
+      "published": "2026-07-04T16:49:14+00:00",
+      "summary": "It’s a pretty good movie, but it needed to be a great movie to thrive in an oversaturated superhero market.",
+      "section": "tech"
+    },
+    {
+      "title": "When the ability to smell goes away",
+      "link": "https://arstechnica.com/science/2026/07/when-the-ability-to-smell-goes-away/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2024/04/GettyImages-1302713332-1152x648.jpg",
+      "source": "Ars Technica",
+      "published": "2026-07-04T11:04:31+00:00",
+      "summary": "Disturbances in this critical sense are often linked to problems with brain health.",
+      "section": "tech"
+    },
+    {
+      "title": "A martian rock has lots of carbon on it, and it's not clear why",
+      "link": "https://arstechnica.com/science/2026/07/a-martian-rock-has-lots-of-carbon-on-it-and-its-not-clear-why/",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/image-1152x648.png",
+      "source": "Ars Technica",
+      "published": "2026-07-04T11:00:41+00:00",
+      "summary": "Biology could explain the find, but there are other potential explanations.",
+      "section": "tech"
+    },
+    {
+      "title": "Mr. Lif’s Emergency Rations EP is post-9/11 hip hop at its most daring",
+      "link": "https://www.theverge.com/entertainment/961484/mr-lif-emergency-rations-ep-post-9-11-review",
+      "image_url": null,
+      "source": "The Verge",
+      "published": "2026-07-05T18:30:00+00:00",
+      "summary": "There was a period in the early aughts when Definitive Jux (nee: Def Jux) seemed like it was going to be the future of hip hop. While the label featured plenty of experimental, boundary-pushing, and politically minded acts, Lif stood out as the most \"conscious rapper\" in the traditional sense. It wa",
+      "section": "tech"
+    },
+    {
+      "title": "Where to preorder Grand Theft Auto VI",
+      "link": "https://www.theverge.com/gadgets/960838/grand-theft-auto-gta-6-vi-preorder-editions-buy",
+      "image_url": null,
+      "source": "The Verge",
+      "published": "2026-07-05T16:00:00+00:00",
+      "summary": "Rockstar's long-awaited Grand Theft Auto VI is launching November 19th, 2026 for PlayStation 5 and Xbox Series S/X consoles. The game will be available digitally at launch, with physical cases containing codes, not discs, so your options for preordering are straightforward. The preloading phase for ",
+      "section": "tech"
+    },
+    {
+      "title": "Infuriating Google commercial imagines the founding fathers embracing AI",
+      "link": "https://www.theverge.com/ai-artificial-intelligence/961468/google-ai-commercial-founding-fathers-declaration-of-independence",
+      "image_url": null,
+      "source": "The Verge",
+      "published": "2026-07-05T14:23:11+00:00",
+      "summary": "\"Group project, but make it 1776.\" That's how a new commercial for Google Workspace opens. And things only get cringier from there. The clip imagines what it would be like if the founding fathers turned to Google's collaboration tools and Gemini to help them draft the Declaration of Independence. Be",
+      "section": "tech"
+    },
+    {
+      "title": "The Sourdough Sidekick automates the boring bit of baking",
+      "link": "https://www.theverge.com/tech/959604/sourdough-sidekick-review-king-arthur-starter",
+      "image_url": null,
+      "source": "The Verge",
+      "published": "2026-07-05T14:00:00+00:00",
+      "summary": "Baking sourdough bread is inherently old-fashioned, relying on natural fermentation and wild yeast instead of the simple, predictable commercial stuff. So it might sound anathema to bring a gadget into the mix. The trick to the Sourdough Sidekick - backed and branded by King Arthur flour - is that i",
+      "section": "tech"
+    },
+    {
+      "title": "How Keurig saved — and ruined — your coffee",
+      "link": "https://www.theverge.com/podcast/961470/keurig-coffee-k-up-version-history",
+      "image_url": null,
+      "source": "The Verge",
+      "published": "2026-07-05T13:51:56+00:00",
+      "summary": "Before Keurig, the coffee in your office was almost certainly terrible. Old, burned, made by someone who would rather poorly eyeball than properly measure. Just altogether gross. After Keurig? You could make your own coffee, a cup at a time, exactly when you needed it. The single-cup brewer was an e",
+      "section": "tech"
+    },
+    {
+      "title": "3 Dividend ETF Picks That Could Build Serious Long-Term Wealth",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/3-dividend-etf-picks-could-214000641.html",
+      "image_url": "https://media.zenfs.com/en/motleyfool.com/055a1e083605e8c73a351094415307bd",
+      "source": "Yahoo Finance",
+      "published": "2026-07-05T21:40:00+00:00",
+      "summary": "",
+      "section": "business"
+    },
+    {
+      "title": "Five Energy Stocks Riding Texas's Data Center Power Boom",
+      "link": "https://finance.yahoo.com/energy/articles/five-energy-stocks-riding-texass-210000847.html",
+      "image_url": "https://media.zenfs.com/en/oilprice.com/3f0eb9751270ee01caf1bb3c664d022e",
+      "source": "Yahoo Finance",
+      "published": "2026-07-05T21:00:00+00:00",
+      "summary": "",
+      "section": "business"
+    },
+    {
+      "title": "LG Display (LPL) Earns ASPICE Level 2 Certification for Automotive Displays",
+      "link": "https://finance.yahoo.com/technology/articles/lg-display-lpl-earns-aspice-200745096.html",
+      "image_url": "https://media.zenfs.com/en/insidermonkey.com/ee93ec36adea917762d2451e5361168a",
+      "source": "Yahoo Finance",
+      "published": "2026-07-05T20:07:45+00:00",
+      "summary": "",
+      "section": "business"
+    },
+    {
+      "title": "Wipro (WIT) Completes Data Center Migration for METRO AG",
+      "link": "https://finance.yahoo.com/technology/ai/articles/wipro-wit-completes-data-center-200725808.html",
+      "image_url": "https://media.zenfs.com/en/insidermonkey.com/e13eafb879d337f843e648dbb91ec2ea",
+      "source": "Yahoo Finance",
+      "published": "2026-07-05T20:07:25+00:00",
+      "summary": "",
+      "section": "business"
+    },
+    {
+      "title": "Integra Resources (ITGR) Appoints Ausenco to Lead Detailed Engineering for DeLamar Project",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/integra-resources-itgr-appoints-ausenco-200701299.html",
+      "image_url": "https://media.zenfs.com/en/insidermonkey.com/f057ab2144159b0849c4bc3983319907",
+      "source": "Yahoo Finance",
+      "published": "2026-07-05T20:07:01+00:00",
+      "summary": "",
+      "section": "business"
+    },
+    {
+      "title": "OPEC+ raises output levels again despite tumbling crude prices",
+      "link": "https://www.marketwatch.com/story/opec-raises-output-levels-again-despite-tumbling-crude-prices-534791c8?mod=mw_rss_topstories",
+      "image_url": "https://images.mktw.net/im-85330986",
+      "source": "MarketWatch Top",
+      "published": "2026-07-05T19:55:00+00:00",
+      "summary": "Major oil producers on Sunday agreed once again to modestly increase their crude production, although, as in previous months, the hike is largely symbolic until a peace deal between the U.S. and Iran sticks and the Strait of Hormuz is fully reopened to shipping traffic.",
+      "section": "business"
+    },
+    {
+      "title": "I have no kids. Will I cause family drama by leaving different amounts to my nieces and nephews?",
+      "link": "https://www.marketwatch.com/story/i-have-no-kids-will-i-cause-family-drama-by-leaving-different-amounts-to-my-nieces-and-nephews-14c0fdda?mod=mw_rss_topstories",
+      "image_url": "https://images.mktw.net/im-54995728",
+      "source": "MarketWatch Top",
+      "published": "2026-07-05T14:00:00+00:00",
+      "summary": "“Part of me would prefer to leave more to those for whom the money could make a meaningful difference.”",
+      "section": "business"
+    },
+    {
+      "title": "Hybrids are the breakout star of the U.S. car market as EV demand fades",
+      "link": "https://www.marketwatch.com/story/hybrids-are-the-breakout-star-of-the-u-s-car-market-as-ev-demand-fades-96dce1c3?mod=mw_rss_topstories",
+      "image_url": "https://images.mktw.net/im-61231260",
+      "source": "MarketWatch Top",
+      "published": "2026-07-05T13:03:00+00:00",
+      "summary": "Hybrids aren’t a bridge to EVs anymore — instead, they’re winning on function and price.",
+      "section": "business"
+    },
+    {
+      "title": "Why the stock market’s red-hot momentum trade might be headed for a violent unwind this month",
+      "link": "https://www.marketwatch.com/story/why-the-stock-markets-red-hot-momentum-trade-might-be-headed-for-a-violent-unwind-this-month-78a45397?mod=mw_rss_topstories",
+      "image_url": "https://images.mktw.net/im-21528514",
+      "source": "MarketWatch Top",
+      "published": "2026-07-05T13:00:00+00:00",
+      "summary": "Momentum trades tend to struggle in July — but this year may be particularly volatile, says one strategist. The rumblings have already started.",
+      "section": "business"
+    },
+    {
+      "title": "‘We were stunned’: My daughter, 39, said her mother-in-law gives her more money than we do. Should I confront her?",
+      "link": "https://www.marketwatch.com/story/we-were-stunned-my-daughter-39-said-her-mother-in-law-gives-her-more-money-than-we-do-do-i-call-her-out-b63d087c?mod=mw_rss_topstories",
+      "image_url": "https://images.mktw.net/im-77926501",
+      "source": "MarketWatch Top",
+      "published": "2026-07-05T12:48:00+00:00",
+      "summary": "“She thanked us for the $100 birthday gift and then announced that her mother-in-law had sent her $400.”",
+      "section": "business"
+    },
+    {
+      "title": "Stock futures rise after record-setting week for the Dow: Live updates",
+      "link": "https://www.cnbc.com/2026/07/05/stock-market-today-live-updates.html",
       "image_url": null,
       "source": "CNBC Top",
-      "published": "2026-07-04T12:58:40+00:00",
-      "summary": "The firm named 55 large- and small-cap stocks that it thinks are set to perform well in the next six months.",
+      "published": "2026-07-05T22:02:45+00:00",
+      "summary": "The Dow climbed nearly 2% last week, putting it within striking distance of 53,000, a level it has never reached.",
       "section": "us_domestic"
     },
     {
-      "title": "Trump mixes patriotism with partisanship as he celebrates America's 'joyous' 250th anniversary - AP News",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeFlpZFpJamx2a3psVFBHZDdSN0pyVkNzT2lDQmYyajlWRXFNWHNJTENnNWc5R1c2STlBWF9IazBhV2pWRUpuVzZ5a1BhbDE1d29FUmpOb0JkMEhEZ1JlenNQSUdDZ09JRURiTFF2aUpieFN5cHJnSHpNeUdvYWQtT1M4d0oxdk9Ed0RyNm4tSFc4d3BpVVJQeUJpR1JMcjg?oc=5",
+      "title": "Trump asked FIFA to review Balogun's World Cup game suspension: Reports",
+      "link": "https://www.cnbc.com/2026/07/05/trump-fifa-balogun-world-cup-red-card-suspension.html",
       "image_url": null,
-      "source": "Google News US",
-      "published": "2026-07-05T12:03:00+00:00",
-      "summary": "Trump mixes patriotism with partisanship as he celebrates America's 'joyous' 250th anniversary&nbsp;&nbsp;AP NewsFor America’s 250th, Trump Hosts a Celebration and Derides His Foes&nbsp;&nbsp;The New York TimesWATCH: Trump speaks at National Mall as fireworks cap delayed America 250 celebration&nbsp",
+      "source": "CNBC Top",
+      "published": "2026-07-05T21:10:29+00:00",
+      "summary": "Folarin Balogun was surprisingly cleared by FIFA to play for the United States Men's National Team in the World Cup against Belgium on Monday.",
       "section": "us_domestic"
     },
     {
-      "title": "America’s 250th celebrations marked by severe weather, political division - The Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZlI1VUVScEU3UGJxekozSEM5dTI4QzBFRzRldUNnOXBsT1dGSV9zeUQwU09fUDBJdU1PSFV3LXVaUTdYRXZycEQyUlBEQ2ZTN0kxTGdZN2tPTXVSa0pyWDFlSXg3ZUNTanlHNUMyX0hPMnNqOHY1QlhPTWJndUkwalVqWGFfMk94TE9XMi1IeUJvbzN3RTV4VzRDb3dlQnlDSTItZFBsUXNmUU9TdGxrZzRn?oc=5",
+      "title": "Trump to meet with Ukraine's Zelenskyy and Syria's al-Sharaa during the NATO summit",
+      "link": "https://www.cnbc.com/2026/07/05/trump-to-meet-ukraines-zelenskyy-and-syrias-al-sharaa-at-nato-summit.html",
       "image_url": null,
-      "source": "Google News US",
-      "published": "2026-07-05T04:31:00+00:00",
-      "summary": "America’s 250th celebrations marked by severe weather, political division&nbsp;&nbsp;The Washington PostSee more headlines & perspectives on Google News",
+      "source": "CNBC Top",
+      "published": "2026-07-05T21:14:35+00:00",
+      "summary": "Trump plans to meet with Ukrainian President Volodymyr Zelenskyy and Syrian President Ahmad al-Sharaa on Wednesday, the White House said.",
       "section": "us_domestic"
     },
     {
-      "title": "More than 800,000 fireworks mark America 250 celebrations in DC - WPBF",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbTV0Z2N2ZTJqcEg5S0ZGekxpOGZ4LUtKYlNWRWdYanlqYm9RVGxGbDczQmJSZm53WVdvZkx4c05XUFVfQWVfTUtlOS15MVRpLUpCcHB1WW8zVTluejg2LTFydm9DN0hXTmVfSnpQVEtwOUpYeHRzNFNLQkVBVWpLNVE3Sm4yUDdUdDMwTXJHamJFek90dEppU0FJV1lrQWFXRkE?oc=5",
+      "title": "Cargo vessel in Red Sea reports coming under attack, UK maritime body says",
+      "link": "https://www.cnbc.com/2026/07/05/cargo-vessel-in-red-sea-reports-attack-uk-maritime-body-says.html",
       "image_url": null,
-      "source": "Google News US",
-      "published": "2026-07-05T05:16:00+00:00",
-      "summary": "More than 800,000 fireworks mark America 250 celebrations in DC&nbsp;&nbsp;WPBFFireworks begin moments before midnight — 4th of July updates&nbsp;&nbsp;FOX 5 DCDespite stormy weather, America marks 250 years of independence, in photos&nbsp;&nbsp;AP NewsSalute to America Celebration & Fireworks&nbsp;",
+      "source": "CNBC Top",
+      "published": "2026-07-05T12:57:45+00:00",
+      "summary": "The incident was reported in one of the world's most crucial trade transit routes amid a fragile ceasefire between Iran and the U.S.",
+      "section": "us_domestic"
+    },
+    {
+      "title": "Goldman Sachs says these undervalued stocks are 'well positioned' to outperform",
+      "link": "https://www.cnbc.com/2026/07/05/goldman-sachs-says-these-stocks-are-best-positioned-to-outperform.html",
+      "image_url": null,
+      "source": "CNBC Top",
+      "published": "2026-07-05T12:30:01+00:00",
+      "summary": "The firm highlighted stocks that are poised for gains as the third quarter unfolds.",
       "section": "us_domestic"
     },
     {
@@ -475,22 +448,49 @@
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRmcyb0xaUjZMcUNjSDFQODFUX0Y1TDg0bDlHUkxLZE5FeWZQajJtZnRKYjRWdzZjN0RmRWcwdFN1dWtkLXdhUWFGNGJKVTFSSDJVRnV4Yy05YWJVbjh4RjJyS1YxdnBOMW9jQVp5Uk9aa1hxYmd1RndVZER6dTBSa0V2cnQxTTFscG5rY1hpV3NEMVNIeWJ0TFF4WE9XcEdoanFyVmtkenhSbXhvdnU1c3BQNEVOVmM1OHgyVmJvdGR3aWc?oc=5",
       "image_url": null,
       "source": "Google News US",
-      "published": "2026-07-05T11:05:36+00:00",
-      "summary": "Three sons of Iran's slain leader Khamenei appear at funeral, not his successor&nbsp;&nbsp;ReutersSee more headlines & perspectives on Google News",
+      "published": "2026-07-05T16:33:18+00:00",
+      "summary": "Three sons of Iran's slain leader Khamenei appear at funeral, not his successor&nbsp;&nbsp;ReutersAs Iran’s Patriarch Is Mourned, Glimpses of a Changing Tehran&nbsp;&nbsp;The New York TimesKhamenei's other sons appear at his funeral in Iran as new supreme leader remains in hiding&nbsp;&nbsp;Austin A",
       "section": "us_domestic"
     },
     {
-      "title": "Record heat suspected in over 20 deaths as severe weather puts damper on Fourth of July festivities - NBC News",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa0V6d2xrcVl4UlpKeE5NNWt1REJRUmlJWTF6Rk9GWGxzV3R4c1NhODBReHRXTk94akk2Qmc1WXpydXZSdG1RY0ljXzRJUkJPS1ZMZzlqUW9wbVZCMmlzTXcxOGo4WElDQlpKU1F4QnNtcl9LOUE4elVJdVVJUjZmRkV0YXJEdUpzOEZKbkpOQ1dNQ0V6QlFVag?oc=5",
+      "title": "Democrat Mallory McMorrow suspends her Michigan Senate campaign and scrambles the pivotal race - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZHNZVFBSSWh5R0pPdXdaOTlPV1FRaFdhb2FMT2JvNUNlaFVMaTg4MVFnN3dRRkxXdTNrWVp1YmhBUm0tdVFVaWZQN3lwLU1kd3Yyd0FVLUhyWGdYMW1pQ05vWXh0VTNnUXZpSWxJSkJuelNlNFdRNzRFQVdUUm9ROGpCNFU3ZW1QOEVEdzUwOW5IRjRCbktHdWxsX0ttaHVlMm9XSUt6RDg0ME1aS25PcGtZUW9jYUJxNG9R?oc=5",
       "image_url": null,
       "source": "Google News US",
-      "published": "2026-07-05T00:59:00+00:00",
-      "summary": "Record heat suspected in over 20 deaths as severe weather puts damper on Fourth of July festivities&nbsp;&nbsp;NBC NewsSee more headlines & perspectives on Google News",
+      "published": "2026-07-05T20:14:00+00:00",
+      "summary": "Democrat Mallory McMorrow suspends her Michigan Senate campaign and scrambles the pivotal race&nbsp;&nbsp;AP NewsMallory McMorrow Suspends Senate Bid in Democrats’ Heated Michigan Primary&nbsp;&nbsp;The New York TimesMichigan Democrat Mallory McMorrow ends US Senate primary campaign&nbsp;&nbsp;The G",
+      "section": "us_domestic"
+    },
+    {
+      "title": "National Mall fireworks reward those who had to sweat out a long wait - The Washington Post",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNR1JlajdJLXVFNkdKY0g5el9tYl9WTUczeHhkemFRQ0p0aERoLVZ5OHlMUEZLdm9sTWhhZmdMcEZVUS1LZTJEeGZXeC1zbU1FYmg5Ujg1dnAxLTViUTgwNTBHVGtfa3Y3b0preS1OaHlmdmNQU0ctVFRRVGZ0b29vak1iNjBwZFJybEhWODB3Z3ZOMFVlNUdWZnc2VUFUYTVoeENyN1RCRzY3YjI2bWVCZ0VB?oc=5",
+      "image_url": null,
+      "source": "Google News US",
+      "published": "2026-07-05T21:12:43+00:00",
+      "summary": "National Mall fireworks reward those who had to sweat out a long wait&nbsp;&nbsp;The Washington PostFireworks begin moments before midnight — 4th of July updates&nbsp;&nbsp;FOX 5 DCAmerica 250 kicks off in nation's capital as Americans brave weather to celebrate Independence Day&nbsp;&nbsp;Fox NewsS",
+      "section": "us_domestic"
+    },
+    {
+      "title": "Trump touts America’s ‘golden age’ and his political agenda in a July Fourth speech roiled by severe weather - NBC News",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNk8zbnY2bVN4VFlUbS1lMGF6UGQtVkhRVnA1OTdJWDlYRm1Za1g1VEFFN0dMa0dUMGh2bXB5d0s2UWFBOTd2ZG8xNWwwZ1VmSW83YzRDaUYxWm5sZVpzbVZnQmVuTm53SlVkN0hDTk9pQ1YtbFp4QWJ4YURPdDFKVXJTZS1lR0xxNEExRXZiR2RXMXdEVDZYTWdXX0hDV2RwZ2lBSWw3dDEzWFF6X2c?oc=5",
+      "image_url": null,
+      "source": "Google News US",
+      "published": "2026-07-05T20:15:00+00:00",
+      "summary": "Trump touts America’s ‘golden age’ and his political agenda in a July Fourth speech roiled by severe weather&nbsp;&nbsp;NBC NewsTrump Delivers Address on America’s 250th Birthday: ‘Nobody Can Be Like Us’&nbsp;&nbsp;WSJWhat Trump’s July 4 Speech Revealed&nbsp;&nbsp;The AtlanticNational Mall to reopen",
+      "section": "us_domestic"
+    },
+    {
+      "title": "Newport Beach 4th of July celebration turns chaotic as fights break out, fireworks thrown at officers - ABC7 Los Angeles",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPMTdUaTZDOXgxZDlCNVhtc05XY3Z2QkFtblhpengwMGMxMGFpQ3R1V0ZqZExoSVFyekREaWpvbHpkVVdTTC12d002V0NaMXJnLUtMelVoOF9OVkItdUh5OWx6UEdwRE9LWWI3el9KU0tseV9oajdrekxObS1DaGhOWVRTTktUcEZIWFE3ZUxuMHFBaWhxdDlHV3U5OXJhTllaSE16NjF0V1J5bkJqc3pBZC1QQlUxRW5sQmNZ0gHAAUFVX3lxTE1qU3VXamxsa0N5ZWVjUUhWU19ERWRqVy1SOXMyakJtTWhWTTc5ZTdtM3pPS3BPMXMyZXQtSWk0ZERRUGhyV2lHa0p4SWRPZU1yVkdOeWlrQURVWW9nN1NiRVV6ZjV6WlZOT1ZmUjFmdXYwZ0N3dTRnN1F2U05yMkdXM0RHN2N4QkpzekRWUVhvOXB1ZVVnWUFuQ2VUWEVFOHZoWm9KUWYzekFOWllrTFRlQnNDMS1RbmRkbm1LcXhrUg?oc=5",
+      "image_url": null,
+      "source": "Google News US",
+      "published": "2026-07-05T13:46:25+00:00",
+      "summary": "Newport Beach 4th of July celebration turns chaotic as fights break out, fireworks thrown at officers&nbsp;&nbsp;ABC7 Los AngelesHundreds arrested, fireworks thrown at crowds, police in chaotic July 4th in Newport Beach&nbsp;&nbsp;Orange County RegisterLaw enforcement responds to large crowd at Newp",
       "section": "us_domestic"
     }
   ],
   "_meta": {
-    "generated_at": "2026-07-05T12:30:35.603651Z",
+    "generated_at": "2026-07-05T22:10:58.451835Z",
     "source": "hermes-pi"
   },
   "chatter": {
