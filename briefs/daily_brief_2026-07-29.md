@@ -1,0 +1,30 @@
+## 🌍 Global Macro
+
+**Trump meets Zelenskyy** today as Ukraine & Iran wars risk overlapping — US walked out of UN Security Council meeting amid diplomatic friction. **Iran hosts Hormuz Strait talks** with Saudi & Oman as Trump hails 'good talks.' **Fed chair Kevin Warsh's first press conference** today — no rate hike expected, but communication style & energy shock assessment will set tone. **China's reported chip breakthrough** (DUV tool) carries big caveats — analysts doubt near-term ASML challenge.
+
+## 🇺🇸 US Domestic
+
+**Boeing** posts bigger-than-expected Q2 loss, with a **$280M Air Force One charge**. **Coca-Cola** tops earnings & raises full-year outlook — consumer resilience signal. **Trump to meet Zelenskyy** with air-defense package as top agenda item.
+
+## 💼 Business & Markets
+
+**Gold** holds below **$4,100** ahead of Fed decision. **LVMH** sales grow on US luxury demand. **Brookfield** sees **6.5 GW** AI data-center capacity coming online in India. **Boeing** drags industrials — Air Force One costs accelerating. Market bracing for Fed at **2 PM ET** — Warsh's word choice will drive afternoon volatility.
+
+## 📡 Social & Market Signals
+
+- **Reddit** (r/Stock_Market, 1 pt): SPX consolidation debate — pause before rally or end of bull run? Heavy uncertainty ahead of Fed.
+- **YouTube** (Larry Jones, **15K views**): Bullish on puts, flagged China CXMT (+500% debut) and D-Wave (+20% on AT&T deal). Reads market selloff setup this week.
+- **YouTube** (MyStrategicForecast, 1.5K views): SPY opened near **$745** — calling a 'roller coaster' tape, watching transports as leading indicator.
+- **Fed chatter dominates** — 11 YouTube videos, **960K collective views** on Warsh rate direction. Treasury market signals say rates aren't high enough.
+
+## 🔬 Science & Tech
+
+**Microsoft** unveils AI security tools claiming superior detection. **SpaceX Starlink** exempted from FCC foreign-router ban. **iOS/macOS 26.6** drops today, paving way for version 27. NASA astronaut returns after **241 days** in orbit.
+
+## 📰 Today's Papers
+
+No fresh paper insights today — PDF pipeline returned nothing to process.
+
+---
+
+📰 **Newspaper PDFs:** No new downloads.
