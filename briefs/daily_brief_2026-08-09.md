@@ -1,0 +1,30 @@
+# 📈 Morning Brief — Sat, Aug 8, 2026
+
+## 🌍 Global Macro
+- **Iran deal tease, again:** Trump dangled a Hormuz deal that never came — markets still rallied. As oil reserves & munitions reportedly dwindle, analysts question how long this "pounce" trade lasts (CNBC).
+- **July jobs report — mixed:** Payrolls **unexpectedly declined**, but the unemployment rate *fell*, leaving investors split (CNBC).
+- **Blanche confirmed AG** 50–49; Cassidy the deciding vote (BBC/CNBC). Ukraine: Russian strikes near Kyiv kill three, incl. a child.
+
+## 🇺🇸 US Domestic
+- **'SaaSpocalypse' debate heats up** as software stocks swing wildly both ways — investors sorting AI-insulated winners from losers.
+- **Record options week** powered the S&P surge; **VIX near 2026 low** — bullish tape, thin hedging.
+
+## 💼 Business & Markets
+- **S&P 500 closed at a record Friday**, strongest week since April. Index futures gained pre-jobs-report; **US equity funds saw outflows** as investors took profits.
+- **Burry warning:** Big Tech AI capex is *dragging* the S&P 500 — Apple the exception.
+- **Palantir CEO** dropped an 11-word "bombshell" for investors (CNBC); **Sweetgreen slid** as cyclosporiasis fears forced a forecast cut.
+
+**Verdict:** Momentum is firmly risk-on — record close + low VIX + options euphoria — but the payrolls decline, profit-taking outflows, and Burry's AI-capex critique argue for **selective exposure over chase**. Watch software volatility (SaaSpocalypse) and any Iran headline gap in oil.
+
+## 📡 Social & Market Signals
+- **Tom Lee / Fundstrat — S&P 8,000 case** dominating YouTube: 129K views, 2.2K likes (Aug 6). CNBC's "Debating the road to S&P 8,000" adds 72K views.
+- **Hawkish Fed undertone:** Kashkari — *"now is the time to start slowly moving rates up"* (HN + YouTube); Schmid wants tighter policy; Ferguson sees **2 rate hikes this year/early next**; reports of Trump pushing to fire a Fed governor.
+- Polymarket: no live markets captured today.
+
+## 🔬 Science & Tech
+- Sunlight creates **quantum entanglement** once thought laser-only; **DeepMind hurricane breakthrough** surprises weather scientists; Mars rover self-driving success; Meta ruled a "public nuisance" over teen mental health.
+
+## 📰 Today's Papers
+No new PDFs — qbit check: **NONE**. Insights file stale (Jul 25, empty).
+
+**📄 PDF status:** no new papers downloaded this morning.
