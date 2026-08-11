@@ -1,0 +1,31 @@
+## 🌍 Global Macro
+- **Hormuz deadlock:** US & Iran trade reparation demands as deal hopes fade — oil traders' hope for a reopening "won't last forever" (CNBC).
+- **Ukraine:** Zelenskyy warns Putin is importing **North Korean missiles**; deadly overnight strikes (CNBC/BBC).
+- **Libya:** Drone strike on Zawiya refinery — **3rd in two days** (BBC) — fresh supply-side pressure on crude.
+
+## 🇺🇸 US Domestic
+- **Wall Street endorses Jensen Huang's "big concept" for AI** — capex narrative intact (CNBC).
+- **Intel** upsizes stock offering to **$20B at $95/share** on AI demand — funds the buildout, dilutive to holders (CNBC).
+- **Gap caution:** Barclays says stay away (CNBC).
+
+## 💼 Business & Markets
+- **Nvidia** partners with Wall Street firms on **$500B AI financing** (CNBC).
+- **Fed hawk tilt:** Schmid — "primary concern is inflation" — pushes rates higher; mortgages hit **6.69%** (CNBC).
+- **Futures:** mixed-to-lower overnight after a strong Friday; social chatter flags **S&P 7,758 resistance**.
+- Aerospace: Embraer keeps outpacing Boeing/Airbus (buy zone); Rocket Lab slides on possible **Neutron delays**.
+
+## 📡 Social & Market Signals
+- Top YouTube: "**S&P 500 at 7,758 RESISTANCE** | Nasdaq & Dow Futures" (Aug 11); Steve Miller SPX/NDX outlook — **~4.9K views, 220 likes** (Aug 8).
+- X @CB3_LIVE: stakes for this week's inflation data "just got higher" after Friday's **jobs wrinkle**.
+- Reddit economy briefing: Hormuz closed, **gas $1+ above pre-war**, ~23K July jobs lost, possible **Sept Fed hike**.
+- Polymarket/HN: no fresh signals (degraded engine run).
+
+## 🔬 Science & Tech
+- **GLP-1 pill:** up to 12% weight loss in 36 weeks (ScienceDaily).
+- Meta pitches **new open models** in another AI-strategy reboot; Amazon backs a gas plant that may become the **top US climate polluter**.
+- Voyager 2 gets a power extension; Europe's rare **total solar eclipse** livestream this week.
+
+## 📊 Market Impact
+Hawkish Fed + shut Hormuz + Libya strikes = **inflation-risk bid**: higher yields, elevated oil, margin squeeze on growth. AI-capex megadeals (Nvidia $500B, Intel $20B) cushion semis. Expect a **cautious, range-bound open**; this week's CPI is the pivot — a hot print flips the September-hike chatter into real pressure on both indices.
+
+📰 **Papers:** No new PDFs today — qbit check-new returned **NONE**; WSJ/FT/NYT/Guardian insights unavailable (downloader paused).
