@@ -1,0 +1,13 @@
+{
+  "type": "market_chatter",
+  "date": "2026-08-14",
+  "timestamp": "2026-08-14T18:05:11.136823",
+  "sections": {
+    "preamble": "# 🌆 Market Chatter — Fri, Aug 7, 2026\n\n[No data from twitter — source returned nothing today]",
+    "🐦 Social Sentiment": "Active day on r/wallstreetbets, heavy on YOLO-style plays: **ONDS $175,000 YOLO**, **Pltr yolo… again**, and **SNDK $13K+ in a morning (Held slightly too long)**. Win posts are flying too — **43K gains in $TEAM**, plus a **Charter Communications potential rerate $CHTR** thesis. Ticker rollup today: CHTR, IREN, MSFT, MW, and NVDA each drew single mentions. One calendar note from r/stocks: **Reddit to join S&P 500 index on Aug. 18**.",
+    "Response": "# 🌆 Market Chatter — Thu, Aug 13, 2026\n\n[No data from twitter — source removed (auth expired 2026-07-15)]",
+    "📉 After-Hours / Market Analysis": "Per Yahoo Finance: **AARP issues urgent call on Medicare drug costs** — a health-policy headline with potential read-through for drug pricing sentiment. Also per Yahoo Finance: **Why fast food chains like McDonald's and Starbucks are going all in on energy drinks** — a consumer-strategy piece on QSR chains. No earnings-reaction or market-close coverage in today's feed.",
+    "🔮 Next Day Setup": "The one forward-looking item in today's data: **Reddit joins the S&P 500 index on Aug. 18** — index inclusion typically draws passive buying into the close, so RDDT is the name to watch. The AARP call on Medicare drug costs could keep pressure on pharma pricing chatter. Otherwise, no strong directional signals in today's headlines."
+  },
+  "char_count": 9586
+}
