@@ -1,0 +1,15 @@
+{
+  "type": "daily_brief",
+  "date": "2026-08-14",
+  "timestamp": "2026-08-14T18:05:11.132911",
+  "sections": {
+    "preamble": "# ☀️ Morning Brief — Fri, Aug 14, 2026",
+    "🌍 Global Macro": "- **Iran escalation:** US vows economic tactics \"that have never been seen\" — Bessent cites **economic isolation + Strait of Hormuz blockade**, possibly \"indefinite.\" **Risk:** oil supply premium, defensive rotation into Friday's close. (CNBC)\n- **Tariff gauge:** A niche copper exchange spread has become a **real-time barometer of Trump's next tariff move** — metals desks watching for policy signals. (CNBC)\n- **AI leverage warning:** AI's infrastructure boom is increasingly funded via **bonds, leases, private capital** — leverage is piling up and getting harder to track. (CNBC)\n- Japan PM Takaichi slams Putin's Kuril Islands visit; \"unprecedented\" Japan rain kills 8.",
+    "🇺🇸 US Domestic": "- **Treasury yields little changed** despite Iran threats — bond market holding calm. (CNBC)\n- **Premarket movers:** Reddit, Applied Materials, Sandisk, Wayfair. (CNBC)\n- US report: dozens of countries **helped China dodge tariffs** — fresh trade-war friction. (BBC)",
+    "💼 Business & Markets": "- **S&P 500 above 7,800 — first-time all-time high** on soft PPI; record as inflation cools. **Futures mixed** overnight, tech shares gaining. (Social pulse, X/YouTube)\n- **Credit card debt hits $1.26T** — consumer-strain flag; resort mall/hotel files Chapter 11. (Yahoo)\n- Goldman: higher-rated corporate debt \"might not be the best trade\" amid AI supply. (CNBC)",
+    "📡 Social & Market Signals": "- YouTube (Verified Investing): *\"S&P 500 Hits All-Time Highs As Soft PPI Triggers Breakouts\"* — **16.6K views, 1,089 likes, 46 comments**.\n- X chatter: **Barkin says Fed rate hike \"remains an open question\"**; CPI eases hike pressure; Pimco: Fed credibility intact, **Treasury yields attractive**.",
+    "🔬 Science & Tech": "- **Starlink repurposed as giant upper-atmosphere scanner**; JWST captures \"cosmic lion\"; adult brain repairs itself better than thought.\n- Tech: private security firms cleared to **hack overseas cybercriminals**; Virgin Galactic crowdsources Delta-class name; Ukrainian drones wipe out US tank brigade in live wargame.",
+    "📰 Today's Papers": "- **No paper insights available** — `daily_paper_insights.json` is stale (Jul 25, empty). Skipped, not fabricated.\n\n---\n**📄 Newspaper PDFs:** No completed downloads queued (`qbit check-new` → NONE).\n\n**Bottom line:** Record-high tape (S&P >7,800) on disinflation momentum vs. **Iran blockade headlines**, elevated **AI credit leverage**, and a hawkish Barkin footnote — expect a cautious-but-bid open, oil-sensitive sectors under watch, Treasuries rangebound."
+  },
+  "char_count": 2559
+}
