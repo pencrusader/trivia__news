@@ -1,0 +1,8 @@
+# 🐦 Social Sentiment
+Nvidia earnings dominated Reddit chatter today. From r/stocks: "NVDA Quarterly Revenue $96.2 billion (up 106% YoY)" and "Nvidia reports earnings beat as revenue more than doubles". Salesforce was the other earnings headline: "Salesforce stock jumps 14% on AI growth and Anthropic investment gain - Q2 results". r/wallstreetbets cheered "saved the market today" and hyped a pump meme, alongside "BBWI earnings play" and the valuation debate "opportunity before GTA VI, or a valuation trap?". Ticker mentions were thin; no single name dominated the rollup.
+
+# 📉 After-Hours / Market Analysis
+AI earnings led the tape. Per CNBC Earnings: CrowdStrike "jumps 11% on record second quarter as 'Mythos moment' drives AI cyber wave"; Okta "pops 20% after topping estimates as AI threat spikes demand for identity security"; Salesforce "jumps 12% on AI growth and Anthropic investment gain". Per Yahoo Finance: "Louis Navellier has blunt message on Nvidia's reign before earnings" — a valuation caution ahead of the AI leader's report. Haidilao shares also jumped on delivery growth and new restaurant brands. Twitter/X remains unavailable (channel removed — auth expired).
+
+# 🔮 Next Day Setup
+Thursday's open hinges on the NVDA reaction to today's beat — the whole AI complex likely follows. Momentum in AI-driven cybersecurity (CrowdStrike, Okta) and software (Salesforce) points to continued strength in AI names. No other calendar signals in today's headlines.
